@@ -1,7 +1,7 @@
 clrmamepro (
 	name "The 3DO Company - 3DO"
 	description "The 3DO Company - 3DO"
-	version "2017.01.14"
+	version "2017.5.25"
 	homepage "http://github.com/robloach/libretro-dats"
 )
 
@@ -156,6 +156,144 @@ game (
 )
 
 game (
+	name "Adult\Blonde Justice"
+	description "Adult\Blonde Justice"
+	rom ( name "Blonde Justice.cue" size 103 crc 52A86233 md5 918C336DA8F4022AE2159B140BF6FF8B sha1 530CC852D5E3DA78924802233F96DDBF345D5208 )
+)
+
+game (
+	name "Adult\Bodyconscious Digital Rave! Part 1 - Shinjuku & Takasaki"
+	description "Adult\Bodyconscious Digital Rave! Part 1 - Shinjuku & Takasaki"
+	rom ( name "Bodyconscious Digital Rave! Part 1 - Shinjuku & Takasaki.cue" size 997 crc 983b3e5d md5 863009427565408d885249e5029d89b8 sha1 e2af715baa50427e1bc7a878fdeb935de8f9d9ee )
+)
+
+game (
+	name "Adult\Coven, The"
+	description "Adult\Coven, The"
+	rom ( name "Coven, The.cue" size 99 crc 311CBDDC md5 3DB033E9F52C2496FB34860BB5FAF50B sha1 5BA054EE231537308A45AA8846571A9D0B901F09 )
+)
+
+game (
+	name "Adult\endlessly"
+	description "Adult\endlessly"
+	rom ( name "endlessly.cue" size 98 crc BF59332B md5 EBD27EAB5E5D393D59587560BF9CB680 sha1 EECC50546F7BDF2E802E37993057089887695E3D )
+)
+
+game (
+	name "Adult\endlessly"
+	description "Adult\endlessly"
+	rom ( name "endlessly.cue" size 98 crc BF59332B md5 EBD27EAB5E5D393D59587560BF9CB680 sha1 EECC50546F7BDF2E802E37993057089887695E3D )
+)
+
+game (
+	name "Adult\Immortal Desire"
+	description "Adult\Immortal Desire"
+	rom ( name "Immortal Desire.cue" size 104 crc 78E5D4B4 md5 1C86A6CC6C6B00CB6F137AC0E16D2F0F sha1 65AD66938D39D144F93D9F6EEADFCB492A8B58D5 )
+)
+
+game (
+	name "Adult\Love Bites"
+	description "Adult\Love Bites"
+	rom ( name "Love Bites.cue" size 929 crc df73d974 md5 c28fe3dbebf4f44b045ef21aada4a313 sha1 121ebc554d837e1b1632984254a1d416f0382a88 )
+)
+
+game (
+	name "Adult\Mind Teazzer"
+	description "Adult\Mind Teazzer"
+	rom ( name "Mind Teazzer.cue" size 931 crc 0cea87b3 md5 2d7f43e896ea7db8829a376b4bc91281 sha1 4c9e30cf8772807c3f18ec44c7e89f1befe24868 )
+)
+
+game (
+	name "Adult\NeuroDancer - Journey Into The Neuronet!"
+	description "Adult\NeuroDancer - Journey Into The Neuronet!"
+	rom ( name "NeuroDancer - Journey Into The Neuronet!.cue" size 129 crc C0305E28 md5 824D863308056C273938DFB3E38D3229 sha1 81A5A7F8D810A48A356FCC0ABE5EBB25A7518D78 )
+)
+
+game (
+	name "Adult\Onee-san to Isshoo! Kise Kae Paradise"
+	description "Adult\Onee-san to Isshoo! Kise Kae Paradise"
+	rom ( name "Onee-san to Isshoo! Kise Kae Paradise.cue" size 956 crc ca3318e8 md5 60556a79cbe391170742f83c2d05ad2d sha1 2f50bb7ea7253fa815930b8f60cdcae65ddfed42 )
+)
+
+game (
+	name "Adult\Onee-san to Isshoo! Shanken Paradise"
+	description "Adult\Onee-san to Isshoo! Shanken Paradise"
+	rom ( name "Onee-san to Isshoo! Shanken Paradise.cue" size 977 crc 0bca90a2 md5 e07e6aa644bdc21a97a0ba1b2bf3e746 sha1 1455646b64eceb51a9daa1c1463e14da5810ef00 )
+)
+
+game (
+	name "Adult\Penthouse Interactive - Virtual Photo Shoot Vol. 1"
+	description "Adult\Penthouse Interactive - Virtual Photo Shoot Vol. 1"
+	rom ( name "Penthouse Interactive - Virtual Photo Shoot Vol. 1.cue" size 991 crc ec6284bf md5 2f56376a93b1a24327aff3d8eacd6d5f sha1 a5ccebdc04c64fa4c3067980267aeb82dc205b39 )
+)
+
+game (
+	name "Adult\Plumbers Don't Wear Ties"
+	description "Adult\Plumbers Don't Wear Ties"
+	rom ( name "Plumbers Don't Wear Ties.cue" size 943 crc 0e45ddf4 md5 5b5d6dda8c20b7c426d4d774741fb980 sha1 e4b643fcf3a01c56efa748640575f8b33022f612 )
+)
+
+game (
+	name "Adult\Sex"
+	description "Adult\Sex"
+	rom ( name "Sex.cue" size 92 crc 2368EA06 md5 2A1A3E6B43F3F152FB14D8AA3A285C18 sha1 E2A7CF2D1BA87721C564634AA0738D1CBA838080 )
+)
+
+game (
+	name "Adult\Super Model, The - Gail McKenna"
+	description "Adult\Super Model, The - Gail McKenna"
+	rom ( name "Super Model, The - Gail McKenna.cue" size 950 crc 0847208a md5 d3d245091db4cf9ffc6bc3d88b39217c sha1 2f50e8321562b939a33d04b1a3e186b86e0d714e )
+)
+
+game (
+	name "Adult\Twinkle Knights"
+	description "Adult\Twinkle Knights"
+	rom ( name "Twinkle Knights.cue" size 956 crc 05ba925a md5 98094badb7ce5958617ab36f28c7a762 sha1 7c07f513a43ddcf870ab5966c91a7e76a973167c )
+)
+
+game (
+	name "Adult\Virtual Cameraman Part 1 - Naomi Sawada & Anna Juri"
+	description "Adult\Virtual Cameraman Part 1 - Naomi Sawada & Anna Juri"
+	rom ( name "Virtual Cameraman Part 1 - Naomi Sawada & Anna Juri.cue" size 970 crc a346b644 md5 d2abff926b35ac4f0a8dbefc1882c548 sha1 9bd4813b3e664d3a2b2b8a93cb1d6a02ce78373b )
+)
+
+game (
+	name "Adult\Virtual Cameraman Part 2 - Natsumi Kawai & Kimi Tachihara"
+	description "Adult\Virtual Cameraman Part 2 - Natsumi Kawai & Kimi Tachihara"
+	rom ( name "Virtual Cameraman Part 2 - Natsumi Kawai & Kimi Tachihara.cue" size 976 crc 4e97c023 md5 e01f5776b90cfd66bf3033d735eebf3c sha1 126c3e8fa32681207150b3176430d77077007431 )
+)
+
+game (
+	name "Adult\Virtual Cameraman Part 3 - Yumika Sugimoto"
+	description "Adult\Virtual Cameraman Part 3 - Yumika Sugimoto"
+	rom ( name "Virtual Cameraman Part 3 - Yumika Sugimoto.cue" size 961 crc f0deceba md5 1ecf0bb3cb468308bd3e8a3621f51090 sha1 b262701fde8dc329bc7a1a2bc6b2522c94523524 )
+)
+
+game (
+	name "Adult\Virtual Cameraman Part 4 - Shiori Fujitani"
+	description "Adult\Virtual Cameraman Part 4 - Shiori Fujitani"
+	rom ( name "Virtual Cameraman Part 4 - Shiori Fujitani.cue" size 961 crc 1172d27a md5 38c4323651e11623b1d825263675e626 sha1 2311a3000e950976c6f5321a9986b00e5f6e6280 )
+)
+
+game (
+	name "Adult\Virtual Cameraman Part 5 - Yuri Andou"
+	description "Adult\Virtual Cameraman Part 5 - Yuri Andou"
+	rom ( name "Virtual Cameraman Part 5 - Yuri Andou.cue" size 956 crc 2e4626b7 md5 95453508d765dd8f3fb50bef5e9b1d1d sha1 92ae3074da0577d24e7246073852b9234fd28814 )
+)
+
+game (
+	name "Adult\Virtual Vivid (#01)"
+	description "Adult\Virtual Vivid (#01)"
+	rom ( name "Virtual Vivid (#01).cue" size 938 crc 282c0d05 md5 841db760b8ed3184a5fb55cd6f171773 sha1 ec804fe7e961916b5b5a0df3b78c2e296ebfdc21 )
+)
+
+game (
+	name "Adult\Virtual Vivid (RE1)"
+	description "Adult\Virtual Vivid (RE1)"
+	rom ( name "Virtual Vivid (RE1).cue" size 108 crc 6EAF5A81 md5 4B6C808E4D630AF70BA704C8B60EABC1 sha1 E667B8E8B39874625A98553EE770837842D400BA )
+)
+
+game (
 	name "AI Shougi (1995)(Taito)(JP)"
 	description "AI Shougi (1995)(Taito)(JP)"
 	rom ( name "AI Shougi (1995)(Taito)(JP).cue" size 116 crc 7c9edbc6 md5 1306778e12a2a39b8c8da648c744f33d sha1 559fd5b7d406d7e3a816df8ab8c594e417595b1a )
@@ -207,6 +345,60 @@ game (
 	name "Another World (1994)(Interplay)(EU)[!]"
 	description "Another World (1994)(Interplay)(EU)[!]"
 	rom ( name "Another World (1994)(Interplay)(EU)[!].cue" size 127 crc c694cdbd md5 e6122b0a87acc1f685b784fb5b72d9ba sha1 52c2c9cb307eb1f2e44f364240df2f3c381985bd )
+)
+
+game (
+	name "Applications\3DO Game Guru"
+	description "Applications\3DO Game Guru"
+	rom ( name "3DO Game Guru.cue" size 102 crc 4DC894FF md5 D423D89C790838D0654F791D4DE2A9B2 sha1 82869459F901D01AE5BBB08BFF2A3A8AA5119146 )
+)
+
+game (
+	name "Applications\3DO Game Guru"
+	description "Applications\3DO Game Guru"
+	rom ( name "3DO Game Guru.cue" size 102 crc 4DC894FF md5 D423D89C790838D0654F791D4DE2A9B2 sha1 82869459F901D01AE5BBB08BFF2A3A8AA5119146 )
+)
+
+game (
+	name "Applications\FB Battery Navi Ver.II"
+	description "Applications\FB Battery Navi Ver.II"
+	rom ( name "FB Battery Navi Ver.II.cue" size 941 crc 87cd691b md5 99e36fc17df90e47b9e3f526c8671a05 sha1 740f62794f0a3a4a8b58292baf5955796d75cd4d )
+)
+
+game (
+	name "Applications\Nais How's 1 - Front How's '95-'96"
+	description "Applications\Nais How's 1 - Front How's '95-'96"
+	rom ( name "Nais How's 1 - Front How's '95-'96.cue" size 975 crc 1bf20b12 md5 554a99a425b48fd044c7939fd705d1d0 sha1 6e93a71ce9d2a129808080ee9233cd65755f3b77 )
+)
+
+game (
+	name "Applications\New How's 1 - Front How's '94-'95"
+	description "Applications\New How's 1 - Front How's '94-'95"
+	rom ( name "New How's 1 - Front How's '94-'95.cue" size 974 crc 538b12d3 md5 524f0faae4ddc3df7032f708e9f364da sha1 0e745ba0463c4d94fb1f5dd9315d91fecf155e2a )
+)
+
+game (
+	name "Applications\Storage Manager (Packaged with Memory Unit FZ-EM256)"
+	description "Applications\Storage Manager (Packaged with Memory Unit FZ-EM256)"
+	rom ( name "Storage Manager (Packaged with Memory Unit FZ-EM256).cue" size 993 crc caf3218f md5 2345633fa193cc67109827311810ac35 sha1 77fb723f6ca2e74d6af23d0ca8f471dea22d6200 )
+)
+
+game (
+	name "Applications\TOYOPET Outdoor World"
+	description "Applications\TOYOPET Outdoor World"
+	rom ( name "TOYOPET Outdoor World.cue" size 962 crc c19fbbd1 md5 1b1f25f8751049691ef0c14a4f26a208 sha1 afa91794f982a726903ac3d2513b4780f4943d8a )
+)
+
+game (
+	name "Applications\TOYOPET RV Paddock"
+	description "Applications\TOYOPET RV Paddock"
+	rom ( name "TOYOPET RV Paddock.cue" size 107 crc FC19C052 md5 4B6B5F09EA46EA95D293BDD564B10606 sha1 38D63E72DF97267893D804641C2DDA1441205DDE )
+)
+
+game (
+	name "Applications\Toyopet RV World"
+	description "Applications\Toyopet RV World"
+	rom ( name "Toyopet RV World.cue" size 957 crc 1fd75a53 md5 75994e8737ae87f065835c3b9e42d149 sha1 d0bc070b157fc35d2f1405da35202d10b6e99d14 )
 )
 
 game (
@@ -483,6 +675,156 @@ game (
 	name "Coven, The (1994)(Vivid Interactive)(US)"
 	description "Coven, The (1994)(Vivid Interactive)(US)"
 	rom ( name "Coven, The (1994)(Vivid Interactive)(US).cue" size 129 crc 7cdaf3a3 md5 61f437b5ae92a4950f5d11ba6463b6dc sha1 921e68634bf49f9c86e06721c10316b697b6d349 )
+)
+
+game (
+	name "Coverdiscs\3DO Interactive Cover Disc One (Bundled with Console)"
+	description "Coverdiscs\3DO Interactive Cover Disc One (Bundled with Console)"
+	rom ( name "3DO Interactive Cover Disc One (Bundled with Console).cue" size 119 crc 6A71FF3A md5 B75E218A24B1CA026CC5D5928E56B11B sha1 0816B9687B83077870ED63F65331F85371C991E5 )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 01 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 01 (United Kingdom)"
+	rom ( name "3DO Magazine 01 (United Kingdom).cue" size 121 crc B77CC378 md5 002F248413881A379F4391390CC46EAE sha1 203BF0D512A180A5F80DC422E65E50A4097D9A7F )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 02 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 02 (United Kingdom)"
+	rom ( name "3DO Magazine 02 (United Kingdom).cue" size 973 crc a564861d md5 51b57b171a36358df7be13772e0c4b3c sha1 00a3374c252b5136fb09732a0e056a102295d931 )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 03 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 03 (United Kingdom)"
+	rom ( name "3DO Magazine 03 (United Kingdom).cue" size 121 crc 974BE973 md5 01F65537B44773FD500F40E2E6AB4C10 sha1 AD8F69653C5558D92039C99132E18FE55A925808 )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 04 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 04 (United Kingdom)"
+	rom ( name "3DO Magazine 04 (United Kingdom).cue" size 121 crc 0AB1814B md5 BCA5A2FB0249A737B9BCA801F5631207 sha1 02EAFD022C45D55A3EED4DE9F9136C4D94BE3EDC )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 05 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 05 (United Kingdom)"
+	rom ( name "3DO Magazine 05 (United Kingdom).cue" size 121 crc F712976E md5 6D6B73B8D45C56F58818EC6C20D44A55 sha1 545F52A048EC4E91B78EB75117A2E2DB8D8D22C8 )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 06 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 06 (United Kingdom)"
+	rom ( name "3DO Magazine 06 (United Kingdom).cue" size 121 crc 2A86AB40 md5 A8903526572D01CAE9728FA1EB163C0A sha1 6AC9CEE3D5D7AD99EB87B0C4F1A3D7866E114318 )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 07 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 07 (United Kingdom)"
+	rom ( name "3DO Magazine 07 (United Kingdom).cue" size 98 crc EA591FF4 md5 3738B6B7CF8958FE70AC697EBE926BDE sha1 BF8E316F8984D7F5E4BEA24C497FCEC119B8BD55 )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 08 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 08 (United Kingdom)"
+	rom ( name "3DO Magazine 08 (United Kingdom).cue" size 951 crc 2a08c139 md5 41e8065677debb77c5b3f42fe0b5778f sha1 5ef9cd01fe078593c6c89221cf7e95a5334b72fe )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 09 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 09 (United Kingdom)"
+	rom ( name "3DO Magazine 09 (United Kingdom).cue" size 121 crc 37A06B54 md5 5496100D429ADEC164EE66384F252D22 sha1 60D0CFC0E6B07F68252316BCD088D8F727AD194F )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 10 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 10 (United Kingdom)"
+	rom ( name "3DO Magazine 10 (United Kingdom).cue" size 121 crc 0126A20C md5 AE217CB59EE872B528291945A0786FFA sha1 65D411F9F5274CB02C7862D47B2947345EB17EE7 )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 11 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 11 (United Kingdom)"
+	rom ( name "3DO Magazine 11 (United Kingdom).cue" size 121 crc FC85B429 md5 9F380CDF5DF483F136C8849B361FFCF7 sha1 6431FD71F5365F077B202AF0195E0911839CE40E )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 12 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 12 (United Kingdom)"
+	rom ( name "3DO Magazine 12 (United Kingdom).cue" size 121 crc 21118807 md5 F8A4FCB3FE1E1295707EB8F0F7294633 sha1 ACB0A26D9D6F574CB40C096EA3303B81903FCF9F )
+)
+
+game (
+	name "Coverdiscs\3DO Magazine 13 (United Kingdom)"
+	description "Coverdiscs\3DO Magazine 13 (United Kingdom)"
+	rom ( name "3DO Magazine 13 (United Kingdom).cue" size 121 crc DCB29E22 md5 D07DE5F4905B667D65A32BA1918B7A36 sha1 6D6DDC466BB93EC0D49C3C21B9A213644FFB0859 )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #01"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #01"
+	rom ( name "Live! 3DO Magazine CD-ROM #01.cue" size 948 crc a8112291 md5 edc184626617e15d7bb5d7e04b614abb sha1 1a6c09e9bc654d9847e5ae25db082faada9acccc )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #02"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #02"
+	rom ( name "Live! 3DO Magazine CD-ROM #02.cue" size 118 crc 0A7A156E md5 BB91799BA379803F00D367BA1329024A sha1 2442004501CE97390D7C8437A964F2CCB4AD82C4 )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #03"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #03"
+	rom ( name "Live! 3DO Magazine CD-ROM #03.cue" size 970 crc cdd14602 md5 82c175c4763b9ec9f9e3c5875f1f234c sha1 43a08eb3ee79a6f83f67d9c517c2b6b42482f54c )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #04"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #04"
+	rom ( name "Live! 3DO Magazine CD-ROM #04.cue" size 970 crc 402d4052 md5 7cc2cf3ce128ef5068a7455348c06465 sha1 c2ffea41500c270d6faf5364765a2608d6c48642 )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #05"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #05"
+	rom ( name "Live! 3DO Magazine CD-ROM #05.cue" size 970 crc 938fdeb9 md5 7bff9f441cf05497a7c1b5ca989d4c68 sha1 ef7e5ddcb0c01d50363afa135b04f1c65395ef37 )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #06"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #06"
+	rom ( name "Live! 3DO Magazine CD-ROM #06.cue" size 118 crc 263E27D3 md5 98090BBDEBFF7416EE8895D95F48DF77 sha1 9C305CFD9BA791D4CAFEE9C80B1766B94B8BB78C )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #07"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #07"
+	rom ( name "Live! 3DO Magazine CD-ROM #07.cue" size 948 crc 79b46229 md5 3509c0f25807e93a39f28acdb4cb0fde sha1 1cd7b569d798b34dab55f2d03315746e0d556110 )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #08"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #08"
+	rom ( name "Live! 3DO Magazine CD-ROM #08.cue" size 948 crc 2eb6a03d md5 390df9310f37dc1cdf940f1b70eab86f sha1 a2cbd8bf0417a0a65867651a27d22db1fdb01272 )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #09"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #09"
+	rom ( name "Live! 3DO Magazine CD-ROM #09.cue" size 948 crc a28bc240 md5 dcd0b54efcc46d5d8320743ce1c0905b sha1 3c46f21f5686d1f77e60d51799e74f32755612ef )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #10"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #10"
+	rom ( name "Live! 3DO Magazine CD-ROM #10.cue" size 118 crc 47FB6F60 md5 F1A325C2039DC1A1A3282FBAE5AA99B3 sha1 A2505815F08FFE262E7B477E407A0F03D07EF095 )
+)
+
+game (
+	name "Coverdiscs\Live! 3DO Magazine CD-ROM #11"
+	description "Coverdiscs\Live! 3DO Magazine CD-ROM #11"
+	rom ( name "Live! 3DO Magazine CD-ROM #11.cue" size 948 crc e4c8f27b md5 79bb381a4655262c2bade85e6f7f9e84 sha1 4cb83383fdd9bb42e3fb741bf201296f866e26c0 )
 )
 
 game (
@@ -798,6 +1140,258 @@ game (
 )
 
 game (
+	name "Educational\3DO TES"
+	description "Educational\3DO TES"
+	rom ( name "3DO TES.cue" size 948 crc c214d9f1 md5 ccd3b3547bce4c53db6d75d15953f7ba sha1 072b076dd42db65ceffdfae9526d458d8bdb1162 )
+)
+
+game (
+	name "Educational\Bonogurashi"
+	description "Educational\Bonogurashi"
+	rom ( name "Bonogurashi.cue" size 930 crc bccfbcc6 md5 cfcc631d61b84f4327f188d218ef95bf sha1 d4a4196c3477f1e54f58419c6a1f94495eec28be )
+)
+
+game (
+	name "Educational\DinoPark Tycoon"
+	description "Educational\DinoPark Tycoon"
+	rom ( name "DinoPark Tycoon.cue" size 104 crc 6043CA79 md5 A519342D96928690E5A67D38C4910C84 sha1 5AECB96A40F81466C7D47EA843C771575C585382 )
+)
+
+game (
+	name "Educational\Fatty Bear no Bikkuri Tanjoubi!"
+	description "Educational\Fatty Bear no Bikkuri Tanjoubi!"
+	rom ( name "Fatty Bear no Bikkuri Tanjoubi!.cue" size 972 crc 3ae4aed3 md5 197758c77fea4135182860e688cbcb1a sha1 953e430c8423f62ece8ab214718b240e3388f780 )
+)
+
+game (
+	name "Educational\Fatty Bear's Birthday Surprise"
+	description "Educational\Fatty Bear's Birthday Surprise"
+	rom ( name "Fatty Bear's Birthday Surprise.cue" size 949 crc 96630a0d md5 5d488aa8549a99abd21e4d899df2eba2 sha1 a8e03dfbc2492ad96b3888b26cbcff2bc59bc02c )
+)
+
+game (
+	name "Educational\Fatty Bear's Funpack"
+	description "Educational\Fatty Bear's Funpack"
+	rom ( name "Fatty Bear's Funpack.cue" size 939 crc 248a7eed md5 7423022bbf9c702787e7e0fce243e5ad sha1 10a7fbbf421ffe6c070f911c6614c6da364f7870 )
+)
+
+game (
+	name "Educational\Fatty Bear's Funpack"
+	description "Educational\Fatty Bear's Funpack"
+	rom ( name "Fatty Bear's Funpack.cue" size 939 crc 18460acb md5 83a94ae6b9da356e62581d63742162ee sha1 2177dd680f6b29b4692a2c8275af5ff843b16d21 )
+)
+
+game (
+	name "Educational\Fun 'n Games"
+	description "Educational\Fun 'n Games"
+	rom ( name "Fun 'n Games.cue" size 931 crc cd547464 md5 1d3f240a780ab907512fc61ccf44b6eb sha1 82d52b45f1691f4ef072b75dd68faa21cb9b8254 )
+)
+
+game (
+	name "Educational\Fun 'n Games - Soft no Omochabai"
+	description "Educational\Fun 'n Games - Soft no Omochabai"
+	rom ( name "Fun 'n Games - Soft no Omochabai.cue" size 951 crc 5c05b66f md5 e841eb4d0e0443e75be82fb946d71635 sha1 7ca155cb275ff546831ce044be1aa54dd1a9dc73 )
+)
+
+game (
+	name "Educational\Gakkou no Kowai Uwasa - Hanako-san ga Kita!!"
+	description "Educational\Gakkou no Kowai Uwasa - Hanako-san ga Kita!!"
+	rom ( name "Gakkou no Kowai Uwasa - Hanako-san ga Kita!!.cue" size 133 crc 183203E7 md5 4FD2A8F79789FFA1FA4CFAC5A7087AD1 sha1 6B39D508F68DB96298E87D8AA7C4AE8BDE3B9037 )
+)
+
+game (
+	name "Educational\Gateway to English - Eigo de Go!"
+	description "Educational\Gateway to English - Eigo de Go!"
+	rom ( name "Gateway to English - Eigo de Go!.cue" size 973 crc f4666a15 md5 75b44ce23b9ad4f9cc99211d43df4e87 sha1 df7b18e4412f28ca90bef0abe475768410fb4f9d )
+)
+
+game (
+	name "Educational\Grimm Meisaku Gekijou 1 - Bremen no Ongakutai"
+	description "Educational\Grimm Meisaku Gekijou 1 - Bremen no Ongakutai"
+	rom ( name "Grimm Meisaku Gekijou 1 - Bremen no Ongakutai.cue" size 134 crc CE39AD38 md5 79CC9E06D9DF7BCB2ADD4B1EC6872119 sha1 92FF469599028F2751B537F8F7CBD61C1174F743 )
+)
+
+game (
+	name "Educational\Grimm Meisaku Gekijou 2 - Hansel to Gretel"
+	description "Educational\Grimm Meisaku Gekijou 2 - Hansel to Gretel"
+	rom ( name "Grimm Meisaku Gekijou 2 - Hansel to Gretel.cue" size 961 crc e6358169 md5 90a6fbd1bad6d38a75336a60a8b1faf7 sha1 8732e25475cd7c5294cc307d44fd97193a68495a )
+)
+
+game (
+	name "Educational\Grimm Meisaku Gekijou 3 - Akazukin"
+	description "Educational\Grimm Meisaku Gekijou 3 - Akazukin"
+	rom ( name "Grimm Meisaku Gekijou 3 - Akazukin.cue" size 975 crc 74c705fa md5 fb698d7809f3f157da9f89bb3b950821 sha1 3a4aa4cd6156a2d99cdb3e4bfba3e03f547f3e74 )
+)
+
+game (
+	name "Educational\Hello Kitty - Asobi no Omocha Bako"
+	description "Educational\Hello Kitty - Asobi no Omocha Bako"
+	rom ( name "Hello Kitty - Asobi no Omocha Bako.cue" size 953 crc a1db3d36 md5 278bd09ed0f25b8318375a6224ec5c23 sha1 067432746cd9489673c3bbd56b8abff1dfd2f6a4 )
+)
+
+game (
+	name "Educational\Hirata Shiyougo Interactive Ehon - Aesop Monogatari 1"
+	description "Educational\Hirata Shiyougo Interactive Ehon - Aesop Monogatari 1"
+	rom ( name "Hirata Shiyougo Interactive Ehon - Aesop Monogatari 1.cue" size 972 crc 898ec4bb md5 13fb69b807d487a1139c0ab70cfd2971 sha1 b723174d7a36b38a25025fc3952d4d66f2cb4365 )
+)
+
+game (
+	name "Educational\Hirata Shiyougo Interactive Ehon - Cinderella"
+	description "Educational\Hirata Shiyougo Interactive Ehon - Cinderella"
+	rom ( name "Hirata Shiyougo Interactive Ehon - Cinderella.cue" size 986 crc 1ad95ada md5 9a72960fa52203197db4c17c34ddf0e8 sha1 ebeb94c500e54898cf42d4a2b07f01dacaf5cc50 )
+)
+
+game (
+	name "Educational\Hirata Shiyougo Interactive Ehon - Ningyohime"
+	description "Educational\Hirata Shiyougo Interactive Ehon - Ningyohime"
+	rom ( name "Hirata Shiyougo Interactive Ehon - Ningyohime.cue" size 964 crc 2221cfab md5 6d53852dbcc807c8c181e7d072e1994d sha1 a60f664407efc33481ca6bb9645b5abfaf36a08d )
+)
+
+game (
+	name "Educational\Hirata Shiyougo Interactive Ehon - Ookami to Shichihiki no Ko Yagi"
+	description "Educational\Hirata Shiyougo Interactive Ehon - Ookami to Shichihiki no Ko Yagi"
+	rom ( name "Hirata Shiyougo Interactive Ehon - Ookami to Shichihiki no Ko Yagi.cue" size 1007 crc 2dc0916a md5 a0eb4247ed8c0dcf33b14f13ea3af24f sha1 9e973fb92947aea9ae3c67c544867b93a6008f2c )
+)
+
+game (
+	name "Educational\Hirata Shiyougo Interactive Ehon - Sanbiki no Kobuta"
+	description "Educational\Hirata Shiyougo Interactive Ehon - Sanbiki no Kobuta"
+	rom ( name "Hirata Shiyougo Interactive Ehon - Sanbiki no Kobuta.cue" size 993 crc e9aced79 md5 8e78ecd877beaa3af6f75a9a481967b2 sha1 744d364465aeb480ded4e62e02699a5faf25dc4a )
+)
+
+game (
+	name "Educational\Hirata Shiyougo Interactive Ehon - Shirayukihime"
+	description "Educational\Hirata Shiyougo Interactive Ehon - Shirayukihime"
+	rom ( name "Hirata Shiyougo Interactive Ehon - Shirayukihime.cue" size 967 crc 05c99b42 md5 5c0319ab9b8f05e370f5581b23c2dedd sha1 6514489d0fc20e7ba5a8114c54e1f8c548579d8c )
+)
+
+game (
+	name "Educational\Kero Kero Keroppi to Origami no Tabibito"
+	description "Educational\Kero Kero Keroppi to Origami no Tabibito"
+	rom ( name "Kero Kero Keroppi to Origami no Tabibito.cue" size 981 crc f57f6fbf md5 d87eb8ff10a98850364aef69399156b3 sha1 d72a105fbe871f877369805b69603d495b6d95d8 )
+)
+
+game (
+	name "Educational\Mathemagics - An Interactive Learning Cube"
+	description "Educational\Mathemagics - An Interactive Learning Cube"
+	rom ( name "Mathemagics - An Interactive Learning Cube.cue" size 961 crc 5bfca17c md5 ce5e71a74fad125ebf2fdce6b080778d sha1 e88ade0afe1f9711a1abdde23481cbb4ddac274c )
+)
+
+game (
+	name "Educational\Monoshiriji Yuugaku - Okura Hyakuninisshu-hen"
+	description "Educational\Monoshiriji Yuugaku - Okura Hyakuninisshu-hen"
+	rom ( name "Monoshiriji Yuugaku - Okura Hyakuninisshu-hen.cue" size 996 crc 81d4cb3a md5 d24c08673bcb0bf11fe7e44b148fe586 sha1 920db5632fcf453c00a7f21f44a53b9080e2d971 )
+)
+
+game (
+	name "Educational\Montana Jones"
+	description "Educational\Montana Jones"
+	rom ( name "Montana Jones.cue" size 932 crc 1c169ac3 md5 afa5f3f33485e0980a7f88f13cdcae69 sha1 aeffd6ea2439149cee617afa9e83f0ec1544d465 )
+)
+
+game (
+	name "Educational\Murphy Dayo Zenin Shuugou!!"
+	description "Educational\Murphy Dayo Zenin Shuugou!!"
+	rom ( name "Murphy Dayo Zenin Shuugou!!.cue" size 968 crc 80bfa06e md5 8e1640392cd6069b5f29477cdba6352b sha1 acbb6dd5f22614e9da261a8ad4308df27033bc74 )
+)
+
+game (
+	name "Educational\Naoko to Hide Suekane - Kanji no Tensai 1"
+	description "Educational\Naoko to Hide Suekane - Kanji no Tensai 1"
+	rom ( name "Naoko to Hide Suekane - Kanji no Tensai 1.cue" size 960 crc 4b6d786e md5 0a6979f3669e9b5f65ca12c76c54a083 sha1 8e9646eb89e9c543796dda16316fd2192f07c4e4 )
+)
+
+game (
+	name "Educational\Nemurenu Yoru no Chiisa Nao Hanashi"
+	description "Educational\Nemurenu Yoru no Chiisa Nao Hanashi"
+	rom ( name "Nemurenu Yoru no Chiisa Nao Hanashi.cue" size 976 crc 32f0c424 md5 b3c249894e63aabe2e1a40da3eee4092 sha1 0fc4b325ef26f85c89b9835b2c4172d411189854 )
+)
+
+game (
+	name "Educational\Nontan to Issho - Hoshi no Okurimono"
+	description "Educational\Nontan to Issho - Hoshi no Okurimono"
+	rom ( name "Nontan to Issho - Hoshi no Okurimono.cue" size 955 crc 89aad927 md5 30442aa60862336045b8aeb06a05aa99 sha1 9ac0617d9cc999359a19fff31b51bd7fdac80016 )
+)
+
+game (
+	name "Educational\Nontan to Issho - Nohara de Asobo"
+	description "Educational\Nontan to Issho - Nohara de Asobo"
+	rom ( name "Nontan to Issho - Nohara de Asobo.cue" size 974 crc 2eed42a8 md5 88ea7895b64bbff9f764d73312ca9d19 sha1 96312d9fdbd222f65eec764caffd9161d4b49ba0 )
+)
+
+game (
+	name "Educational\Peperon Mura no Shiki"
+	description "Educational\Peperon Mura no Shiki"
+	rom ( name "Peperon Mura no Shiki.cue" size 962 crc 46b29c52 md5 4b0f99a02d6231d93ffd68855f673350 sha1 9dc836eb37b499ba07714aba6e5de9610de3cf4d )
+)
+
+game (
+	name "Educational\Puppet Tale"
+	description "Educational\Puppet Tale"
+	rom ( name "Puppet Tale.cue" size 930 crc e6d51211 md5 917fa77f3b85cecaa6d1f400db8a092c sha1 96b3cca7cc11c65c09fc99909a2aa950f962af45 )
+)
+
+game (
+	name "Educational\Putt-Putt Goes to the Moon"
+	description "Educational\Putt-Putt Goes to the Moon"
+	rom ( name "Putt-Putt Goes to the Moon.cue" size 945 crc c40cbc28 md5 4ca7d1e8f21a7478e5cbe0cc27890d79 sha1 72a14aa56f76bf719c467cab390b4f0d4bbee857 )
+)
+
+game (
+	name "Educational\Putt-Putt Joins the Parade (CQ 6922-2)"
+	description "Educational\Putt-Putt Joins the Parade (CQ 6922-2)"
+	rom ( name "Putt-Putt Joins the Parade (CQ 6922-2).cue" size 957 crc 4a45c34a md5 c68a2da3fe746ee6e6b1c1ef05c27049 sha1 039eb1470bddfbc22ddbcf8855647f36e35799f1 )
+)
+
+game (
+	name "Educational\Putt-Putt Joins the Parade (CQ PARADE)"
+	description "Educational\Putt-Putt Joins the Parade (CQ PARADE)"
+	rom ( name "Putt-Putt Joins the Parade (CQ PARADE).cue" size 127 crc 5F59267B md5 0C41AC93365053915A800A93EF9CC4C2 sha1 DBB8973F2F4C16A710324A11E9FD349BB6B646C9 )
+)
+
+game (
+	name "Educational\Putt-Putt to Parade ni Ikou!"
+	description "Educational\Putt-Putt to Parade ni Ikou!"
+	rom ( name "Putt-Putt to Parade ni Ikou!.cue" size 969 crc 44deea03 md5 4d8c515d0ca63566e01bc4126e6851e4 sha1 92b9625c5a140e634276c6ab8b9d90e40b24e056 )
+)
+
+game (
+	name "Educational\Putt-Putt's Fun Pack"
+	description "Educational\Putt-Putt's Fun Pack"
+	rom ( name "Putt-Putt's Fun Pack.cue" size 109 crc C91F9C5F md5 9F4F23058507F5F975D0C64E96EFBEB6 sha1 9210553938CEEAC1149EB6B33D7D617254B2AE5E )
+)
+
+game (
+	name "Educational\Putt-Putt's Fun Pack"
+	description "Educational\Putt-Putt's Fun Pack"
+	rom ( name "Putt-Putt's Fun Pack.cue" size 939 crc e44c17e1 md5 638302fa456f4c7e328753bdb404427d sha1 0387320c0cd5a47348f9b1ee235bb6ff4fd911e3 )
+)
+
+game (
+	name "Educational\Sesame Street - Numbers"
+	description "Educational\Sesame Street - Numbers"
+	rom ( name "Sesame Street - Numbers.cue" size 942 crc 27b4dc95 md5 8cd586b6ea169f24ec618445380f9236 sha1 b71f3335e1a865ee8ac65745a4dc00bca31c18b9 )
+)
+
+game (
+	name "Educational\Sesame Street - Numbers"
+	description "Educational\Sesame Street - Numbers"
+	rom ( name "Sesame Street - Numbers.img" size 747329184 crc 53F86DEF md5 743F4FCE8B0E7BD73C1D9F5E6E96A67B sha1 DC1B3D19D06E9E1D05B8981043F7FC3B505A5E0A )
+)
+
+game (
+	name "Educational\Shelley Duvall's It's A Bird's Life"
+	description "Educational\Shelley Duvall's It's A Bird's Life"
+	rom ( name "Shelley Duvall's It's A Bird's Life.cue" size 124 crc 44CDD6B2 md5 CF411087EC7006B532A0FE33696A559A sha1 8872C02FD08BE50828EDF6E582AF7B8064BD789C )
+)
+
+game (
+	name "Educational\Slopestyle - An Interactive Learning Cube"
+	description "Educational\Slopestyle - An Interactive Learning Cube"
+	rom ( name "Slopestyle - An Interactive Learning Cube.cue" size 960 crc 9ff99536 md5 083ad8ed2a946b47a298c210c6c6fd5a sha1 66e6fdfb95cea62e7f8c6d8434ec8a4b73e187f0 )
+)
+
+game (
 	name "Eigo de Go! - Gateway to English (1996)(Gakken)(JP)"
 	description "Eigo de Go! - Gateway to English (1996)(Gakken)(JP)"
 	rom ( name "Eigo de Go! - Gateway to English (1996)(Gakken)(JP).cue" size 140 crc e17ddda1 md5 33bbcc2773a3ee33ccf27703f8d54907 sha1 6b6fd4b4a964e3d3ac4852bfc0a4a6339fa0d725 )
@@ -1047,6 +1641,2844 @@ game (
 	name "Game no Tatsujin (1995)(Sunsoft)(JP)[!]"
 	description "Game no Tatsujin (1995)(Sunsoft)(JP)[!]"
 	rom ( name "Game no Tatsujin (1995)(Sunsoft)(JP)[!].cue" size 128 crc 2c5ae935 md5 8ac7fec4de6b07393ae9943954dc773f sha1 f480354cb1b6045e6b61bf508819e3765f0002e2 )
+)
+
+game (
+	name "Games\3DO Action Pak (Dragon's Lair) (Disc 3)"
+	description "Games\3DO Action Pak (Dragon's Lair) (Disc 3)"
+	rom ( name "3DO Action Pak (Dragon's Lair) (Disc 3).cue" size 958 crc 9fa32cfd md5 de511a0d6bfcc9d66709a0447cf69e69 sha1 b6df7293544fd0033bcfa77f81bbb5c56123b33d )
+)
+
+game (
+	name "Games\3DO Action Pak (Slayer) (Disc 1)"
+	description "Games\3DO Action Pak (Slayer) (Disc 1)"
+	rom ( name "3DO Action Pak (Slayer) (Disc 1).cue" size 951 crc baee4870 md5 36db03670a4be62da9b72588ae26444d sha1 3e5979504b4f2bb82d96f59c9fb2a512d674f249 )
+)
+
+game (
+	name "Games\3DO Action Pak (Soccer Kid) (Disc 2)"
+	description "Games\3DO Action Pak (Soccer Kid) (Disc 2)"
+	rom ( name "3DO Action Pak (Soccer Kid) (Disc 2).cue" size 955 crc e04c11c8 md5 5dc5848c9df4b64f65a3dc90d6634b65 sha1 eca7bc08574209732394ef4deabf5a3d73a9fcd3 )
+)
+
+game (
+	name "Games\AI Shougi"
+	description "Games\AI Shougi"
+	rom ( name "AI Shougi.cue" size 928 crc 3980cc9d md5 3caf57da55d1dd1271535ce5a273fe61 sha1 2379ce63acfd6c499b6528e0fc006917a72d9c72 )
+)
+
+game (
+	name "Games\Akagi - Topaiten"
+	description "Games\Akagi - Topaiten"
+	rom ( name "Akagi - Topaiten.cue" size 935 crc baa38fe0 md5 019135b91c7274376de1cbad90278b1c sha1 36095f4c0fb2bdce14ba116959cde0456a4b1c37 )
+)
+
+game (
+	name "Games\Alone in the Dark"
+	description "Games\Alone in the Dark"
+	rom ( name "Alone in the Dark.cue" size 958 crc 16909ba4 md5 53dd8d9df3d787e5bc991cfe3e0d26ee sha1 4fa5db69543d28426a34c726a7659de279289bf3 )
+)
+
+game (
+	name "Games\Alone in the Dark"
+	description "Games\Alone in the Dark"
+	rom ( name "Alone in the Dark.cue" size 936 crc ef09dd24 md5 97a784cd46609bf72971d30055168e7d sha1 f6c2b403e58b86e5bfb9d9ed5ba6e85eeca10ced )
+)
+
+game (
+	name "Games\Alone in the Dark"
+	description "Games\Alone in the Dark"
+	rom ( name "Alone in the Dark.cue" size 936 crc e527ddc8 md5 34253d5749f078aab2739fd51d3d50e3 sha1 045aec8189b66c348512063d08d484285795e016 )
+)
+
+game (
+	name "Games\Alone in the Dark 2"
+	description "Games\Alone in the Dark 2"
+	rom ( name "Alone in the Dark 2.cue" size 938 crc 5a92460f md5 f60f36f079d75e57e53f57fc4b4cde2f sha1 6634d79edb736cdcb84a132339bb18f6188a5092 )
+)
+
+game (
+	name "Games\Alone in the Dark 2"
+	description "Games\Alone in the Dark 2"
+	rom ( name "Alone in the Dark 2.cue" size 108 crc 82A63680 md5 8B704C89EB06B39B32BE3D1402FC0753 sha1 B5DF7EFDBDA9A06AECB6A79D602AE7ECB1202F86 )
+)
+
+game (
+	name "Games\Alone in the Dark 2"
+	description "Games\Alone in the Dark 2"
+	rom ( name "Alone in the Dark 2.cue" size 938 crc 6c91c70b md5 72dbb94793de6109e2850c62a472b2a3 sha1 d00aed4933273b12f8336d83f2fc335a07b79609 )
+)
+
+game (
+	name "Games\Alone in the Dark 2 (France)"
+	description "Games\Alone in the Dark 2 (France)"
+	rom ( name "Alone in the Dark 2 (France).cue" size 117 crc 6AD8D103 md5 04E5764F03092BFC72220CC8D1A6A7B4 sha1 143A38A822680572E0B2079DDA1F67E731E8F3CD )
+)
+
+game (
+	name "Games\Another World"
+	description "Games\Another World"
+	rom ( name "Another World.cue" size 932 crc 83a097b7 md5 02715031528f950056cf7792890988a3 sha1 ec69a3c3e4cfae728a14443db1d42a185e280133 )
+)
+
+game (
+	name "Games\Armageddon (South Korea)"
+	description "Games\Armageddon (South Korea)"
+	rom ( name "Armageddon (South Korea).cue" size 943 crc a36ab5cd md5 b84ca5cf7a1914f4be8b5704d435aa0e sha1 316087d2acd2d1e161b4b0cf672c77cbe4d6e168 )
+)
+
+game (
+	name "Games\AutoBahn Tokio"
+	description "Games\AutoBahn Tokio"
+	rom ( name "AutoBahn Tokio.cue" size 955 crc 3a9b5c5e md5 c1f5af1d41ba8a7ea03bb6e33d8dd32a sha1 c7109e76a6d96e2ebfaf2cb5de1c069f3fc27ae0 )
+)
+
+game (
+	name "Games\Bakushou!! All Yoshimoto Quiz-ou Ketteisen"
+	description "Games\Bakushou!! All Yoshimoto Quiz-ou Ketteisen"
+	rom ( name "Bakushou!! All Yoshimoto Quiz-ou Ketteisen.cue" size 983 crc 598175c4 md5 64875f07f2e54e96235ddcb49ae5acc8 sha1 5b6d015a355208187c5fddfb52453f008881d329 )
+)
+
+game (
+	name "Games\Ballz - The Director's Cut"
+	description "Games\Ballz - The Director's Cut"
+	rom ( name "Ballz - The Director's Cut.cue" size 945 crc f0b71bac md5 b5de9188f12623f34d1246401bf03163 sha1 c8c151a7d65834a1ca918f393b0147db2b5ab335 )
+)
+
+game (
+	name "Games\Battle Blues (South Korea)"
+	description "Games\Battle Blues (South Korea)"
+	rom ( name "Battle Blues (South Korea).cue" size 945 crc 6a4cee3a md5 2c0a17c32442325c8ee0961f39f8bffd sha1 dab8a78d458f017c6e676c97cd1f128e6f837837 )
+)
+
+game (
+	name "Games\Battle Chess"
+	description "Games\Battle Chess"
+	rom ( name "Battle Chess.cue" size 931 crc 7c8c7361 md5 c39fae3003b1fbe16c0eb03655dd1792 sha1 f0dfbfde136ff99c83ecf292c8c7282b2a10ee87 )
+)
+
+game (
+	name "Games\Battle Chess"
+	description "Games\Battle Chess"
+	rom ( name "Battle Chess.cue" size 931 crc 9bcc2bfc md5 6d83d07578d045fd5bda4aafd0e6f50f sha1 fb0c0e72b2718b0e07dde6bd2eed61d95fae0a04 )
+)
+
+game (
+	name "Games\Battle Chess"
+	description "Games\Battle Chess"
+	rom ( name "Battle Chess.cue" size 931 crc 385bb34f md5 422bf15e5c0a76b55ba123b3d077ffe8 sha1 47acf6627182bfdd833fef9544b09696319671ed )
+)
+
+game (
+	name "Games\Battle Pinball"
+	description "Games\Battle Pinball"
+	rom ( name "Battle Pinball.cue" size 955 crc b2ef24ac md5 0f4b2789ff3aea4085bb1625273db382 sha1 8d261713fb2bd15514aed2ed4e0b48ff57fe5f22 )
+)
+
+game (
+	name "Games\BattleSport"
+	description "Games\BattleSport"
+	rom ( name "BattleSport.cue" size 930 crc 1a609e2c md5 e9a2c1c287ac5d56df3325db49e92123 sha1 379aeb93e68fe22544e81fcf62f5395e39307c6d )
+)
+
+game (
+	name "Games\BattleSport"
+	description "Games\BattleSport"
+	rom ( name "BattleSport.cue" size 930 crc 66320885 md5 67c136964503c96dbde7c32fafeac981 sha1 685ffefaeae87a84369353f0997a1a831068b9ec )
+)
+
+game (
+	name "Games\BC Racers"
+	description "Games\BC Racers"
+	rom ( name "BC Racers.cue" size 928 crc 90196ca8 md5 1258d65701d62e457d950a051e2d3264 sha1 ce06ed81b8d895e64a56939a950994872a8a9116 )
+)
+
+game (
+	name "Games\Belzerion"
+	description "Games\Belzerion"
+	rom ( name "Belzerion.cue" size 950 crc c7604072 md5 37c3429041f6bdf786626b6d763bf305 sha1 0bc6b66f47721c506f61b74cdbe8ed20f26a6a88 )
+)
+
+game (
+	name "Games\BFS - Blue Forest Story"
+	description "Games\BFS - Blue Forest Story"
+	rom ( name "BFS - Blue Forest Story.cue" size 964 crc b20bdfac md5 8bc24389f40a63dac04462273e689b21 sha1 b225ae361aa978ae00f742180d640831511fd4a6 )
+)
+
+game (
+	name "Games\Bishoujo Senshi Sailor Moon S"
+	description "Games\Bishoujo Senshi Sailor Moon S"
+	rom ( name "Bishoujo Senshi Sailor Moon S.cue" size 948 crc 923dfcec md5 8c9f93acbd83390bb654b76c3fe59147 sha1 07cf471fd149104152b86b95df4433c8e6c03576 )
+)
+
+game (
+	name "Games\Blade Force"
+	description "Games\Blade Force"
+	rom ( name "Blade Force.cue" size 952 crc c58b0da8 md5 0c384fb05c30d75dd3ff53a1567a1492 sha1 3c0a20c31da78587cd043805072d99d8715c68b3 )
+)
+
+game (
+	name "Games\Blade Force"
+	description "Games\Blade Force"
+	rom ( name "Blade Force.cue" size 930 crc a74844ea md5 61cf5b421246f28e0727087ff495c1f7 sha1 5aa3ffc2cc1cd26109626cf33949beb6f9477d3d )
+)
+
+game (
+	name "Games\Blade Force"
+	description "Games\Blade Force"
+	rom ( name "Blade Force.cue" size 930 crc 8e11175b md5 05875824e8e77a9dc90e26dc5f2e656b sha1 4d9c14eecc7fc0c621cd35b43e1df2bb98c0897b )
+)
+
+game (
+	name "Games\Blade Force (South Korea)"
+	description "Games\Blade Force (South Korea)"
+	rom ( name "Blade Force (South Korea).cue" size 944 crc f5617fc7 md5 7c2734b86bacdcf29329a9f8d1adf5be sha1 679147a2d41c5547df918fe969136e9dee888f05 )
+)
+
+game (
+	name "Games\Blood Angels - Space Hulk"
+	description "Games\Blood Angels - Space Hulk"
+	rom ( name "Blood Angels - Space Hulk.cue" size 944 crc bc1bc938 md5 86f75eb7743f677ee82fc167106f91b1 sha1 82388fbe9f3b56de8edb6748afc45ce019360738 )
+)
+
+game (
+	name "Games\Brain Dead 13 Starring Fritz (Disc 1)"
+	description "Games\Brain Dead 13 Starring Fritz (Disc 1)"
+	rom ( name "Brain Dead 13 Starring Fritz (Disc 1).cue" size 956 crc 0f5111e7 md5 7d7b87807d9ec4f4e02dba1ff1d097fc sha1 0109e0d8110cc644c1e7d683802123e7bd829631 )
+)
+
+game (
+	name "Games\Brain Dead 13 Starring Fritz (Disc 2)"
+	description "Games\Brain Dead 13 Starring Fritz (Disc 2)"
+	rom ( name "Brain Dead 13 Starring Fritz (Disc 2).cue" size 978 crc 2fb14b72 md5 f7e7bfb6403a8595b4614e87c76e0a6f sha1 95b86eca39e58578beabd9b85d1b1b963479bbe0 )
+)
+
+game (
+	name "Games\Brain Dead 13 Starring Fritz (RE1) (Disc 1)"
+	description "Games\Brain Dead 13 Starring Fritz (RE1) (Disc 1)"
+	rom ( name "Brain Dead 13 Starring Fritz (RE1) (Disc 1).cue" size 962 crc 261fcf7f md5 e527ad37dadd27d8873a2d1ce460d5d8 sha1 628266b3130cfbbbdeadc08d4bc9c59b1b5628fb )
+)
+
+game (
+	name "Games\Burning Soldier"
+	description "Games\Burning Soldier"
+	rom ( name "Burning Soldier.cue" size 934 crc 0ac13ccb md5 b1ff0b3acf563f5918f37a64ea9ca97e sha1 7ef89aacdd88e18f6214cab36b44ea9e61019b1f )
+)
+
+game (
+	name "Games\Burning Soldier"
+	description "Games\Burning Soldier"
+	rom ( name "Burning Soldier.cue" size 104 crc EF28863F md5 BF285C5BA127F27DF8A3FA5F199D1BAA sha1 C1EB463B5FC16A1829FCCDB1ABF1F6F67CF56902 )
+)
+
+game (
+	name "Games\Burning Soldier"
+	description "Games\Burning Soldier"
+	rom ( name "Burning Soldier.cue" size 934 crc 05c40354 md5 6c63adf6c755b96f5ffcd0ad4b0e728d sha1 8f57ca1f45962d7d8d820e602d4869c1729ba818 )
+)
+
+game (
+	name "Games\Burning Soldier (Canada)"
+	description "Games\Burning Soldier (Canada)"
+	rom ( name "Burning Soldier (Canada).cue" size 113 crc 5200EAF8 md5 B6E92AC91075973FEDA0A90F7332AF6F sha1 CBA140530146894856606C22423E53AE2DA1676F )
+)
+
+game (
+	name "Games\Bust-A-Move"
+	description "Games\Bust-A-Move"
+	rom ( name "Bust-A-Move.cue" size 930 crc c02a9f21 md5 88a82d9c216983d315473d7b45fa8178 sha1 d6e0700b36d7a3ed804a84c67d3685698870d922 )
+)
+
+game (
+	name "Games\Cannon Fodder"
+	description "Games\Cannon Fodder"
+	rom ( name "Cannon Fodder.cue" size 932 crc 38854b7a md5 163eecb85974c6cde2e76abbce45e8a5 sha1 d502084470abfb9a1074a3995dd45feb14bff774 )
+)
+
+game (
+	name "Games\Cannon Fodder"
+	description "Games\Cannon Fodder"
+	rom ( name "Cannon Fodder.cue" size 932 crc d4caa0f0 md5 bf5cc8dca5526ecd770bdbfcc6f88db0 sha1 64755de882b65c19c25f0373af99c66672b9cee6 )
+)
+
+game (
+	name "Games\Captain Quazar"
+	description "Games\Captain Quazar"
+	rom ( name "Captain Quazar.cue" size 933 crc 74e32d17 md5 e244ca6fee643811374f66bd92916d91 sha1 0299206a9c26ce357a6903b2691498a0af82dd87 )
+)
+
+game (
+	name "Games\Captain Quazar"
+	description "Games\Captain Quazar"
+	rom ( name "Captain Quazar.cue" size 933 crc 0fd3cc6c md5 df063512a1f8e94f2cfd18610221bac8 sha1 952391dc9610eb116c41610b1c6306341e6fdd04 )
+)
+
+game (
+	name "Games\Captain Quazar"
+	description "Games\Captain Quazar"
+	rom ( name "Captain Quazar.cue" size 933 crc 389f73c7 md5 34936016710aa0b98f46623dbc9d4744 sha1 0a49f16b61ee83d2a6299125161287c608dad4e5 )
+)
+
+game (
+	name "Games\Casper"
+	description "Games\Casper"
+	rom ( name "Casper.cue" size 925 crc 9b2bd7c3 md5 dc99c88dc3adbe6ab95ec85c50efd0ff sha1 1269cc98f394b4c7cf5cca2a14329a4c565a1315 )
+)
+
+game (
+	name "Games\Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen"
+	description "Games\Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen"
+	rom ( name "Chiki Chiki Machine Mou Race - Kenken to Black Maou no Ijiwaru Daisakusen.cue" size 992 crc 8a93b142 md5 4c84ead8ef4708c6615043d96003df78 sha1 3e009027ca1b62a7bac303f56edff91576d2f8fc )
+)
+
+game (
+	name "Games\Chiki Chiki Machine Mou-Race 2 - In Space"
+	description "Games\Chiki Chiki Machine Mou-Race 2 - In Space"
+	rom ( name "Chiki Chiki Machine Mou-Race 2 - In Space.cue" size 960 crc 5f1c2a8e md5 af12e732dd6dfbfa4b6e15fa45e61162 sha1 389a4917c9ebdba5578791f02e83ea4e0fc16685 )
+)
+
+game (
+	name "Games\Club 3DO - Station Invasion"
+	description "Games\Club 3DO - Station Invasion"
+	rom ( name "Club 3DO - Station Invasion.cue" size 116 crc A25B124D md5 44DFB6DB888CABEB3B14ADB33E90F8D4 sha1 4F35F7BDB63DA831B2A2C24352480735EE129A61 )
+)
+
+game (
+	name "Games\Corpse Killer"
+	description "Games\Corpse Killer"
+	rom ( name "Corpse Killer.cue" size 932 crc a12ee135 md5 042b2488f0869222d9851492fd995808 sha1 2b808c3968d9327132143460a28ce23b45aafe82 )
+)
+
+game (
+	name "Games\Corpse Killer"
+	description "Games\Corpse Killer"
+	rom ( name "Corpse Killer.cue" size 932 crc c940641c md5 43142a755147fba8457b37a1dc8d9d53 sha1 2b241e94cf96d91c2ccd57e431fe6a42cf2d86b5 )
+)
+
+game (
+	name "Games\Cowboy Casino - Interactive Poker"
+	description "Games\Cowboy Casino - Interactive Poker"
+	rom ( name "Cowboy Casino - Interactive Poker.cue" size 952 crc cdbbcc87 md5 fdabb42939887ce60ea94e71853bf346 sha1 c9923d1ff67fd2cbb0f8429534a68ac5545a1232 )
+)
+
+game (
+	name "Games\Crash 'n Burn"
+	description "Games\Crash 'n Burn"
+	rom ( name "Crash 'n Burn.cue" size 932 crc accf193a md5 5453114d2db617ae25054c11bd2e6ba6 sha1 ce59977c131f3f3a82acd453175dcb1e6c3eab9c )
+)
+
+game (
+	name "Games\Crash 'n Burn"
+	description "Games\Crash 'n Burn"
+	rom ( name "Crash 'n Burn.cue" size 932 crc 6ed0962a md5 109d9019d6ae763da4f2620b0a42d0d3 sha1 8b0096250ed01ee0055b8eb51711911d4e3b354d )
+)
+
+game (
+	name "Games\Crash 'n Burn (Bundled with Panasonic FZ-1)"
+	description "Games\Crash 'n Burn (Bundled with Panasonic FZ-1)"
+	rom ( name "Crash 'n Burn (Bundled with Panasonic FZ-1).cue" size 962 crc 800cda3f md5 5b47c1c34855282a10845e193a5c0b70 sha1 35d2417ca744ec91763f8fb4a6ba5ec3942a5ac9 )
+)
+
+game (
+	name "Games\Crash 'n Burn (South Korea)"
+	description "Games\Crash 'n Burn (South Korea)"
+	rom ( name "Crash 'n Burn (South Korea).cue" size 946 crc 97b2afd4 md5 fb12229048966bd7230691276e251619 sha1 9d9fae6b626cfb68971d8e3a18985ef26f1c6e85 )
+)
+
+game (
+	name "Games\Crayon Shin-chan - Puzzle Daimaou no Nazo"
+	description "Games\Crayon Shin-chan - Puzzle Daimaou no Nazo"
+	rom ( name "Crayon Shin-chan - Puzzle Daimaou no Nazo.cue" size 982 crc 28d68932 md5 8e1f77d8f8d596f3c5846617a8ac0fa5 sha1 c427c0acb515bb78df36a8750e25724668228da0 )
+)
+
+game (
+	name "Games\Creature Shock (Disc 1)"
+	description "Games\Creature Shock (Disc 1)"
+	rom ( name "Creature Shock (Disc 1).cue" size 942 crc 2fe87573 md5 5702c1fdac87a3cfb2be9877c87e5a90 sha1 a1af53b5a8f8438791f0e9cc57c6bf5577846004 )
+)
+
+game (
+	name "Games\Creature Shock (Disc 2)"
+	description "Games\Creature Shock (Disc 2)"
+	rom ( name "Creature Shock (Disc 2).cue" size 942 crc 6a66a7a3 md5 404fd0cdbb54e6d12605a26993d453a7 sha1 f89aad9e74bd337661744c8806a83f6de7d72311 )
+)
+
+game (
+	name "Games\Crime Patrol"
+	description "Games\Crime Patrol"
+	rom ( name "Crime Patrol.cue" size 101 crc 8E72063F md5 18E0B63CDC6D97060F2AD6E6C6BFA72C sha1 0AEA7929024B8D5743B4436A506507B896197C6F )
+)
+
+game (
+	name "Games\Cyberdillo"
+	description "Games\Cyberdillo"
+	rom ( name "Cyberdillo.cue" size 929 crc f4cb891b md5 64c01837ab40d3b688ac4e50425a4ffe sha1 6fa0a9843aeeadfdfdedd8041b46739dc83c5a22 )
+)
+
+game (
+	name "Games\Cyberia"
+	description "Games\Cyberia"
+	rom ( name "Cyberia.cue" size 926 crc 83db085b md5 00dabd95abc97fd812bc0ebc63fdbfc2 sha1 ec3e0082c880bab245ed16a49a6e70665d129235 )
+)
+
+game (
+	name "Games\Cyberia"
+	description "Games\Cyberia"
+	rom ( name "Cyberia.cue" size 926 crc 36c0909a md5 2ada706d59ff2300d94128ff17b212ad sha1 a41639f4a0dc75972aaf77bc06fa69638326e452 )
+)
+
+game (
+	name "Games\D (Disc 1)"
+	description "Games\D (Disc 1)"
+	rom ( name "D (Disc 1).cue" size 929 crc 0e9bf052 md5 da22c45284de6ceda3e9e97c882c4f9e sha1 782f101e60e0f4304be147189ec4cfbfca3a0686 )
+)
+
+game (
+	name "Games\D (Disc 1)"
+	description "Games\D (Disc 1)"
+	rom ( name "D (Disc 1).cue" size 929 crc 0e9bf052 md5 da22c45284de6ceda3e9e97c882c4f9e sha1 782f101e60e0f4304be147189ec4cfbfca3a0686 )
+)
+
+game (
+	name "Games\D (Disc 2)"
+	description "Games\D (Disc 2)"
+	rom ( name "D (Disc 2).cue" size 929 crc 2ac4d527 md5 ed23d598f1ae35fed1cc0e3054079268 sha1 bd714103279249ad48c7822ecd06bcd00ab0db87 )
+)
+
+game (
+	name "Games\D (Disc 2)"
+	description "Games\D (Disc 2)"
+	rom ( name "D (Disc 2).cue" size 929 crc 2ac4d527 md5 ed23d598f1ae35fed1cc0e3054079268 sha1 bd714103279249ad48c7822ecd06bcd00ab0db87 )
+)
+
+game (
+	name "Games\D no Shokutaku - Directors Cut (Disc 1)"
+	description "Games\D no Shokutaku - Directors Cut (Disc 1)"
+	rom ( name "D no Shokutaku - Directors Cut (Disc 1).cue" size 958 crc bf230efb md5 57d89775fb6b074f2610f4348c2f2bb9 sha1 67ebadedd13378b5b47a0baf847202e6308faf05 )
+)
+
+game (
+	name "Games\D no Shokutaku - Directors Cut (Disc 2)"
+	description "Games\D no Shokutaku - Directors Cut (Disc 2)"
+	rom ( name "D no Shokutaku - Directors Cut (Disc 2).cue" size 958 crc 37b00774 md5 7f2f5b5c4ddf85256668177a5bd78204 sha1 d45346111534ebdecc25c30666a032b7bda10876 )
+)
+
+game (
+	name "Games\D no Shokutaku - Directors Cut (Disc 3)"
+	description "Games\D no Shokutaku - Directors Cut (Disc 3)"
+	rom ( name "D no Shokutaku - Directors Cut (Disc 3).cue" size 958 crc 08965b15 md5 0398031e96859d602be19c9b4efd614d sha1 b690693c07f1a403fb16fb4826fc890ca078bcb7 )
+)
+
+game (
+	name "Games\D no Shokutaku (Disc 1)"
+	description "Games\D no Shokutaku (Disc 1)"
+	rom ( name "D no Shokutaku (Disc 1).cue" size 942 crc e66315ca md5 44f1bace3a29e57d69d3d395dd583c54 sha1 7b6d85f255592caa489ba1d3de7c74bc81b2c2b3 )
+)
+
+game (
+	name "Games\D no Shokutaku (Disc 2)"
+	description "Games\D no Shokutaku (Disc 2)"
+	rom ( name "D no Shokutaku (Disc 2).cue" size 942 crc 85fde9da md5 6cc6ef24febc386ef6d7e4eb4c2c57e8 sha1 019de9a3a9ccf6622a574a723deccd224c0771d3 )
+)
+
+game (
+	name "Games\Daedalus - Episode 1 - Nanpasen no Alien (Disc 1)"
+	description "Games\Daedalus - Episode 1 - Nanpasen no Alien (Disc 1)"
+	rom ( name "Daedalus - Episode 1 - Nanpasen no Alien (Disc 1).cue" size 968 crc b7057a86 md5 a6c75601d32f365ddaae2bb3cc9de77e sha1 300f5fb3881db2676bdd6ee0c184d39d37a4f18e )
+)
+
+game (
+	name "Games\Daedalus - Episode 1 - Nanpasen no Alien (Disc 2)"
+	description "Games\Daedalus - Episode 1 - Nanpasen no Alien (Disc 2)"
+	rom ( name "Daedalus - Episode 1 - Nanpasen no Alien (Disc 2).cue" size 968 crc 37f578f5 md5 1f0a9870283ce248216685932bcaa93f sha1 45d5d12407d3daf547e6be13c04b5e1e22a5f7af )
+)
+
+game (
+	name "Games\Daedalus - Episode 1 - Nanpasen no Alien (Disc 3)"
+	description "Games\Daedalus - Episode 1 - Nanpasen no Alien (Disc 3)"
+	rom ( name "Daedalus - Episode 1 - Nanpasen no Alien (Disc 3).cue" size 968 crc 8d41efbf md5 8ddab192174475f36a3661f2890b8261 sha1 fef521a06e3974fc9a8fe7b58795cdd827abd6ea )
+)
+
+game (
+	name "Games\Daedalus - Episode 1 - Nanpasen no Alien (Disc 4)"
+	description "Games\Daedalus - Episode 1 - Nanpasen no Alien (Disc 4)"
+	rom ( name "Daedalus - Episode 1 - Nanpasen no Alien (Disc 4).cue" size 968 crc adcac2ec md5 d8a10ba818c20ccc1e0e8670e239ebab sha1 57e3c2f7307ff6e08e428d771467164c36b9107d )
+)
+
+game (
+	name "Games\Daedalus Encounter, The (Disc 1)"
+	description "Games\Daedalus Encounter, The (Disc 1)"
+	rom ( name "Daedalus Encounter, The (Disc 1).img" size 771060864 crc 9474f05c md5 374eafbd0524dabaa3a326180260f57f sha1 a332d9236498c225bf42704343fd31d50f66b9e4 )
+)
+
+game (
+	name "Games\Daedalus Encounter, The (Disc 1)"
+	description "Games\Daedalus Encounter, The (Disc 1)"
+	rom ( name "Daedalus Encounter, The (Disc 1).cue" size 951 crc abbae69b md5 221c58a8622025bf2485860211931d0d sha1 1ba9e7dfafb9307c16a51f0089d59385eb3704cc )
+)
+
+game (
+	name "Games\Daedalus Encounter, The (Disc 2)"
+	description "Games\Daedalus Encounter, The (Disc 2)"
+	rom ( name "Daedalus Encounter, The (Disc 2).cue" size 98 crc EDFD5E26 md5 63496EF55F20A5ECBE9FAF1555AC2745 sha1 110BA67B6D50FE4C403F6E534F67138C44D39BAA )
+)
+
+game (
+	name "Games\Daedalus Encounter, The (Disc 2)"
+	description "Games\Daedalus Encounter, The (Disc 2)"
+	rom ( name "Daedalus Encounter, The (Disc 2).cue" size 951 crc 7c54a4c2 md5 3cd9f697e8f65cc62b024c38efab2b3f sha1 5fce9e392bbf286726036126dcc8cf8810d289d6 )
+)
+
+game (
+	name "Games\Daedalus Encounter, The (Disc 3)"
+	description "Games\Daedalus Encounter, The (Disc 3)"
+	rom ( name "Daedalus Encounter, The (Disc 3).img" size 771060864 crc fdc4aa42 md5 cb55d8980412484e83fe50d0e6be877b sha1 57d018cb88a4182720de85a2ee1fa0b7b00f76ca )
+)
+
+game (
+	name "Games\Daedalus Encounter, The (Disc 3)"
+	description "Games\Daedalus Encounter, The (Disc 3)"
+	rom ( name "Daedalus Encounter, The (Disc 3).cue" size 951 crc b718f570 md5 c6dc9b4933321b6242c16a707b69d91d sha1 cd25f5ab6be2a151785ac196d31b258ee5dbaf66 )
+)
+
+game (
+	name "Games\Daedalus Encounter, The (Disc 4)"
+	description "Games\Daedalus Encounter, The (Disc 4)"
+	rom ( name "Daedalus Encounter, The (Disc 4).img" size 771060864 crc c43f91d2 md5 0c5bf88b3532e9446138d8f7836a6f5b sha1 d9f6076fd37e8aa508e62a1b41dc8f207b940a30 )
+)
+
+game (
+	name "Games\Daedalus Encounter, The (Disc 4)"
+	description "Games\Daedalus Encounter, The (Disc 4)"
+	rom ( name "Daedalus Encounter, The (Disc 4).cue" size 951 crc eff2ceb1 md5 51072f4f90fb419db1db3c94d1f63d39 sha1 a2ad51052fd30366ce563ad40c756a2edeec5e10 )
+)
+
+game (
+	name "Games\DeathKeep"
+	description "Games\DeathKeep"
+	rom ( name "DeathKeep.cue" size 928 crc 80e70cf9 md5 9586171ab04e99851bdf50de606fce8a sha1 09e8db484d50723f0e67e21b68d4a34364694d80 )
+)
+
+game (
+	name "Games\Decathlon"
+	description "Games\Decathlon"
+	rom ( name "Decathlon.img" size 730460640 crc EBDB59D1 md5 D997ED612683CFF4DC0418135A37C311 sha1 7BEDEF0ADFD8A91A9927E8C0D330369AC75FB965 )
+)
+
+game (
+	name "Games\Decathlon (Beta 7-22-96)"
+	description "Games\Decathlon (Beta 7-22-96)"
+	rom ( name "Decathlon (Beta 7-22-96).cue" size 965 crc ec3ec7a4 md5 01c2cbfa715898bff6c8440c57d2fbd3 sha1 abdf86b1d101de5b80f2607cfd922870586165a8 )
+)
+
+game (
+	name "Games\Defcon 5"
+	description "Games\Defcon 5"
+	rom ( name "Defcon 5.cue" size 927 crc 55c7b8b3 md5 10d22cb52bd62a6c6f79a337b9bddb04 sha1 19904eae10158a210514ef007fc7a9327701a95c )
+)
+
+game (
+	name "Games\Defcon 5"
+	description "Games\Defcon 5"
+	rom ( name "Defcon 5.cue" size 927 crc e87d9fa4 md5 29de94033ef3cdb145ff8d45310983b6 sha1 7fe8b47db95f65c765b02b7877b16b86e15765b2 )
+)
+
+game (
+	name "Games\Demolition Man"
+	description "Games\Demolition Man"
+	rom ( name "Demolition Man.cue" size 933 crc b6856b67 md5 3c16f820193e706b22532cb8b910f8d2 sha1 af6b901261ab4694b0101238775ea3c426daa792 )
+)
+
+game (
+	name "Games\Demolition Man"
+	description "Games\Demolition Man"
+	rom ( name "Demolition Man.cue" size 933 crc c3f1c1ea md5 024b10729cb8eb80d02815b4bc9cd7e1 sha1 35b1f3c322cac0a65d8111f80d90f0a524f06d18 )
+)
+
+game (
+	name "Games\Dennou Hyouryuu - Multimedia Cruising"
+	description "Games\Dennou Hyouryuu - Multimedia Cruising"
+	rom ( name "Dennou Hyouryuu - Multimedia Cruising.cue" size 956 crc 87558108 md5 10bcebb6ff70b2c27027ed0db887e557 sha1 7752bcdce3ae4ae3887963de873f97a2e5bb5d18 )
+)
+
+game (
+	name "Games\Doctor Hauzer"
+	description "Games\Doctor Hauzer"
+	rom ( name "Doctor Hauzer.cue" size 954 crc f4c689c7 md5 45d8e3536a038960720e342b1e0a1b8f sha1 2565f4641416de45156ba898ea8870936acec35c )
+)
+
+game (
+	name "Games\Doom"
+	description "Games\Doom"
+	rom ( name "Doom.cue" size 923 crc 4c024ebe md5 2be46c3699d0b86a9c6ee3709d597295 sha1 81c704b5433a4edce7c28b92999c81dedd3f3d5e )
+)
+
+game (
+	name "Games\Doraemons, The - Yuujou Densetsu"
+	description "Games\Doraemons, The - Yuujou Densetsu"
+	rom ( name "Doraemons, The - Yuujou Densetsu.cue" size 951 crc 1917dd34 md5 2000873dd27a71be01c6efe7726338dc sha1 ebabd01db572d79d838382db37c77e0995644e5a )
+)
+
+game (
+	name "Games\Dragon Lore - The Legend Begins (Disc 1)"
+	description "Games\Dragon Lore - The Legend Begins (Disc 1)"
+	rom ( name "Dragon Lore - The Legend Begins (Disc 1).cue" size 959 crc 97393933 md5 c8a49e3a84d536a51c69205030f95670 sha1 99bfc0940fef50525c7d68c7754adfb60f924dc0 )
+)
+
+game (
+	name "Games\Dragon Lore - The Legend Begins (Disc 2)"
+	description "Games\Dragon Lore - The Legend Begins (Disc 2)"
+	rom ( name "Dragon Lore - The Legend Begins (Disc 2).cue" size 959 crc d89ffac4 md5 f61d8a356f15c51cc59935376e617f03 sha1 cef6605b5c742ed85dfcb7ac09ef06d7085a77c7 )
+)
+
+game (
+	name "Games\Dragon Lore - The Legend Begins (Disc 3)"
+	description "Games\Dragon Lore - The Legend Begins (Disc 3)"
+	rom ( name "Dragon Lore - The Legend Begins (Disc 3).cue" size 959 crc 9f0aa37d md5 df0dc5d57478e44244aa3655937b58c3 sha1 3d7d3580a11d073a446514811c567711b0501f17 )
+)
+
+game (
+	name "Games\Dragon Lore - The Legend Begins (Germany) (Disc 1)"
+	description "Games\Dragon Lore - The Legend Begins (Germany) (Disc 1)"
+	rom ( name "Dragon Lore - The Legend Begins (Germany) (Disc 1).cue" size 969 crc 9746e713 md5 3370ecb7de53341d9cd2a85f7187bb19 sha1 a406432e491d26f04e1ae5dc2c618877fc12a1f9 )
+)
+
+game (
+	name "Games\Dragon Lore - The Legend Begins (Germany) (Disc 2)"
+	description "Games\Dragon Lore - The Legend Begins (Germany) (Disc 2)"
+	rom ( name "Dragon Lore - The Legend Begins (Germany) (Disc 2).cue" size 969 crc d8e024e4 md5 c8a817ac662932144d9f44d81d2fe120 sha1 2306afb7464f7a8499db79b5c1a27f0c32e32027 )
+)
+
+game (
+	name "Games\Dragon Lore - The Legend Begins (Germany) (Disc 3)"
+	description "Games\Dragon Lore - The Legend Begins (Germany) (Disc 3)"
+	rom ( name "Dragon Lore - The Legend Begins (Germany) (Disc 3).cue" size 969 crc 9f757d5d md5 4ec8e1eae65d62d708363894224d9f95 sha1 6282f464bc761abc711947b20e7c665a89adf311 )
+)
+
+game (
+	name "Games\Dragon Tycoon Edge"
+	description "Games\Dragon Tycoon Edge"
+	rom ( name "Dragon Tycoon Edge.cue" size 937 crc 4b18d12d md5 f7ed06f4a43f0cbe4e30c269417746f2 sha1 fa6de32b7b0d49ee34717f340fcdd46225017e3b )
+)
+
+game (
+	name "Games\Dragon's Lair"
+	description "Games\Dragon's Lair"
+	rom ( name "Dragon's Lair.cue" size 932 crc ba1818c0 md5 5c6f0177f05a5573dc751a3d1a6f22ab sha1 56ee574d476fde02933c65fd85480cc339629c78 )
+)
+
+game (
+	name "Games\Dragon's Lair"
+	description "Games\Dragon's Lair"
+	rom ( name "Dragon's Lair.cue" size 932 crc 76ffbb8b md5 43473808a72544b28f4f9339f3e672a2 sha1 c9aa04200c8915962c825e0eb5835b4b20735299 )
+)
+
+game (
+	name "Games\Dragon's Lair"
+	description "Games\Dragon's Lair"
+	rom ( name "Dragon's Lair.cue" size 932 crc f048985d md5 d477e662d0932d1c05bcf699e70ad5b3 sha1 8590b55f7ee1900ce3e171e373f1b7e40a95c840 )
+)
+
+game (
+	name "Games\Dragon's Lair (RE1)"
+	description "Games\Dragon's Lair (RE1)"
+	rom ( name "Dragon's Lair (RE1).cue" size 938 crc 52f530ff md5 6bfbf175d3578b665e1b38ebbbcfe313 sha1 7e7fe71e0d016a21671eb3bb8c92917d3338ed6c )
+)
+
+game (
+	name "Games\Drug Wars"
+	description "Games\Drug Wars"
+	rom ( name "Drug Wars.cue" size 928 crc 847cf932 md5 d08a37320ad8a305c8bddd8ff06b015a sha1 22d0e7d26bc1e91b4555e435a5f379c587ac7f2c )
+)
+
+game (
+	name "Games\Emit Vol. 1 - Toki no Maigo"
+	description "Games\Emit Vol. 1 - Toki no Maigo"
+	rom ( name "Emit Vol. 1 - Toki no Maigo.cue" size 946 crc ce9035da md5 c278e15e0f49d5743bc7f6811b2f5b22 sha1 c996f188ee3f603915daa67a7cb96d82cf85e6c6 )
+)
+
+game (
+	name "Games\Emit Vol. 2 - Inochigake no Tabi"
+	description "Games\Emit Vol. 2 - Inochigake no Tabi"
+	rom ( name "Emit Vol. 2 - Inochigake no Tabi.cue" size 951 crc d72e0ca0 md5 53074ee22f753cd65479cb261cbfec68 sha1 78d052bd4cfc1f2069a9390ffb12a29acebc6881 )
+)
+
+game (
+	name "Games\Emit Vol. 3 - Watashi ni Sayonara o"
+	description "Games\Emit Vol. 3 - Watashi ni Sayonara o"
+	rom ( name "Emit Vol. 3 - Watashi ni Sayonara o.cue" size 954 crc f0a725f5 md5 8f2637628269610ad51b8ddac91b8237 sha1 a65d44f75e7d81eba1daba6432da82ced6782e02 )
+)
+
+game (
+	name "Games\Escape from Monster Manor - A Terrifying Hunt for the Undead"
+	description "Games\Escape from Monster Manor - A Terrifying Hunt for the Undead"
+	rom ( name "Escape from Monster Manor - A Terrifying Hunt for the Undead.cue" size 979 crc 910eb682 md5 4c0740b7b79ddda53d7f7df8a56b6a2e sha1 d703b761779e2c90a7acdc07934de688c26804de )
+)
+
+game (
+	name "Games\Escape from Monster Manor - A Terrifying Hunt for the Undead"
+	description "Games\Escape from Monster Manor - A Terrifying Hunt for the Undead"
+	rom ( name "Escape from Monster Manor - A Terrifying Hunt for the Undead.cue" size 979 crc 8272d2f9 md5 49e1357034de43a746bf68a61a3db169 sha1 2356b7c1f28f07f111c53cb995a455249613a89f )
+)
+
+game (
+	name "Games\Eye of Typhoon, The (South Korea)"
+	description "Games\Eye of Typhoon, The (South Korea)"
+	rom ( name "Eye of Typhoon, The (South Korea).cue" size 952 crc 27816876 md5 a938ee1f4ab701b1260cf514e0c9796f sha1 b9429f246b694ed17ba080060d6561aa158bd12d )
+)
+
+game (
+	name "Games\F1 GP"
+	description "Games\F1 GP"
+	rom ( name "F1 GP.cue" size 924 crc 421416bd md5 2c066a33aaf720e80566d6d8527ac87b sha1 760ad2fb96b997edd58610fe3c1b39a54e057dd3 )
+)
+
+game (
+	name "Games\Family Feud"
+	description "Games\Family Feud"
+	rom ( name "Family Feud.cue" size 930 crc 47f9744d md5 275a7e151ddd48daf33c8ad0624ec3ed sha1 85aed4731170228dc95b003290b2d6272d519c88 )
+)
+
+game (
+	name "Games\FIFA International Soccer"
+	description "Games\FIFA International Soccer"
+	rom ( name "FIFA International Soccer.cue" size 114 crc 47FC164D md5 5FF6A2BC209757248C666BAC72630E6E sha1 E76442D7FB703EE651FED5BCD538F808F0DF07FD )
+)
+
+game (
+	name "Games\FIFA International Soccer"
+	description "Games\FIFA International Soccer"
+	rom ( name "FIFA International Soccer.cue" size 944 crc 292cc969 md5 ab764e9f56481b2605e75112b4a3c0c5 sha1 4ebab561a288b3a2955ffc5ae988cb0561e88fe9 )
+)
+
+game (
+	name "Games\FIFA International Soccer (Not For Resale)"
+	description "Games\FIFA International Soccer (Not For Resale)"
+	rom ( name "FIFA International Soccer (Not For Resale).cue" size 961 crc ec11d1b9 md5 9dfe00acc22213b6fb0f431cb855cd2e sha1 38d479bc5d0f2b0e26878372ac72a7e0e505b45c )
+)
+
+game (
+	name "Games\FIFA International Soccer (South Korea)"
+	description "Games\FIFA International Soccer (South Korea)"
+	rom ( name "FIFA International Soccer (South Korea).cue" size 958 crc 5733dede md5 933d06321d1805c9c56b1633cad4c9f2 sha1 c839f7d802dca591e2e907fd2fc8dc81ac2480ed )
+)
+
+game (
+	name "Games\Fire Ball !!"
+	description "Games\Fire Ball !!"
+	rom ( name "Fire Ball !!.cue" size 931 crc 8952cb15 md5 f19dc62c3ddc3a209f85c2697d46dbb0 sha1 43beabb13039ea69706920d066177f3d9ba952a9 )
+)
+
+game (
+	name "Games\Fire Ball !! (#1)"
+	description "Games\Fire Ball !! (#1)"
+	rom ( name "Fire Ball !! (#1).img" size 58858800 crc 898ebecd md5 3817209b021273a5b9a63c9d0c1d964c sha1 6dfd62a439abfcd06f6c4ee4a10567d2fb7f064e )
+)
+
+game (
+	name "Games\Firewall (South Korea)"
+	description "Games\Firewall (South Korea)"
+	rom ( name "Firewall (South Korea).cue" size 941 crc ceeb3b1b md5 574180e495c428b597524bc471f92ad6 sha1 c8ea6a2226d859a5f083165b5d395d90f2ec698f )
+)
+
+game (
+	name "Games\Flashback"
+	description "Games\Flashback"
+	rom ( name "Flashback.cue" size 928 crc d964cdfa md5 85f8e6a62d5ce47344502cef57d3b825 sha1 1593cd0591e6645609ccd061d4c30ed5d3700e65 )
+)
+
+game (
+	name "Games\Flashback - The Quest for Identity"
+	description "Games\Flashback - The Quest for Identity"
+	rom ( name "Flashback - The Quest for Identity.cue" size 123 crc 6647E294 md5 B4C32813520E16003FABA3D186375689 sha1 92C6EA8B821A6EE77CAB6ED7A80FB45D1F49EB80 )
+)
+
+game (
+	name "Games\Flashback - The Quest for Identity"
+	description "Games\Flashback - The Quest for Identity"
+	rom ( name "Flashback - The Quest for Identity.cue" size 953 crc 21a9b7c7 md5 e077feacf747690f80632ad1fd353fb8 sha1 223cc33a815799a4c983f625c559bfd011b128b6 )
+)
+
+game (
+	name "Games\Flying Nightmares"
+	description "Games\Flying Nightmares"
+	rom ( name "Flying Nightmares.cue" size 936 crc c69725d0 md5 1d0b4e8c639fca6108e3318cade95605 sha1 dd75a2b82d8151403bc530b6ea2751c06f366c88 )
+)
+
+game (
+	name "Games\Flying Nightmares"
+	description "Games\Flying Nightmares"
+	rom ( name "Flying Nightmares.cue" size 936 crc 685c3ee6 md5 47cf1a86a74717e98670d83eb68dbcfb sha1 60bdfb04e8017e83b968a222f4d3779c257bf858 )
+)
+
+game (
+	name "Games\Foes of Ali"
+	description "Games\Foes of Ali"
+	rom ( name "Foes of Ali.cue" size 930 crc ad22d490 md5 417e9dc97123b82ca07a988bab08ef30 sha1 d763400e1603913b7a5b8e906afceb7a45f264a2 )
+)
+
+game (
+	name "Games\Foes of Ali"
+	description "Games\Foes of Ali"
+	rom ( name "Foes of Ali.cue" size 930 crc f0880ce6 md5 9a139f807af6e5e22c8e0b9606df3e5c sha1 c31ebfec4a23cb477343572e962f59bdd1d08448 )
+)
+
+game (
+	name "Games\Furopon World"
+	description "Games\Furopon World"
+	rom ( name "Furopon World.cue" size 932 crc 5d81a77e md5 750b779d651b475ff51b4e2f0117cce8 sha1 87789f0fd51feb11ad0b3b7d53332d0606715231 )
+)
+
+game (
+	name "Games\Game no Tatsujin"
+	description "Games\Game no Tatsujin"
+	rom ( name "Game no Tatsujin.cue" size 935 crc b78d6ed3 md5 7dca9c4ba9892fe65dffab3bbcee067f sha1 79bb862a181c41dd0ff99ad33d0852629fe2ad89 )
+)
+
+game (
+	name "Games\Gex"
+	description "Games\Gex"
+	rom ( name "Gex.cue" size 922 crc a6e92261 md5 e632a6b5c35abae658ffc14c140f8b2c sha1 f6eea18370bbd7ef496755f35a7feba3a7101a7f )
+)
+
+game (
+	name "Games\Gex"
+	description "Games\Gex"
+	rom ( name "Gex.cue" size 922 crc a4bd251b md5 d96ff1ad0fd40ca260897cf31654f495 sha1 2147c8caf2486b9fe763a4622ae23a6742d87b0d )
+)
+
+game (
+	name "Games\Gex"
+	description "Games\Gex"
+	rom ( name "Gex.cue" size 922 crc a4bd251b md5 d96ff1ad0fd40ca260897cf31654f495 sha1 2147c8caf2486b9fe763a4622ae23a6742d87b0d )
+)
+
+game (
+	name "Games\Gex (Not For Resale)"
+	description "Games\Gex (Not For Resale)"
+	rom ( name "Gex (Not For Resale).cue" size 939 crc c30e8094 md5 f869861723083a6bc12329324705178b sha1 19462df9aceee3eebf97c53745b01e78b0e18e0a )
+)
+
+game (
+	name "Games\Goal FH"
+	description "Games\Goal FH"
+	rom ( name "Goal FH.cue" size 926 crc f8fe07b1 md5 bcf5f1bbbccaeafc8de8a95a0cd27871 sha1 ada989fcd4cc45919606494a3d688f84ddedbda3 )
+)
+
+game (
+	name "Games\Great! Soccer Kid"
+	description "Games\Great! Soccer Kid"
+	rom ( name "Great! Soccer Kid.cue" size 936 crc c182c3a0 md5 a6c20b3c3d216bcc403b1c557111ef2d sha1 c77fc8a140f920ebb80571713dbf6f94a59153b7 )
+)
+
+game (
+	name "Games\Gridders"
+	description "Games\Gridders"
+	rom ( name "Gridders.cue" size 927 crc 376c25c9 md5 96f69e7e0c0048ddbcd5960f29332b70 sha1 ca4761ad69a8611a366265d127349cf3147c0a8d )
+)
+
+game (
+	name "Games\Gridders"
+	description "Games\Gridders"
+	rom ( name "Gridders.cue" size 97 crc 3F5E2DE9 md5 88F5167779F56564D2BB103CFA4D31DE sha1 ECA6C1C29A224B2A05331E19BA0AEAC46386B109 )
+)
+
+game (
+	name "Games\Gridders"
+	description "Games\Gridders"
+	rom ( name "Gridders.cue" size 927 crc be5b87ee md5 ff727fb50d05689c3fd3f068e597cff7 sha1 96a0bf64019fd5c42b853a671f096377ad21c7fe )
+)
+
+game (
+	name "Games\Gridders (South Korea)"
+	description "Games\Gridders (South Korea)"
+	rom ( name "Gridders (South Korea).cue" size 941 crc 1e552196 md5 9f5e5236ef14c1b9069e4dad3c0d16e1 sha1 440f5148b4bbac91630a87d0c5fc2c6ca6601bef )
+)
+
+game (
+	name "Games\Guardian War"
+	description "Games\Guardian War"
+	rom ( name "Guardian War.cue" size 931 crc cfc30517 md5 28273fd100c0070bd95fc89955053b57 sha1 55c0fb4db477721f3c6f57375ce30bb83987fabc )
+)
+
+game (
+	name "Games\Guardian War (Canada)"
+	description "Games\Guardian War (Canada)"
+	rom ( name "Guardian War (Canada).cue" size 962 crc ba95fdee md5 10ad3cbaead323aba35e06949b36ffbd sha1 e33fe33ad4356dd0de4e6ef7aeb718b13e9dd781 )
+)
+
+game (
+	name "Games\Guardian War (South Korea)"
+	description "Games\Guardian War (South Korea)"
+	rom ( name "Guardian War (South Korea).cue" size 945 crc 29ecc12e md5 9e41ff86d1d6e3acfe4fa989e4113fa2 sha1 830e8b7414d724a3c44c74eb0fe063004c2c223b )
+)
+
+game (
+	name "Games\Gunslinger Collection 3-in-1 (Crime Patrol) (Disc 3)"
+	description "Games\Gunslinger Collection 3-in-1 (Crime Patrol) (Disc 3)"
+	rom ( name "Gunslinger Collection 3-in-1 (Crime Patrol) (Disc 3).cue" size 971 crc 0d6d55ac md5 aa6b8cd4c6397e40b7a72a43dfce7f83 sha1 7289aa2616266bfb89bcc2477f7c3cd6db236dd5 )
+)
+
+game (
+	name "Games\Gunslinger Collection 3-in-1 (Mad Dog II - The Lost Gold) (Disc 2)"
+	description "Games\Gunslinger Collection 3-in-1 (Mad Dog II - The Lost Gold) (Disc 2)"
+	rom ( name "Gunslinger Collection 3-in-1 (Mad Dog II - The Lost Gold) (Disc 2).cue" size 985 crc 7acdb85f md5 d37e4cf3047e64c63f4b8a4987e5cacd sha1 a49100729c2568cbec6d0504237133244ca617c5 )
+)
+
+game (
+	name "Games\Gunslinger Collection 3-in-1 (Mad Dog McCree) (Disc 1)"
+	description "Games\Gunslinger Collection 3-in-1 (Mad Dog McCree) (Disc 1)"
+	rom ( name "Gunslinger Collection 3-in-1 (Mad Dog McCree) (Disc 1).cue" size 973 crc 3a2ee7e0 md5 4b4a36401bb1224f8bc50f2ff7421c7d sha1 f0a02b40b744f392a6557b14b320e8676aa4e332 )
+)
+
+game (
+	name "Games\Hell - A Cyberpunk Thriller"
+	description "Games\Hell - A Cyberpunk Thriller"
+	rom ( name "Hell - A Cyberpunk Thriller.cue" size 946 crc 0b0d19ba md5 2548b7afcc9dda35edb40e124851e6d6 sha1 e7d49c32d42790591d859d56b23fe19b26e05572 )
+)
+
+game (
+	name "Games\Horde, The"
+	description "Games\Horde, The"
+	rom ( name "Horde, The.cue" size 929 crc 9f2e0f49 md5 82ba5e87bd131d8c7f5ef156d9995ac8 sha1 6031148807fb27d4b6ba7ac257a097f2accde443 )
+)
+
+game (
+	name "Games\Horde, The"
+	description "Games\Horde, The"
+	rom ( name "Horde, The.cue" size 929 crc c903c3d9 md5 9c7346e2538334538f0c98bb1fa1cf7d sha1 b802037ff14fb42b9498705dd88340bd65f6679b )
+)
+
+game (
+	name "Games\Horde, The"
+	description "Games\Horde, The"
+	rom ( name "Horde, The.cue" size 929 crc 6ded492a md5 8b253a6f4ab32c7077ba50b674a8e5dd sha1 a6b1f50d23daa63558a73d729a7c5810ba81fbcb )
+)
+
+game (
+	name "Games\Icebreaker"
+	description "Games\Icebreaker"
+	rom ( name "Icebreaker.cue" size 99 crc BB9A60FB md5 A20F8456998E4CAC67837DC688ED42A3 sha1 1D910145E06818608D2D00ED666435739AE9BFD7 )
+)
+
+game (
+	name "Games\Icebreaker II - The Game (The Game) (Disc 1)"
+	description "Games\Icebreaker II - The Game (The Game) (Disc 1)"
+	rom ( name "Icebreaker II - The Game (The Game) (Disc 1).cue" size 133 crc 1C0103D1 md5 BCC927AF6DDA09941A313AF28A24CF71 sha1 DD13741D07BD57630AD203B329C7D63999908F85 )
+)
+
+game (
+	name "Games\Ida Jiyouji Nightmare Interactive - Moon Cradle - Igyou no Hanayome"
+	description "Games\Ida Jiyouji Nightmare Interactive - Moon Cradle - Igyou no Hanayome"
+	rom ( name "Ida Jiyouji Nightmare Interactive - Moon Cradle - Igyou no Hanayome.cue" size 986 crc afb7e40f md5 5cacb497decd20ef671c97bda404563b sha1 8e34b5ad694f5cb92f5dc5ca11d46192fbddcdf5 )
+)
+
+game (
+	name "Games\Ide Yousuke Meijin no Shinjissen"
+	description "Games\Ide Yousuke Meijin no Shinjissen"
+	rom ( name "Ide Yousuke Meijin no Shinjissen.cue" size 973 crc f771480f md5 d4ef5f4876f54f7ec79c085e67dd629d sha1 f5e8bfea5ccd95087a9e7f6ee581cc944c2eceb1 )
+)
+
+game (
+	name "Games\Idol Janshi Suchie-Pai Special"
+	description "Games\Idol Janshi Suchie-Pai Special"
+	rom ( name "Idol Janshi Suchie-Pai Special.cue" size 949 crc b97b087e md5 0d96a72f78b6ac7ca1570ff47ae17135 sha1 4fe07c8779eb93b214cf2fae1fb3ed0c1a6ea007 )
+)
+
+game (
+	name "Games\Idol Mahjong Final Romance 2 - Hyper Edition"
+	description "Games\Idol Mahjong Final Romance 2 - Hyper Edition"
+	rom ( name "Idol Mahjong Final Romance 2 - Hyper Edition.cue" size 985 crc 200ec973 md5 3124f7adbeb1da93bbab86bf03de28f9 sha1 b4f0ffa51784d4f5fa554417be0e2709c8f5e158 )
+)
+
+game (
+	name "Games\Igo Time Trial Najigo I"
+	description "Games\Igo Time Trial Najigo I"
+	rom ( name "Igo Time Trial Najigo I.cue" size 964 crc 125a5c22 md5 1b563ca91e831b786f12982e98adbf5b sha1 b300043c8b65d997bf2048959d11076f6dc46038 )
+)
+
+game (
+	name "Games\Igo Time Trial Shikatsudai Hyakka"
+	description "Games\Igo Time Trial Shikatsudai Hyakka"
+	rom ( name "Igo Time Trial Shikatsudai Hyakka.img" size 48874560 crc 8c6b65c5 md5 ad74e24510139756258cd5d28f44f9ea sha1 e9a1bffda13cc6f4afbbe4de5a9d3e8833d7b4aa )
+)
+
+game (
+	name "Games\Immercenary"
+	description "Games\Immercenary"
+	rom ( name "Immercenary.cue" size 930 crc 7f023f71 md5 3d50282b781b3b268de778a06076f736 sha1 ff558d3448aa3fbef4c8a7cb89b9191f385bd2f0 )
+)
+
+game (
+	name "Games\Immercenary"
+	description "Games\Immercenary"
+	rom ( name "Immercenary.cue" size 930 crc 3b8f1454 md5 21698b34db5627f088195934e75fd49f sha1 c183eab094467fcd5ab83bdbb98282edf174700d )
+)
+
+game (
+	name "Games\Immercenary (Germany)"
+	description "Games\Immercenary (Germany)"
+	rom ( name "Immercenary (Germany).cue" size 940 crc e98a78e0 md5 b57c8b1db9e7ef6e19de4576239574fc sha1 e565b624c093eed7e6adae5ab1b48d69a4444cde )
+)
+
+game (
+	name "Games\Incredible Machine, The"
+	description "Games\Incredible Machine, The"
+	rom ( name "Incredible Machine, The.cue" size 112 crc A09FD660 md5 082CED2B69B8BB358EAFCC9BEA7EBBDF sha1 9AA892E8B983CF6B7C2BFC9422829F2C51C8DBD3 )
+)
+
+game (
+	name "Games\Incredible Machine, The"
+	description "Games\Incredible Machine, The"
+	rom ( name "Incredible Machine, The.cue" size 942 crc dff8c29d md5 83c9f8a467c1e474080792513b180a44 sha1 e1ac3fcc80854806600f9b13fd57bbbcad34f952 )
+)
+
+game (
+	name "Games\Insector War"
+	description "Games\Insector War"
+	rom ( name "Insector War.cue" size 953 crc 652092aa md5 9c425e2cdc766ef85acf83e3d540876e sha1 1832afed59b0317bcc3bd251fa1a65c5a2cb3674 )
+)
+
+game (
+	name "Games\Iron Angel of The Apocalypse"
+	description "Games\Iron Angel of The Apocalypse"
+	rom ( name "Iron Angel of The Apocalypse.cue" size 969 crc 4710b4d0 md5 827baf5f65b485d52bd95a3d68979a8b sha1 297a1c2ddbd3496b1a59c948a502ea5c3bbdb307 )
+)
+
+game (
+	name "Games\Iron Angel of The Apocalypse"
+	description "Games\Iron Angel of The Apocalypse"
+	rom ( name "Iron Angel of The Apocalypse.cue" size 947 crc 2eba269f md5 7b19ae85739a0f2e415b1764ac0d579e sha1 eec1dafeaea92603f1564921d61af7d910fff6d0 )
+)
+
+game (
+	name "Games\Iron Angel of The Apocalypse - The Return"
+	description "Games\Iron Angel of The Apocalypse - The Return"
+	rom ( name "Iron Angel of The Apocalypse - The Return.cue" size 960 crc 2007bb1f md5 ef693bc3449eccf1821674bef493c325 sha1 ce6c8e4b28b92a19d0af712e396738f525b630be )
+)
+
+game (
+	name "Games\Ishida Yoshio Kudan no Igo Seiha"
+	description "Games\Ishida Yoshio Kudan no Igo Seiha"
+	rom ( name "Ishida Yoshio Kudan no Igo Seiha.cue" size 121 crc F73C6475 md5 4572991D8E3C75F19F1E267C8A3915DB sha1 B72CAB464D814758D6666BDC2D04F5EB8AD504EB )
+)
+
+game (
+	name "Games\J. B. Harold Blue Chicago Blues (Disc 1)"
+	description "Games\J. B. Harold Blue Chicago Blues (Disc 1)"
+	rom ( name "J. B. Harold Blue Chicago Blues (Disc 1).cue" size 959 crc 62076607 md5 28b31f3e1d9be03d3afcd2371172dddb sha1 1ad29b5eac73ac276218a6c8ad13906e28aa3633 )
+)
+
+game (
+	name "Games\J. B. Harold Blue Chicago Blues (Disc 2)"
+	description "Games\J. B. Harold Blue Chicago Blues (Disc 2)"
+	rom ( name "J. B. Harold Blue Chicago Blues (Disc 2).cue" size 959 crc 731ac55d md5 943c35c12800fbf2fcae5cc651112664 sha1 6af2a10b1e402c2a412e314a27c29204052cb8dd )
+)
+
+game (
+	name "Games\J.League Virtual Stadium"
+	description "Games\J.League Virtual Stadium"
+	rom ( name "J.League Virtual Stadium.cue" size 943 crc d06e79aa md5 8c08d5be231714bc6a65eca0045baf08 sha1 f6aea6c0dd759e270a36110ab60e01a6b0f15577 )
+)
+
+game (
+	name "Games\J.League Virtual Stadium '95"
+	description "Games\J.League Virtual Stadium '95"
+	rom ( name "J.League Virtual Stadium '95.cue" size 947 crc c64af5a0 md5 21dee5850522928114fc68074dcf7f41 sha1 43e5f75b20fca80e4f0483593ee1cd5cad8f7f41 )
+)
+
+game (
+	name "Games\Jammit"
+	description "Games\Jammit"
+	rom ( name "Jammit.cue" size 925 crc c42f2b77 md5 3d46f5698f575038a1eef1545a662a92 sha1 56f2ed7e11384088a0fcd9c657898e221ec4e842 )
+)
+
+game (
+	name "Games\Jieitai World"
+	description "Games\Jieitai World"
+	rom ( name "Jieitai World.cue" size 954 crc f5a3d8af md5 406b3d703fe2cf5fc2c63440bcb05ca5 sha1 cc4055e1815c2c0892d7687979690b6ecf306dfd )
+)
+
+game (
+	name "Games\Jikki Pachi Slot Simulator Vol. 1"
+	description "Games\Jikki Pachi Slot Simulator Vol. 1"
+	rom ( name "Jikki Pachi Slot Simulator Vol. 1.cue" size 952 crc 45250d3c md5 a78650b96ccb1ac4f1e30b0391b7646b sha1 90ef58a955bfc8213d85055bc735b5fb0b02e727 )
+)
+
+game (
+	name "Games\John Madden Football (70)"
+	description "Games\John Madden Football (70)"
+	rom ( name "John Madden Football (70).cue" size 944 crc 05350617 md5 1328674a15c56e2ab879a414dc3a2dab sha1 abdf3ce86ab1eff5b22d70135b92d7ff703b146d )
+)
+
+game (
+	name "Games\John Madden Football (R73)"
+	description "Games\John Madden Football (R73)"
+	rom ( name "John Madden Football (R73).cue" size 945 crc 7f351195 md5 a54b2e47456e27f7d3c6dca685ca7f07 sha1 94dfec22588d03d8f1f568b48171937eab24308f )
+)
+
+game (
+	name "Games\John Madden NFL Football"
+	description "Games\John Madden NFL Football"
+	rom ( name "John Madden NFL Football.cue" size 90 crc BE3899A1 md5 8719056DA0C0FDD646F13495751FF9FB sha1 78CFEA67CF355D413A9AF48647A0C9B822C6A826 )
+)
+
+game (
+	name "Games\Johnny Bazookatone"
+	description "Games\Johnny Bazookatone"
+	rom ( name "Johnny Bazookatone.cue" size 937 crc 98890f9f md5 28558180f5869d4c3d13b6c5c7391ecf sha1 1c11f6362d9165d2950829fcbf7b699a18c4e5ba )
+)
+
+game (
+	name "Games\Johnny Bazookatone"
+	description "Games\Johnny Bazookatone"
+	rom ( name "Johnny Bazookatone.cue" size 937 crc 932d5033 md5 9e293199dbef3c7ed30dbad26fd0c785 sha1 7a3afc2dce37a37885a17e45b0b6adc49a756f3e )
+)
+
+game (
+	name "Games\Jurassic Park Interactive"
+	description "Games\Jurassic Park Interactive"
+	rom ( name "Jurassic Park Interactive.cue" size 966 crc 23c8fe9d md5 78d3a6da2ac8e3b320a238b808917d08 sha1 9995d2bace3fc77378b6465cfa7af0a8292afb49 )
+)
+
+game (
+	name "Games\Jurassic Park Interactive"
+	description "Games\Jurassic Park Interactive"
+	rom ( name "Jurassic Park Interactive.cue" size 944 crc e9e7b563 md5 5677ffc9e256c177c6d4e4f8612f2ae6 sha1 1aabb61ab07977c1aea3ef64deeb5e3cdf4c045a )
+)
+
+game (
+	name "Games\Jurassic Park Interactive (Not For Resale)"
+	description "Games\Jurassic Park Interactive (Not For Resale)"
+	rom ( name "Jurassic Park Interactive (Not For Resale).cue" size 961 crc 1a111f5a md5 46425ba1050b576fd8964cd7cdf46ce9 sha1 f143bf024ddfb01fb0638fcc3649049fbec3c8c5 )
+)
+
+game (
+	name "Games\Kakinoki Shougi"
+	description "Games\Kakinoki Shougi"
+	rom ( name "Kakinoki Shougi.cue" size 81 crc AF7D0AA5 md5 B0B3AF8A3A6662044F1753D8CB5C8FE2 sha1 5309C605A00B2E9E23AA9C92F9A3369290EA4D9D )
+)
+
+game (
+	name "Games\Keiba Saishou no Housoku"
+	description "Games\Keiba Saishou no Housoku"
+	rom ( name "Keiba Saishou no Housoku.cue" size 943 crc 82951f27 md5 531cbee14a91c672e248f764ca5de729 sha1 8330507ff4a26b1a57e19327e9cabc537122c100 )
+)
+
+game (
+	name "Games\Killing Time"
+	description "Games\Killing Time"
+	rom ( name "Killing Time.cue" size 931 crc 2ddd0d19 md5 defe25f362ba647ee29845f3dc6d1981 sha1 457af91eb00d315d1c38f21284f534e4adaf5264 )
+)
+
+game (
+	name "Games\Killing Time (v3.10) (Mail-in-disc) (RE2)"
+	description "Games\Killing Time (v3.10) (Mail-in-disc) (RE2)"
+	rom ( name "Killing Time (v3.10) (Mail-in-disc) (RE2).cue" size 960 crc d7f51755 md5 3fc6c4c352c4bf1c42c068843e5db22c sha1 c696c17f34c317db36c561a65bcbe532efd82424 )
+)
+
+game (
+	name "Games\Killing Time (v3.5) (RE1)"
+	description "Games\Killing Time (v3.5) (RE1)"
+	rom ( name "Killing Time (v3.5) (RE1).cue" size 944 crc b404c805 md5 59db02cb15246ca230a8cb95c5f6a4e0 sha1 0b4306afb5bf9a842d20897d8a176fc840d24edd )
+)
+
+game (
+	name "Games\Kingdom - The Far Reaches"
+	description "Games\Kingdom - The Far Reaches"
+	rom ( name "Kingdom - The Far Reaches.cue" size 944 crc c046b828 md5 97a24bf081627a4dad0418a216a7705a sha1 e04949791f18c99bc54581f1dbe2009fdd3b5c4a )
+)
+
+game (
+	name "Games\Kingdom - The Far Reaches"
+	description "Games\Kingdom - The Far Reaches"
+	rom ( name "Kingdom - The Far Reaches.cue" size 944 crc c046b828 md5 97a24bf081627a4dad0418a216a7705a sha1 e04949791f18c99bc54581f1dbe2009fdd3b5c4a )
+)
+
+game (
+	name "Games\Konpeki no Kantai (R1C)"
+	description "Games\Konpeki no Kantai (R1C)"
+	rom ( name "Konpeki no Kantai (R1C).cue" size 942 crc 6d34cce9 md5 53e03b45fbb0db768ca645b65ae60b76 sha1 9d135c4afca4da54a66c5ace9fc68de0b9ee8d36 )
+)
+
+game (
+	name "Games\Konpeki no Kantai (R1M)"
+	description "Games\Konpeki no Kantai (R1M)"
+	rom ( name "Konpeki no Kantai (R1M).cue" size 964 crc a08f3825 md5 4fcce4dd799ce9f9c95ecb4cd24f2363 sha1 1d4c668348844ce0a10a169e79b0777d4a4dece4 )
+)
+
+game (
+	name "Games\Kurokishi no Kamen (#1)"
+	description "Games\Kurokishi no Kamen (#1)"
+	rom ( name "Kurokishi no Kamen (#1).cue" size 964 crc ec66c1aa md5 9fd9c36f3548bea9400624f4492f4fcd sha1 1f7ee93d4b6e0d92fbc83490d31c18ed4c763bd6 )
+)
+
+game (
+	name "Games\Kurokishi no Kamen (1)"
+	description "Games\Kurokishi no Kamen (1)"
+	rom ( name "Kurokishi no Kamen (1).cue" size 941 crc 887624dd md5 a1fd7740224891e1e87ee47ff41fdceb sha1 56bc47cb3340995ff431493f559425c3c3c18b5f )
+)
+
+game (
+	name "Games\Kyuusei Uranai Niyoru Heisei Kaiun Koyomi"
+	description "Games\Kyuusei Uranai Niyoru Heisei Kaiun Koyomi"
+	rom ( name "Kyuusei Uranai Niyoru Heisei Kaiun Koyomi.cue" size 982 crc 778a9b62 md5 e24d582d0fd59e49d7cfb06819ed40eb sha1 12ceb2a36d9096e5b2dd160937376cc400809685 )
+)
+
+game (
+	name "Games\Last Bounty Hunter, The"
+	description "Games\Last Bounty Hunter, The"
+	rom ( name "Last Bounty Hunter, The.cue" size 942 crc 5d5a511f md5 5c8cc7666d52f3be5280f8f3729b726d sha1 d3c5f85308bcbae374d3e1229f59ae9af232997e )
+)
+
+game (
+	name "Games\Lemmings"
+	description "Games\Lemmings"
+	rom ( name "Lemmings.cue" size 927 crc 04b71b01 md5 e779c7beda476ef5b48d4740bad2611f sha1 99cce128feac3c291fd16bcbeb497e19c1247289 )
+)
+
+game (
+	name "Games\Lemmings"
+	description "Games\Lemmings"
+	rom ( name "Lemmings.cue" size 927 crc 63e84a32 md5 c46052f5c2c711ada04ed4b098f6bc8a sha1 ef3cfd0fe5706b98d854a6c0e1d51edc006bf7f6 )
+)
+
+game (
+	name "Games\Lost Dungeon"
+	description "Games\Lost Dungeon"
+	rom ( name "Lost Dungeon.cue" size 953 crc 811b2f4c md5 cd50ccf63cad2bca179b8ad2e50eb8dd sha1 e09b4c4a4aaeda16d6d8de47ac35a40655d12901 )
+)
+
+game (
+	name "Games\Lost Eden"
+	description "Games\Lost Eden"
+	rom ( name "Lost Eden.cue" size 98 crc 89263771 md5 693F77C8A34CEE09AB88EC52F558D451 sha1 62BCA789BD913EB349DC2297504D342BB3047435 )
+)
+
+game (
+	name "Games\Lost Files of Sherlock Holmes, The"
+	description "Games\Lost Files of Sherlock Holmes, The"
+	rom ( name "Lost Files of Sherlock Holmes, The.cue" size 953 crc 1cc0b466 md5 36fa09bd09b1ebee75e6e5cf77222448 sha1 7861dd2108da94925a5b0cb82b7bad629029dcf4 )
+)
+
+game (
+	name "Games\Lucienne's Quest"
+	description "Games\Lucienne's Quest"
+	rom ( name "Lucienne's Quest.cue" size 935 crc 6dd7166e md5 1dbbdc0282f40b3243fc29447bd5b304 sha1 b344c078cfeb7c5181c61cc1ca447a4b12cf139f )
+)
+
+game (
+	name "Games\Macaroni Houren Shou Interactive"
+	description "Games\Macaroni Houren Shou Interactive"
+	rom ( name "Macaroni Houren Shou Interactive.cue" size 973 crc c7a972b2 md5 cb481d448db34a04ecb5ee7e7465b447 sha1 01060b0b74a1192bccb6f0e112c3530e4970412d )
+)
+
+game (
+	name "Games\Mad Dog II - The Lost Gold"
+	description "Games\Mad Dog II - The Lost Gold"
+	rom ( name "Mad Dog II - The Lost Gold.cue" size 945 crc b831092a md5 c925aea9d8718906b5a34c012d160be6 sha1 0398dfddee687e5c8b70c023e900e9c6021f511a )
+)
+
+game (
+	name "Games\Mad Dog McCree"
+	description "Games\Mad Dog McCree"
+	rom ( name "Mad Dog McCree.cue" size 933 crc a7d468df md5 4bcf084b6ff46fa84556eee8f8a6794f sha1 11061bf6800969021ab13e165efe941600b778a6 )
+)
+
+game (
+	name "Games\Mahjong Gokuu Tenjiku"
+	description "Games\Mahjong Gokuu Tenjiku"
+	rom ( name "Mahjong Gokuu Tenjiku.cue" size 962 crc e930eefe md5 3d113b0eed0dac66aa2ac669144c31bb sha1 0a880d4a07944fce03853e9d0821e13ecb91aae1 )
+)
+
+game (
+	name "Games\Mahjong Kyou Jidai - AV Gal Seifuku Hen"
+	description "Games\Mahjong Kyou Jidai - AV Gal Seifuku Hen"
+	rom ( name "Mahjong Kyou Jidai - AV Gal Seifuku Hen.cue" size 980 crc 21a7f56a md5 34f0ae716732021c4df7477e2a5462bf sha1 e8bdc6b5a79fa7cf5582719ab535ff275be680e3 )
+)
+
+game (
+	name "Games\Mahjong Kyou Jidai - Cogal Houkago Hen"
+	description "Games\Mahjong Kyou Jidai - Cogal Houkago Hen"
+	rom ( name "Mahjong Kyou Jidai - Cogal Houkago Hen.cue" size 957 crc 95a31535 md5 ddc6454744c99a48b5737e5ced2e305c sha1 80637bcc7df9cf25b06fdcf5945a3b35b7cac95f )
+)
+
+game (
+	name "Games\Mazer"
+	description "Games\Mazer"
+	rom ( name "Mazer.cue" size 924 crc 0a04bb0b md5 d6c715485f4c9e597110029d44bfe3e4 sha1 94c4d98573f06463383a0f124e11a15ccffca6bb )
+)
+
+game (
+	name "Games\MegaRace"
+	description "Games\MegaRace"
+	rom ( name "MegaRace.cue" size 927 crc b014984e md5 2c5a05429cd85b22d511ee20155c186b sha1 c17623c279c69920ea60c7f7d16ebb0e70f28d27 )
+)
+
+game (
+	name "Games\MegaRace"
+	description "Games\MegaRace"
+	rom ( name "MegaRace.cue" size 97 crc 7AB0625E md5 B98C8EDA785A20E172A264377A7B6593 sha1 34B6DEB5B1F29C7B413904DD8E1B596753DC7C09 )
+)
+
+game (
+	name "Games\MegaRace"
+	description "Games\MegaRace"
+	rom ( name "MegaRace.img" size 771408960 crc A5BAA497 md5 0DCBE251A83FDFF54EE72674CDEFE608 sha1 C1C5486722CE26568C293C145712D549670297D2 )
+)
+
+game (
+	name "Games\MegaRace (South Korea)"
+	description "Games\MegaRace (South Korea)"
+	rom ( name "MegaRace (South Korea).cue" size 973 crc f7012176 md5 ab5a41cdae1f432f8438fb6b903913d2 sha1 b1d5eaa4aa30bca48b4cc61e95c27c27bd21faca )
+)
+
+game (
+	name "Games\Microcosm"
+	description "Games\Microcosm"
+	rom ( name "Microcosm.cue" size 928 crc c5459301 md5 d276b762ac873d1c641b379bbec903cc sha1 5621288f7d3c5a622d982062fae0dae75c3e8383 )
+)
+
+game (
+	name "Games\Microcosm"
+	description "Games\Microcosm"
+	rom ( name "Microcosm.cue" size 928 crc be98243a md5 224492b064605fc7231b3a7201a59bec sha1 45da44e5e205bd7d914e7a9be2e8746077e76615 )
+)
+
+game (
+	name "Games\Myst"
+	description "Games\Myst"
+	rom ( name "Myst.cue" size 923 crc 83805e72 md5 1a9ddbdd2cfc5239602a9f5b84be4020 sha1 e50251685938063caffbf49a9222d928fc583871 )
+)
+
+game (
+	name "Games\Myst"
+	description "Games\Myst"
+	rom ( name "Myst.cue" size 923 crc c255ed53 md5 daecc19cb4a5842792da84ca44ebedbe sha1 6a10c95b1f675aa43c77ba4f2c891e83a581665b )
+)
+
+game (
+	name "Games\Myst (A)"
+	description "Games\Myst (A)"
+	rom ( name "Myst (A).cue" size 927 crc 667b292a md5 e30a6bf11e8ebf0ac701c444bc0655f0 sha1 a95e58b081f903e535c0ccd208e9e7c9ddeb4c06 )
+)
+
+game (
+	name "Games\Myst (Germany)"
+	description "Games\Myst (Germany)"
+	rom ( name "Myst (Germany).cue" size 80 crc 70C6B0C7 md5 BA72076527E5BDD5BD0EB29390DBD21C sha1 B5CE042F7D899D3B39292640CA8C54A252375160 )
+)
+
+game (
+	name "Games\N.O.B (Neo Organic Bioform)"
+	description "Games\N.O.B (Neo Organic Bioform)"
+	rom ( name "N.O.B (Neo Organic Bioform).cue" size 946 crc d4062739 md5 5dbac43dbaafcaf300b3439f647bcf85 sha1 a97f65001c3ac33227374856a3d89b6041db3acc )
+)
+
+game (
+	name "Games\NFL Madden Football"
+	description "Games\NFL Madden Football"
+	rom ( name "NFL Madden Football.cue" size 960 crc 0997aebf md5 7a8262d55389f9deb74954a05789758c sha1 c457b2299230884097b33fcb390487e416fd6c21 )
+)
+
+game (
+	name "Games\Night Trap (Disc 1)"
+	description "Games\Night Trap (Disc 1)"
+	rom ( name "Night Trap (Disc 1).cue" size 938 crc eda57544 md5 dfbcbd2249a61d5f55ebb2357c689203 sha1 efacf55db7201e33455993d69aa187ae2d8feb75 )
+)
+
+game (
+	name "Games\Night Trap (Disc 1)"
+	description "Games\Night Trap (Disc 1)"
+	rom ( name "Night Trap (Disc 1).cue" size 938 crc 1c2370bf md5 3fd129c2f4238ca95fb0bee8271c9e24 sha1 9d62aa63a7109295973104579d4fc8c826335528 )
+)
+
+game (
+	name "Games\Night Trap (Disc 2)"
+	description "Games\Night Trap (Disc 2)"
+	rom ( name "Night Trap (Disc 2).cue" size 938 crc a461f47c md5 4fc48c92e5f6af2e485c0fd71499eecc sha1 29793d9ae9df2601832a3b9247d520eeda2c86c2 )
+)
+
+game (
+	name "Games\Night Trap (Disc 2)"
+	description "Games\Night Trap (Disc 2)"
+	rom ( name "Night Trap (Disc 2).cue" size 938 crc 8f37e2a8 md5 ff4f20acbf4b9e41fa78503a93faa4d8 sha1 66bfab0c2198164a7c09f93bd98ee012231f382c )
+)
+
+game (
+	name "Games\Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (Disc 1)"
+	description "Games\Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (Disc 1)"
+	rom ( name "Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (Disc 1).cue" size 983 crc 0c00a72c md5 338e67041fb0f2a219b5286ad50d0829 sha1 02b6c1cbd69272b978033be296ddcd8ac624ded5 )
+)
+
+game (
+	name "Games\Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (Disc 2)"
+	description "Games\Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (Disc 2)"
+	rom ( name "Nishimura Keitarou Travel Mystery - Akugyaku no Kisetsu (Disc 2).cue" size 983 crc f3fe455c md5 bcc242f3bbebe1db65454d54ab88c645 sha1 46b5ca777d501a0bd5a99817714bd49999ed96dd )
+)
+
+game (
+	name "Games\Nobunaga no Yabou - Haouden"
+	description "Games\Nobunaga no Yabou - Haouden"
+	rom ( name "Nobunaga no Yabou - Haouden.cue" size 968 crc 01eb4d7b md5 25f8af42df57921fbcd1c065f26c7c82 sha1 75bdbf86dc483127921cc97529fbdddb0b7923b3 )
+)
+
+game (
+	name "Games\Nova-Storm"
+	description "Games\Nova-Storm"
+	rom ( name "Nova-Storm.cue" size 929 crc 85fb44cb md5 2b039e17754ea5d60ac9cadf686756bb sha1 103774f5eee8368a411439696a80e93a62a4d78a )
+)
+
+game (
+	name "Games\Novastorm"
+	description "Games\Novastorm"
+	rom ( name "Novastorm.img" size 734929440 crc EF347F74 md5 96428FB860254000E766287ECBBC0C40 sha1 731B19F2EAB1DCFC101951E05A98E41D55DF45DD )
+)
+
+game (
+	name "Games\Off-World Interceptor"
+	description "Games\Off-World Interceptor"
+	rom ( name "Off-World Interceptor.cue" size 940 crc 064d970f md5 a56f32e689d96f0f24c5d2ada28a588c sha1 0b159f3486a77738b6d357b0270e2d3ebf5fc1d1 )
+)
+
+game (
+	name "Games\Off-World Interceptor"
+	description "Games\Off-World Interceptor"
+	rom ( name "Off-World Interceptor.cue" size 940 crc 055e45d7 md5 5ab13effe782ba5acd2e73db065cf87d sha1 8d00453efe158ce77f78f484849dd3f8065ce174 )
+)
+
+game (
+	name "Games\Off-World Interceptor"
+	description "Games\Off-World Interceptor"
+	rom ( name "Off-World Interceptor.cue" size 940 crc 055e45d7 md5 5ab13effe782ba5acd2e73db065cf87d sha1 8d00453efe158ce77f78f484849dd3f8065ce174 )
+)
+
+game (
+	name "Games\Off-World Interceptor (South Korea)"
+	description "Games\Off-World Interceptor (South Korea)"
+	rom ( name "Off-World Interceptor (South Korea).cue" size 954 crc 2aa32cea md5 664266ab0c10946122be69378edefb82 sha1 0099335baa816469a9d6397c3f9bf0786f0e70af )
+)
+
+game (
+	name "Games\Ogura Hyakunin Isshuu"
+	description "Games\Ogura Hyakunin Isshuu"
+	rom ( name "Ogura Hyakunin Isshuu.cue" size 940 crc 98316c51 md5 feb20e074e3d4a1ba8bf18893060d0c3 sha1 d48fc252c7518e4b9a43c059352756985a5a9948 )
+)
+
+game (
+	name "Games\Olympic Soccer"
+	description "Games\Olympic Soccer"
+	rom ( name "Olympic Soccer.cue" size 933 crc 559c234e md5 db8a9e9f1cbb0f7bfb95c0d3868dd776 sha1 db2f6d6d6c3aec9857c3f71619106f8dfbe1a877 )
+)
+
+game (
+	name "Games\Olympic Summer Games"
+	description "Games\Olympic Summer Games"
+	rom ( name "Olympic Summer Games.img" size 626553984 crc 6502DDC1 md5 86EBD5002D0FF7F5D654DC5B8DBFD1BC sha1 2398837988F8A713171E9A31F514BD0E75846732 )
+)
+
+game (
+	name "Games\OnSide Soccer"
+	description "Games\OnSide Soccer"
+	rom ( name "OnSide Soccer.cue" size 932 crc a2d92931 md5 3c9819c4457d66d8475fc0a502d949ad sha1 baeacdedb55200e8818baf16457750a6a72d7788 )
+)
+
+game (
+	name "Games\Out of This World (45097)"
+	description "Games\Out of This World (45097)"
+	rom ( name "Out of This World (45097).cue" size 944 crc 3c592164 md5 439e185a6d27c755fdfb7b57f209c641 sha1 1012e0f28304cf7db263a11bcbf0b9d7579ed9ff )
+)
+
+game (
+	name "Games\Out of This World (CD3DO0230RE)"
+	description "Games\Out of This World (CD3DO0230RE)"
+	rom ( name "Out of This World (CD3DO0230RE).img" size 385709184 crc 6cae9e8c md5 be58061c58e84029271f4a2888a24189 sha1 a4f3d91b7e889e7866ef6f2afe41c64fe71e6b41 )
+)
+
+game (
+	name "Games\Outer World"
+	description "Games\Outer World"
+	rom ( name "Outer World.cue" size 952 crc ee036126 md5 b710be02f25bb9f3caf4eb985278060e sha1 787e649e1cfdae550d94d748f87ae81366d9f044 )
+)
+
+game (
+	name "Games\Oyaji Hunter Mahjong (Disc 1)"
+	description "Games\Oyaji Hunter Mahjong (Disc 1)"
+	rom ( name "Oyaji Hunter Mahjong (Disc 1).cue" size 948 crc 3c1c9c2f md5 bb95d220dca4e33fe5e7104c2d51d0c4 sha1 980952df5be06aea6f027241b693c08c71e9e8ee )
+)
+
+game (
+	name "Games\Paddock Note '95"
+	description "Games\Paddock Note '95"
+	rom ( name "Paddock Note '95.cue" size 935 crc 5f60407f md5 5825404e9d2da40c4e2ec062245c1934 sha1 6b2ffcc1e030b5d6afef1d98d02f2fe4bf531d94 )
+)
+
+game (
+	name "Games\Panzer General"
+	description "Games\Panzer General"
+	rom ( name "Panzer General.cue" size 933 crc 833ea1c5 md5 37a522e806d502a7fe02c084e904d38b sha1 2314ce1eebfb2df30cd28e7135896ebcf9c58dfb )
+)
+
+game (
+	name "Games\Panzer General"
+	description "Games\Panzer General"
+	rom ( name "Panzer General.cue" size 933 crc 833ea1c5 md5 37a522e806d502a7fe02c084e904d38b sha1 2314ce1eebfb2df30cd28e7135896ebcf9c58dfb )
+)
+
+game (
+	name "Games\Pararancho - The Incredible Machine"
+	description "Games\Pararancho - The Incredible Machine"
+	rom ( name "Pararancho - The Incredible Machine.cue" size 954 crc 36ad5b7e md5 c2b5cbf4279f472c2bfad11fa84c5a25 sha1 b6534cb9ab6364f67dd052798b819d967e52bd5f )
+)
+
+game (
+	name "Games\PaTaank"
+	description "Games\PaTaank"
+	rom ( name "PaTaank.cue" size 926 crc 5906ebba md5 448c8f0d1887879c1dad066981a7bcf2 sha1 ec0150d8dc1319633b8d8cf7c9f2bb2a94292de4 )
+)
+
+game (
+	name "Games\PaTaank"
+	description "Games\PaTaank"
+	rom ( name "PaTaank.cue" size 926 crc e8da4e94 md5 7a0fdd57803cfbf49f5304f31d0cf8fc sha1 4ba5678c357f8a5bab71e8f1b381af03c2ea857b )
+)
+
+game (
+	name "Games\PaTaank"
+	description "Games\PaTaank"
+	rom ( name "PaTaank.cue" size 926 crc e8da4e94 md5 7a0fdd57803cfbf49f5304f31d0cf8fc sha1 4ba5678c357f8a5bab71e8f1b381af03c2ea857b )
+)
+
+game (
+	name "Games\Pebble Beach Golf Links (Canada)"
+	description "Games\Pebble Beach Golf Links (Canada)"
+	rom ( name "Pebble Beach Golf Links (Canada).cue" size 951 crc 7b370794 md5 53cad36412f2c9645b148708ebd028f1 sha1 57ff87905b4f7800e7a548f53cf5aa013efcf00c )
+)
+
+game (
+	name "Games\Pebble Beach Golf Links (South Korea)"
+	description "Games\Pebble Beach Golf Links (South Korea)"
+	rom ( name "Pebble Beach Golf Links (South Korea).cue" size 956 crc bf020c4a md5 2921a377362806b75f9b2572fa11af02 sha1 26ddb3a17d1baa45235df32d99993bcaf666854f )
+)
+
+game (
+	name "Games\Perfect General, The"
+	description "Games\Perfect General, The"
+	rom ( name "Perfect General, The.cue" size 939 crc cd0d733e md5 351071dfb1096c6d1ac19994b5290e4b sha1 fad5fb11242ede06efec861028f76254c018291a )
+)
+
+game (
+	name "Games\Peter Frankl - Puzzle no Tou"
+	description "Games\Peter Frankl - Puzzle no Tou"
+	rom ( name "Peter Frankl - Puzzle no Tou.cue" size 969 crc 67e291e5 md5 da739eba80c06144755e63b1270d921b sha1 df220fbf7834efed6d5860ac22b3d879efe501bd )
+)
+
+game (
+	name "Games\PGA Tour 96"
+	description "Games\PGA Tour 96"
+	rom ( name "PGA Tour 96.cue" size 100 crc 417217C9 md5 1A45D233DE954762146D33EC94E0DD1D sha1 8C19638E2D95B7A52D8FF308A76F58A9FB5426A8 )
+)
+
+game (
+	name "Games\PGA Tour 96"
+	description "Games\PGA Tour 96"
+	rom ( name "PGA Tour 96.cue" size 930 crc 604a6747 md5 51daa5503d0c3b57ae42595939600e96 sha1 9f4e250ced7cc00a8009f920a308d9bd2f4bdcba )
+)
+
+game (
+	name "Games\Phoenix 3"
+	description "Games\Phoenix 3"
+	rom ( name "Phoenix 3.cue" size 928 crc 5add5a40 md5 230fb7becfa491c4e71c428aa43571e2 sha1 d4fb0798bb8e546f0dd05cadde85764479386e53 )
+)
+
+game (
+	name "Games\Phoenix 3"
+	description "Games\Phoenix 3"
+	rom ( name "Phoenix 3.cue" size 928 crc 90f6317f md5 9b796559ce264a5fda87f3c4bca9a5a5 sha1 ac56205813947362d5eb62570add7ba151822721 )
+)
+
+game (
+	name "Games\PO'ed"
+	description "Games\PO'ed"
+	rom ( name "PO'ed.cue" size 924 crc e5507f4c md5 eb30b96381f260ddce533a7c9694fc4f sha1 ea35b1b493230ec626f9e15b15e708651d383b6b )
+)
+
+game (
+	name "Games\PO'ed"
+	description "Games\PO'ed"
+	rom ( name "PO'ed.cue" size 924 crc e5507f4c md5 eb30b96381f260ddce533a7c9694fc4f sha1 ea35b1b493230ec626f9e15b15e708651d383b6b )
+)
+
+game (
+	name "Games\Policenauts (Disc 1)"
+	description "Games\Policenauts (Disc 1)"
+	rom ( name "Policenauts (Disc 1).cue" size 939 crc 9c14b26a md5 cb23df90818770996ccd896b1c9dc3a9 sha1 5c888be5e238cd2db04e66f3838b6cb0db210a35 )
+)
+
+game (
+	name "Games\Policenauts (Disc 2)"
+	description "Games\Policenauts (Disc 2)"
+	rom ( name "Policenauts (Disc 2).cue" size 939 crc 116f90e4 md5 0401b3525fadc721c10eb01f741e0796 sha1 1e0ba0da9c937db5aa1fb08a0c633efe466d1aaa )
+)
+
+game (
+	name "Games\Policenauts Pilot Disk"
+	description "Games\Policenauts Pilot Disk"
+	rom ( name "Policenauts Pilot Disk.cue" size 941 crc c95a41a7 md5 1e2a6ee06ebeb9047188e16b0891c98f sha1 9c9acd87a15775a0473db0227b5637540c9cd066 )
+)
+
+game (
+	name "Games\Powers Kingdom"
+	description "Games\Powers Kingdom"
+	rom ( name "Powers Kingdom.cue" size 933 crc 1e9d9405 md5 41b81db7cff6c4fd92ee3be5d070caa3 sha1 43774d49241c2f2d0de37a7be1a005056002e3c0 )
+)
+
+game (
+	name "Games\Powers Kingdom"
+	description "Games\Powers Kingdom"
+	rom ( name "Powers Kingdom.cue" size 955 crc 50f84c16 md5 a549075c27add6f78434e7997a76d294 sha1 c6e0af2fe80224c26930b3929135d8e5dda24c01 )
+)
+
+game (
+	name "Games\Powerslide (Disc 1)"
+	description "Games\Powerslide (Disc 1)"
+	rom ( name "Powerslide (Disc 1).cue" size 938 crc 6daf21bd md5 2394f16f4087d606d404377e207833c4 sha1 e265197c26c6e7acd3153715f783d0a01bb44c21 )
+)
+
+game (
+	name "Games\Powerslide (Footie) (Disc 2)"
+	description "Games\Powerslide (Footie) (Disc 2)"
+	rom ( name "Powerslide (Footie) (Disc 2).cue" size 947 crc aab62cb1 md5 df4b067c08f57201d52f6af6eda51ec8 sha1 a21e68dae13ffa7f4e0c64d2eb1ea92d25aca445 )
+)
+
+game (
+	name "Games\Primal Rage"
+	description "Games\Primal Rage"
+	rom ( name "Primal Rage.img" size 391226976 crc 7e971f73 md5 84248d0388a3f676e5ec42545d439a9c sha1 6ffdcb274dc72eb199661b3fc1e7165dfe387f3d )
+)
+
+game (
+	name "Games\Primal Rage"
+	description "Games\Primal Rage"
+	rom ( name "Primal Rage.cue" size 100 crc 95018F1B md5 362092C3B6EE41DE75902683C334824A sha1 78D002FA2CC1C44751910F5EF8F146D26EFCBE52 )
+)
+
+game (
+	name "Games\Princess Maker 2"
+	description "Games\Princess Maker 2"
+	rom ( name "Princess Maker 2.cue" size 935 crc c22eff6a md5 2136f9bfa1db42a47e4f5384d9a538ad sha1 605add8f9ffa12c903c92758a0364c6901747f4c )
+)
+
+game (
+	name "Games\Pro Stadium"
+	description "Games\Pro Stadium"
+	rom ( name "Pro Stadium.cue" size 930 crc 4b446437 md5 b8377685a00eb6389ce139750274db73 sha1 d7f79c52a9842e2290fb5f16450f217c130dfc85 )
+)
+
+game (
+	name "Games\Pro Yakyuu Virtual Stadium - Professional Baseball"
+	description "Games\Pro Yakyuu Virtual Stadium - Professional Baseball"
+	rom ( name "Pro Yakyuu Virtual Stadium - Professional Baseball.cue" size 969 crc e46f824a md5 d767b67b81b3d010f0b4923467c6e072 sha1 a6c90e248874b3793c14374528e3decbc1d0a954 )
+)
+
+game (
+	name "Games\Psychic Detective (Disc 1)"
+	description "Games\Psychic Detective (Disc 1)"
+	rom ( name "Psychic Detective (Disc 1).cue" size 945 crc 49038c42 md5 a284ca29a84cc8a0f6b89094d4aa3267 sha1 53baccdf40c513e0129e5c9e5ef21fa5bfded687 )
+)
+
+game (
+	name "Games\Psychic Detective (Disc 1)"
+	description "Games\Psychic Detective (Disc 1)"
+	rom ( name "Psychic Detective (Disc 1).cue" size 945 crc 755bfde0 md5 f81d2a620833a51d1780913d820c1b2b sha1 884671e8b8d9b4308b7ea2006080ff4a5bbf4fec )
+)
+
+game (
+	name "Games\Psychic Detective (Disc 2)"
+	description "Games\Psychic Detective (Disc 2)"
+	rom ( name "Psychic Detective (Disc 2).cue" size 945 crc f72c73e0 md5 cbf87f08b68b03522669330756d679e5 sha1 dc18b3ef6e5d320bd16f414dc9cfd7d7d0de9b68 )
+)
+
+game (
+	name "Games\Psychic Detective (Disc 2)"
+	description "Games\Psychic Detective (Disc 2)"
+	rom ( name "Psychic Detective (Disc 2).cue" size 945 crc 60bfc772 md5 134881874a627e06590000234f175ece sha1 e7416f7c89b224505339b0a3045b0cadf101f796 )
+)
+
+game (
+	name "Games\Psychic Detective (Disc 3)"
+	description "Games\Psychic Detective (Disc 3)"
+	rom ( name "Psychic Detective (Disc 3).cue" size 945 crc 7731a6a5 md5 ea581c6979d96dd1f091895f8ee2722c sha1 9e672dbfe6a462555213b709a9bbc52e284ca297 )
+)
+
+game (
+	name "Games\Puzzle Bobble"
+	description "Games\Puzzle Bobble"
+	rom ( name "Puzzle Bobble.cue" size 932 crc fd53a244 md5 5ddb03d7ef757e4a595eed0e1da359ce sha1 734a8fd6501f51d42233763e03e203e7faef75ed )
+)
+
+game (
+	name "Games\Pyramid Intruder"
+	description "Games\Pyramid Intruder"
+	rom ( name "Pyramid Intruder.cue" size 935 crc 151fbb4d md5 5d6dda19e83815c7547afddab5ee1961 sha1 b3ca0f159d9c7fbe7986d075e08428c9a782b2ef )
+)
+
+game (
+	name "Games\Quarantine"
+	description "Games\Quarantine"
+	rom ( name "Quarantine.cue" size 951 crc 9ca80275 md5 4a56f5deb9e0d1e2879a251677e10293 sha1 b2f08b4657939e3338c011ffafa09c7fc04d12d6 )
+)
+
+game (
+	name "Games\Quarantine"
+	description "Games\Quarantine"
+	rom ( name "Quarantine.cue" size 929 crc d7b6d17e md5 1992a2787d9706060174ec2bbf5204a3 sha1 03ca2cd18153dcae9c4471db65b16fe851692993 )
+)
+
+game (
+	name "Games\Quarterback Attack - The Professional Quarterback Simulator"
+	description "Games\Quarterback Attack - The Professional Quarterback Simulator"
+	rom ( name "Quarterback Attack - The Professional Quarterback Simulator.cue" size 148 crc 0A97638F md5 0C3BBF4C8C8D1F2EE2C7BD413DA3AEEF sha1 664B81D6F59BAB601ADD0CE5F7FCD3CCAD74E09D )
+)
+
+game (
+	name "Games\Real Pinball"
+	description "Games\Real Pinball"
+	rom ( name "Real Pinball.cue" size 953 crc 6deb8c44 md5 7f1842945105e38be90c33ce265daa40 sha1 85e765d3c2e09828451c647fedb0ad25478541a8 )
+)
+
+game (
+	name "Games\Real Pinball"
+	description "Games\Real Pinball"
+	rom ( name "Real Pinball.cue" size 931 crc 1d19db86 md5 020569a2eb82861bfb6e145c1d2c09a2 sha1 26c03aa6bc5bd6dfa275003d98411d710fc2a0ad )
+)
+
+game (
+	name "Games\Real Pinball (Canada)"
+	description "Games\Real Pinball (Canada)"
+	rom ( name "Real Pinball (Canada).cue" size 110 crc 43EC8069 md5 835C70CD40EA1C3206F1DC2C44F8AB5F sha1 62F13F6DA0E878F622983A6DB757EE80DBCEFE64 )
+)
+
+game (
+	name "Games\Return Fire"
+	description "Games\Return Fire"
+	rom ( name "Return Fire.cue" size 952 crc 8021942f md5 e57625ab5953f1b4e3eb5e8ba485e02e sha1 7421f2832fb4ccdc1181537edfcc71e36a3e5879 )
+)
+
+game (
+	name "Games\Return Fire"
+	description "Games\Return Fire"
+	rom ( name "Return Fire.cue" size 100 crc AFA29BF4 md5 020A59DCA66C9758281CD6A949817942 sha1 E0C192E34B9BD41058DBC9139B6B989240AA17D2 )
+)
+
+game (
+	name "Games\Return Fire - Maps o' Death"
+	description "Games\Return Fire - Maps o' Death"
+	rom ( name "Return Fire - Maps o' Death.cue" size 93 crc 33859C45 md5 AA5A09C280A3EEB319FD2CE9581518E5 sha1 C3F3A2C1BC1F47CC8152B2F8E5DB389121BE8FB4 )
+)
+
+game (
+	name "Games\Return Fire - Maps o' Death"
+	description "Games\Return Fire - Maps o' Death"
+	rom ( name "Return Fire - Maps o' Death.cue" size 946 crc 922d8ce7 md5 a7d140f27898b2402b21b44ae9bfb21c sha1 d84f89549475b1a96da76d653b15f2d5ddf82ae6 )
+)
+
+game (
+	name "Games\Return Fire (A1)"
+	description "Games\Return Fire (A1)"
+	rom ( name "Return Fire (A1).cue" size 935 crc 6eab3419 md5 556aaf0126b860dbd56ccbe4b905b0ce sha1 a902f4f35bebbeac98324d8a5faa0b2ef7914e1c )
+)
+
+game (
+	name "Games\Return Fire (A6)"
+	description "Games\Return Fire (A6)"
+	rom ( name "Return Fire (A6).cue" size 935 crc 86acd69b md5 bfcdf60db322101b148b77b98d8c7977 sha1 a497407e726e15af1d768ccda81d5b0c4c5f4b82 )
+)
+
+game (
+	name "Games\Rise of the Robots"
+	description "Games\Rise of the Robots"
+	rom ( name "Rise of the Robots.cue" size 937 crc fbaa8fa0 md5 c181e190bd3f6b0a3bfd1bf34dca3879 sha1 18cd59e8a6b639d53beede267ee5065a8c225303 )
+)
+
+game (
+	name "Games\Rise of the Robots"
+	description "Games\Rise of the Robots"
+	rom ( name "Rise of the Robots.cue" size 937 crc 5f8684f3 md5 02d712ed4a7e319a1b9250a9614cf9e0 sha1 f55895da2248a35a400357192dda01c8ce6a7523 )
+)
+
+game (
+	name "Games\Road & Track Presents - Over Drivin'"
+	description "Games\Road & Track Presents - Over Drivin'"
+	rom ( name "Road & Track Presents - Over Drivin'.cue" size 955 crc 1a27f98a md5 930e8d64f2bd11a063330ba11efac255 sha1 5e50fc932ee9ab094083f6faa1aad8747978e895 )
+)
+
+game (
+	name "Games\Road & Track Presents - The Need for Speed"
+	description "Games\Road & Track Presents - The Need for Speed"
+	rom ( name "Road & Track Presents - The Need for Speed.img" size 771408960 crc d7afff02 md5 b213789b67a3368207a2ebf2c222847a sha1 d0e83eabd8347fa9ad693017167e4639bbf624ad )
+)
+
+game (
+	name "Games\Road & Track Presents - The Need for Speed"
+	description "Games\Road & Track Presents - The Need for Speed"
+	rom ( name "Road & Track Presents - The Need for Speed.cue" size 131 crc D0798F80 md5 E3870FE3B9009F6DC3B90AD9A3C3A0B3 sha1 05794298D9531B0C0451F53894174291F5BAFAAB )
+)
+
+game (
+	name "Games\Road Rash"
+	description "Games\Road Rash"
+	rom ( name "Road Rash.cue" size 928 crc c69b2eda md5 c969bc38043904e042461a2b352b7d92 sha1 ff7b627ba22f160fe86e5d4304bb8ee042c917de )
+)
+
+game (
+	name "Games\Road Rash"
+	description "Games\Road Rash"
+	rom ( name "Road Rash.cue" size 928 crc f689d2bd md5 54c553388236c1d4215119f71e488eb8 sha1 7f54afb9bf10911ef29cb8671803936571c7f8d7 )
+)
+
+game (
+	name "Games\Road Rash (alt)"
+	description "Games\Road Rash (alt)"
+	rom ( name "Road Rash (alt).cue" size 81 crc 1B7988F6 md5 ACAF97C70E1FFEA3314AD38D642163E3 sha1 EFE5320DF06A92A533A2119A0E6878AE49F86FDF )
+)
+
+game (
+	name "Games\Road Rash (Disc 1)"
+	description "Games\Road Rash (Disc 1)"
+	rom ( name "Road Rash (Disc 1).cue" size 937 crc 61970243 md5 47ce32ee9453f0ed18e437e2dd9e9141 sha1 da5dde993bf658333c12a1adacaffb48bfa215e0 )
+)
+
+game (
+	name "Games\Robinson's Requiem"
+	description "Games\Robinson's Requiem"
+	rom ( name "Robinson's Requiem.cue" size 107 crc 52AE9DC7 md5 01D2C4E9F89A42EB48FE380CF63F0E03 sha1 2E08750D191CE10CB897224F5EFAE9E9A35B6E80 )
+)
+
+game (
+	name "Games\Royal Pro Wrestling - Jikkyou Live!!"
+	description "Games\Royal Pro Wrestling - Jikkyou Live!!"
+	rom ( name "Royal Pro Wrestling - Jikkyou Live!!.cue" size 977 crc 197bc2d5 md5 1a4ae45d1d3ab768e927891a0dfb51fa sha1 3a6e8022fce83ceb9efcee10689badfcfd0989cf )
+)
+
+game (
+	name "Games\Samurai Shodown"
+	description "Games\Samurai Shodown"
+	rom ( name "Samurai Shodown.cue" size 934 crc 06819f13 md5 336d27e60eeb379b0056c519aedb89b7 sha1 c2daf3cf7e233955c3bc0dfb83ffbbec22a7220d )
+)
+
+game (
+	name "Games\Samurai Shodown"
+	description "Games\Samurai Shodown"
+	rom ( name "Samurai Shodown.cue" size 934 crc c699e4b0 md5 a068c3ce5d0b7af5a3941f03d73efd18 sha1 4b7223c29756d57f87bfbbd5ff816948da73546c )
+)
+
+game (
+	name "Games\Samurai Shodown"
+	description "Games\Samurai Shodown"
+	rom ( name "Samurai Shodown.cue" size 934 crc c699e4b0 md5 a068c3ce5d0b7af5a3941f03d73efd18 sha1 4b7223c29756d57f87bfbbd5ff816948da73546c )
+)
+
+game (
+	name "Games\Sangokushi IV"
+	description "Games\Sangokushi IV"
+	rom ( name "Sangokushi IV.cue" size 932 crc fea67431 md5 232baec075385edb471ed24030a60e51 sha1 cf07f9953e23270a56afcf40de89cb705565fd06 )
+)
+
+game (
+	name "Games\Scramble Cobra"
+	description "Games\Scramble Cobra"
+	rom ( name "Scramble Cobra.cue" size 933 crc 650ad06a md5 4c3c855bf4b8877dcf31f4046debc40f sha1 b348cfac27a967aecc66623afccba8cef507263b )
+)
+
+game (
+	name "Games\Scramble Cobra"
+	description "Games\Scramble Cobra"
+	rom ( name "Scramble Cobra.cue" size 103 crc 140F9112 md5 F1F088F2C5AD31B548FE6FEE8827A6D2 sha1 D9BB811676023ACA80F045A8E5648802704F6C8C )
+)
+
+game (
+	name "Games\Scramble Cobra"
+	description "Games\Scramble Cobra"
+	rom ( name "Scramble Cobra.cue" size 933 crc af1b818e md5 2e8ddd300f74adf0ebb12a3cd5fc9229 sha1 1a8d51a359944a83335f5e9867456bcdef5f1341 )
+)
+
+game (
+	name "Games\Seal of the Pharaoh"
+	description "Games\Seal of the Pharaoh"
+	rom ( name "Seal of the Pharaoh.cue" size 938 crc 54245085 md5 eb6459b2e765a1dda35f1c9e8d013000 sha1 3951e308610c681c9b3daf95f50237b8a6d519b9 )
+)
+
+game (
+	name "Games\Seimeihandan"
+	description "Games\Seimeihandan"
+	rom ( name "Seimeihandan.cue" size 953 crc b368aed2 md5 7ee54c7e65eef6d89534706571c8f731 sha1 d9fe10729892241dd583042a229a6029e9fecb8b )
+)
+
+game (
+	name "Games\Sekure Fuumin no Omocha Hako"
+	description "Games\Sekure Fuumin no Omocha Hako"
+	rom ( name "Sekure Fuumin no Omocha Hako.cue" size 969 crc e27ff2be md5 9ed94ef1df8dc9f84837857f63114d73 sha1 cf67a32db87c2b7ac3fbef8d003d3bd841056c87 )
+)
+
+game (
+	name "Games\Sento Monogatari Sono 1"
+	description "Games\Sento Monogatari Sono 1"
+	rom ( name "Sento Monogatari Sono 1.cue" size 942 crc a9bb0b24 md5 6a14cc92c6c9c3cbf582384fc922b2fa sha1 ecb639942f8f88b4cccb60d998bf299f6ba4b72b )
+)
+
+game (
+	name "Games\Sewer Shark"
+	description "Games\Sewer Shark"
+	rom ( name "Sewer Shark.cue" size 930 crc 2c9ef514 md5 3f9f392dce9d000aa67e2fab4280c6d2 sha1 409cccb5925a4fbb3e5d68fcee83b860634ca39a )
+)
+
+game (
+	name "Games\Shadow - War of Succession"
+	description "Games\Shadow - War of Succession"
+	rom ( name "Shadow - War of Succession.cue" size 945 crc 32c497ea md5 3663ac875d194a24908b9ccd95266799 sha1 4814d15173303ed7596f272d396a62fb6e4b2f06 )
+)
+
+game (
+	name "Games\Shadow Warriors"
+	description "Games\Shadow Warriors"
+	rom ( name "Shadow Warriors.cue" size 956 crc 164150df md5 0e62f4a1202a12cef1dab2b603c0740b sha1 3e5da97370b27d9af888bf9122aa7055488d3cfd )
+)
+
+game (
+	name "Games\Shanghai - Banri no Choujou"
+	description "Games\Shanghai - Banri no Choujou"
+	rom ( name "Shanghai - Banri no Choujou.cue" size 968 crc 911f4e5f md5 001f3eb50346026b7b1e2e06c94a2d58 sha1 58d43568baf51b68344fb1323de3320c4842e9d4 )
+)
+
+game (
+	name "Games\Shanghai - Triple-Threat (CE 02500)"
+	description "Games\Shanghai - Triple-Threat (CE 02500)"
+	rom ( name "Shanghai - Triple-Threat (CE 02500).cue" size 954 crc 9b0d542b md5 09468b91a6ecca6d7a7c95682c37a0b3 sha1 24f959e98d09f0ee03f38837d5c1c554cde1a665 )
+)
+
+game (
+	name "Games\Shanghai - Triple-Threat (TRIPLETHREAT)"
+	description "Games\Shanghai - Triple-Threat (TRIPLETHREAT)"
+	rom ( name "Shanghai - Triple-Threat (TRIPLETHREAT).cue" size 958 crc 0244954b md5 6a8e12ef7f840c323481298bf2f68814 sha1 8a13d7c7fb55e3a909ed2dfe64e6c9f5fc325966 )
+)
+
+game (
+	name "Games\Shock Wave"
+	description "Games\Shock Wave"
+	rom ( name "Shock Wave.cue" size 929 crc 73f9e5b6 md5 da3629a24f13d78690b7b25851356b55 sha1 6ed027a13e9bd627f763e01fcefb293671d375a5 )
+)
+
+game (
+	name "Games\Shock Wave"
+	description "Games\Shock Wave"
+	rom ( name "Shock Wave.cue" size 99 crc E2374978 md5 EE7AB900390F57EC623336F251BD1C5E sha1 5736E09DDE76536DD39821FBA1F421A8D9A074A5 )
+)
+
+game (
+	name "Games\Shock Wave - Operation JumpGate (Addon disc)"
+	description "Games\Shock Wave - Operation JumpGate (Addon disc)"
+	rom ( name "Shock Wave - Operation JumpGate (Addon disc).cue" size 985 crc e660ad32 md5 ed2c33645c54480494adb16d57a09395 sha1 57cba67db093da15ca4aedca8091eb877191fcd0 )
+)
+
+game (
+	name "Games\Shock Wave - Operation JumpGate (Addon disc)"
+	description "Games\Shock Wave - Operation JumpGate (Addon disc)"
+	rom ( name "Shock Wave - Operation JumpGate (Addon disc).cue" size 963 crc f2a0f988 md5 0a904205d92bb3f2cd6022e44b66d3ef sha1 aa63f1c6f64f87b13e6655c63a721a56018beb65 )
+)
+
+game (
+	name "Games\Shock Wave (Not For Resale) (RE2)"
+	description "Games\Shock Wave (Not For Resale) (RE2)"
+	rom ( name "Shock Wave (Not For Resale) (RE2).cue" size 952 crc 96898d9b md5 337c594384b2f05b08ed3dca56c2236d sha1 7e718de8d33da06427f92cd4d46932a88bc7ba2e )
+)
+
+game (
+	name "Games\Shock Wave (RE1)"
+	description "Games\Shock Wave (RE1)"
+	rom ( name "Shock Wave (RE1).cue" size 935 crc 1c703c9b md5 465d53d8938b6f6ef593d0c1137f4894 sha1 ac0925894840b1dc670dda5d4fc0e33ee835c382 )
+)
+
+game (
+	name "Games\Shock Wave (RE2)"
+	description "Games\Shock Wave (RE2)"
+	rom ( name "Shock Wave (RE2).cue" size 935 crc 786ec8a9 md5 bf772a73e69913f10dddeffc6d72e9a8 sha1 ad63292d9d3520488302f65a85b24af1b8b997b7 )
+)
+
+game (
+	name "Games\Shock Wave 2019 (South Korea)"
+	description "Games\Shock Wave 2019 (South Korea)"
+	rom ( name "Shock Wave 2019 (South Korea).cue" size 948 crc c22577c8 md5 83ed1f77f82e13127326c59ab4223686 sha1 fb2c730b6109a6f339c13e687a8182771d6071ae )
+)
+
+game (
+	name "Games\Shockwave 2 - Beyond the Gate (Disc 1)"
+	description "Games\Shockwave 2 - Beyond the Gate (Disc 1)"
+	rom ( name "Shockwave 2 - Beyond the Gate (Disc 1).cue" size 957 crc b5ecd75f md5 e69b669006521182626d80a953c07c34 sha1 7d809f70311458f11f7e08e505007eae8488fbfa )
+)
+
+game (
+	name "Games\Shockwave 2 - Beyond the Gate (Disc 1)"
+	description "Games\Shockwave 2 - Beyond the Gate (Disc 1)"
+	rom ( name "Shockwave 2 - Beyond the Gate (Disc 1).cue" size 957 crc bc7e2233 md5 f968f1d5fd22d12ef0e4a9d2dcf749df sha1 68bfa02640533cea23ef8c194c829041d3077095 )
+)
+
+game (
+	name "Games\Shockwave 2 - Beyond the Gate (Disc 2)"
+	description "Games\Shockwave 2 - Beyond the Gate (Disc 2)"
+	rom ( name "Shockwave 2 - Beyond the Gate (Disc 2).cue" size 127 crc C61EF6B1 md5 0000917CC646980D42667D9CC8E21B2D sha1 DFC9BCD8859CFDA038D26A5C5EFD543254B7CD24 )
+)
+
+game (
+	name "Games\Shockwave 2 - Beyond the Gate (Disc 2)"
+	description "Games\Shockwave 2 - Beyond the Gate (Disc 2)"
+	rom ( name "Shockwave 2 - Beyond the Gate (Disc 2).cue" size 957 crc 27386b1a md5 223d01bb918a1b348f27d4a1cb317a8a sha1 3f57c78068b2eca61a8811bddca10128aa24de64 )
+)
+
+game (
+	name "Games\Short Warp - Warp's Short Game Collection"
+	description "Games\Short Warp - Warp's Short Game Collection"
+	rom ( name "Short Warp - Warp's Short Game Collection.cue" size 960 crc 457ff331 md5 835e62bb7702ed97aab81bc93c937831 sha1 2bb0c10a6931155c94caa43dd14b45c89f87f8ed )
+)
+
+game (
+	name "Games\Slam 'n Jam '95"
+	description "Games\Slam 'n Jam '95"
+	rom ( name "Slam 'n Jam '95.cue" size 934 crc 1a5d3e22 md5 bfd1c2e3d53b1ab41ba3e2521010a9e5 sha1 9dce768ac5ee5548e06f064934fff0f76486a234 )
+)
+
+game (
+	name "Games\Slam 'n Jam '95"
+	description "Games\Slam 'n Jam '95"
+	rom ( name "Slam 'n Jam '95.cue" size 934 crc 1a5d3e22 md5 bfd1c2e3d53b1ab41ba3e2521010a9e5 sha1 9dce768ac5ee5548e06f064934fff0f76486a234 )
+)
+
+game (
+	name "Games\Slam 'n Jam '95 - 3D Basketball"
+	description "Games\Slam 'n Jam '95 - 3D Basketball"
+	rom ( name "Slam 'n Jam '95 - 3D Basketball.cue" size 950 crc 0c0339ec md5 b8b3df783268d164b8cd5fce9ad5ec14 sha1 505f1c5346feecf401ddc7feccc91f0e5541365f )
+)
+
+game (
+	name "Games\Slam 'n Jam (South Korea)"
+	description "Games\Slam 'n Jam (South Korea)"
+	rom ( name "Slam 'n Jam (South Korea).cue" size 944 crc 98012423 md5 1e1dab13349e39f96de15a69a65f593d sha1 a8201a645e473f55cb0b525939cf99e6ed3d4b37 )
+)
+
+game (
+	name "Games\Slayer"
+	description "Games\Slayer"
+	rom ( name "Slayer.cue" size 925 crc 8930c7b7 md5 9a66cdd33f00f555a50a98f5ece9ffb1 sha1 a1237448c1f151322beb663cbf2b65c855637975 )
+)
+
+game (
+	name "Games\Slayer (CE 02500)"
+	description "Games\Slayer (CE 02500)"
+	rom ( name "Slayer (CE 02500).cue" size 936 crc 37797f8f md5 db4d3401b17c818c2513898e49fb51b3 sha1 5835085efec9c4d3c2517795f391f9c245b3404a )
+)
+
+game (
+	name "Games\Slayer (SLAYER)"
+	description "Games\Slayer (SLAYER)"
+	rom ( name "Slayer (SLAYER).cue" size 934 crc 7c7d0545 md5 689e472e5f34ea75e74d78612ed3624a sha1 7032b9f425f82c4d2dda4b30b85b38e36ee12a8c )
+)
+
+game (
+	name "Games\Snow Job Starring Tracy Scoggins (Disc 1)"
+	description "Games\Snow Job Starring Tracy Scoggins (Disc 1)"
+	rom ( name "Snow Job Starring Tracy Scoggins (Disc 1).img" size 758167200 crc C8CDB69B md5 0B299927A1284DE9A58F05D6E20AB36A sha1 247DD157FB6B5B2E08C1061330B838EE67559F8F )
+)
+
+game (
+	name "Games\Snow Job Starring Tracy Scoggins (Disc 2)"
+	description "Games\Snow Job Starring Tracy Scoggins (Disc 2)"
+	rom ( name "Snow Job Starring Tracy Scoggins (Disc 2).img" size 758167200 crc 098F3E3E md5 F4E07C38D9855C1B75EC8A7D00C118C9 sha1 BAAE6F4BAA1419535B3EAA06A9D1C01D4C951082 )
+)
+
+game (
+	name "Games\Snowjob (Disc 1)"
+	description "Games\Snowjob (Disc 1)"
+	rom ( name "Snowjob (Disc 1).cue" size 105 crc 69DB5F9E md5 C15A0A95F5203E1981413D5FCFA42C63 sha1 5A3938560600688A5ECA4454C75B9340F7929DAF )
+)
+
+game (
+	name "Games\Snowjob (Disc 2)"
+	description "Games\Snowjob (Disc 2)"
+	rom ( name "Snowjob (Disc 2).cue" size 105 crc 6886794F md5 A1EC8DB668B5D5144FD6D8415491543A sha1 07A18D43617E0EA37A1CCDB7282A7D8D2077DDE9 )
+)
+
+game (
+	name "Games\Soccer Kid"
+	description "Games\Soccer Kid"
+	rom ( name "Soccer Kid.cue" size 929 crc b6d18d78 md5 4a03cbdb1d271411a8108201f7d000f3 sha1 17db2ffba33719aa93aea5950570bcbed3b564d3 )
+)
+
+game (
+	name "Games\Sotsugyou Graduation Final"
+	description "Games\Sotsugyou Graduation Final"
+	rom ( name "Sotsugyou Graduation Final.cue" size 967 crc 9a44ccd6 md5 a6f68f4ae45d5b3609a850708dcd1977 sha1 74d477d7158a80fd256d87f10ddd13907c41eda2 )
+)
+
+game (
+	name "Games\Sotsugyou II - Neo Generation Special"
+	description "Games\Sotsugyou II - Neo Generation Special"
+	rom ( name "Sotsugyou II - Neo Generation Special.cue" size 978 crc 6b4bbcbf md5 cccb096bac7d80c0d60600e9a64e7c52 sha1 ccefa06254522d6d3a0e98d8683c8fdefb4a61c7 )
+)
+
+game (
+	name "Games\Space Ace (#01)"
+	description "Games\Space Ace (#01)"
+	rom ( name "Space Ace (#01).cue" size 934 crc bdc89ae3 md5 694f07536ee82eec93825605d6d68570 sha1 786e537f18663062a232a30390e028fe6cf3556a )
+)
+
+game (
+	name "Games\Space Ace (RE1)"
+	description "Games\Space Ace (RE1)"
+	rom ( name "Space Ace (RE1).img" size 494790240 crc 2946D2CE md5 C10D0465AFC9531C4EEA4683DAFB024F sha1 5128AE797C2D293176ECBBE5BFC6E34104B7A88B )
+)
+
+game (
+	name "Games\Space Hulk - La Vengeance Des Blood Angels (France)"
+	description "Games\Space Hulk - La Vengeance Des Blood Angels (France)"
+	rom ( name "Space Hulk - La Vengeance Des Blood Angels (France).cue" size 970 crc ea8c60f1 md5 94696e0314207288700c4443b3b02099 sha1 7de0b89fbf945158d9cb61c35bc2ac69157e4ce8 )
+)
+
+game (
+	name "Games\Space Hulk - Vengeance of the Blood Angels"
+	description "Games\Space Hulk - Vengeance of the Blood Angels"
+	rom ( name "Space Hulk - Vengeance of the Blood Angels.cue" size 131 crc 6A9C8BC4 md5 F342EBEE4C30A420AA90039595A01086 sha1 B568537383E29BBE7491E2775F58AE7A0120356B )
+)
+
+game (
+	name "Games\Space Hulk - Vengeance of the Blood Angels"
+	description "Games\Space Hulk - Vengeance of the Blood Angels"
+	rom ( name "Space Hulk - Vengeance of the Blood Angels.cue" size 961 crc 9261e229 md5 01302f4e95f2ac6ff15dcd532968acf2 sha1 3271ad1a7e61c76cfeab10d9eeb38bff07a341c8 )
+)
+
+game (
+	name "Games\Space Pirates"
+	description "Games\Space Pirates"
+	rom ( name "Space Pirates.cue" size 932 crc 32cb17f6 md5 ea23ad5b192293cfb1d14b1d951c0328 sha1 ad2b8d307f8234ed826b7ff148196e17575895a9 )
+)
+
+game (
+	name "Games\Star Control II"
+	description "Games\Star Control II"
+	rom ( name "Star Control II.cue" size 934 crc 274f9cb2 md5 6c2262c6151c9079ff6ac996f190309b sha1 099022058a388f55de8270cef28e14f4e8baf24e )
+)
+
+game (
+	name "Games\Star Control II"
+	description "Games\Star Control II"
+	rom ( name "Star Control II.cue" size 104 crc 1402D21C md5 BE789076232ECE724CC043CC1611B8ED sha1 9B59C58172387BA3621B39D21ACA9C613D88F2D9 )
+)
+
+game (
+	name "Games\Star Control II"
+	description "Games\Star Control II"
+	rom ( name "Star Control II.cue" size 934 crc 49899e20 md5 acddf052fd0ce26354e9bd56a14a0e10 sha1 42ec1c7fdafe7d0d04d4955525b105295621b6c1 )
+)
+
+game (
+	name "Games\Star Control II (Not For Resale)"
+	description "Games\Star Control II (Not For Resale)"
+	rom ( name "Star Control II (Not For Resale).img" size 771060864 crc bfa0c923 md5 6efb7962cc131296429fc3512fcec724 sha1 47cf22aff089adc72534b853f8337dc294f0b74c )
+)
+
+game (
+	name "Games\Star Fighter"
+	description "Games\Star Fighter"
+	rom ( name "Star Fighter.cue" size 931 crc 373d4878 md5 a5b98acf70a73cdc03de4d6beb267cd9 sha1 ee3796eff24b8c7218b3c398505f894aab8f4055 )
+)
+
+game (
+	name "Games\Star Fighter"
+	description "Games\Star Fighter"
+	rom ( name "Star Fighter.cue" size 931 crc 373d4878 md5 a5b98acf70a73cdc03de4d6beb267cd9 sha1 ee3796eff24b8c7218b3c398505f894aab8f4055 )
+)
+
+game (
+	name "Games\Star Wars - Rebel Assault"
+	description "Games\Star Wars - Rebel Assault"
+	rom ( name "Star Wars - Rebel Assault.cue" size 944 crc a578d21f md5 5b11830de10ed429d78bd59d8fbc6dcb sha1 415201a001bc78701199ba4be6045567e1d64c85 )
+)
+
+game (
+	name "Games\Star Wars - Rebel Assault"
+	description "Games\Star Wars - Rebel Assault"
+	rom ( name "Star Wars - Rebel Assault.cue" size 944 crc 72068e02 md5 142ef654daf0bb106e7e8f85ddfa7a2f sha1 bae24115b75f95a41d864fc6748a865346422fa7 )
+)
+
+game (
+	name "Games\Star Wars - Rebel Assault"
+	description "Games\Star Wars - Rebel Assault"
+	rom ( name "Star Wars - Rebel Assault.cue" size 944 crc 72068e02 md5 142ef654daf0bb106e7e8f85ddfa7a2f sha1 bae24115b75f95a41d864fc6748a865346422fa7 )
+)
+
+game (
+	name "Games\Starblade"
+	description "Games\Starblade"
+	rom ( name "Starblade.cue" size 950 crc beed93e7 md5 76c48b1753dd1d8b50f645ee4dce081b sha1 180fdd6070cb9fd46a4a7f91d5ab57e8e1d44041 )
+)
+
+game (
+	name "Games\Starblade"
+	description "Games\Starblade"
+	rom ( name "Starblade.cue" size 928 crc 3a284aa6 md5 1a8e4822f686f13887091880901857e1 sha1 65467cef49d47ece17a59c296306aa2e55c74eb1 )
+)
+
+game (
+	name "Games\Starblade (Canada)"
+	description "Games\Starblade (Canada)"
+	rom ( name "Starblade (Canada).cue" size 937 crc 4a9fec38 md5 4535b4e5bff347dbadbc9e9511b3cc72 sha1 33dc4806873bcd44ba5d2c6395d7c85df45466db )
+)
+
+game (
+	name "Games\Starblade (Not For Resale) (Germany)"
+	description "Games\Starblade (Not For Resale) (Germany)"
+	rom ( name "Starblade (Not For Resale) (Germany).cue" size 955 crc 51551cd2 md5 9558c62f3facf194e9d6852dfcba8ef2 sha1 dc7cc05bb8c276ed247f8d54296380402c6188f6 )
+)
+
+game (
+	name "Games\Starblade (South Korea)"
+	description "Games\Starblade (South Korea)"
+	rom ( name "Starblade (South Korea).cue" size 942 crc e8d1a806 md5 2357bf950a8a1f5ac1d57effbb18f130 sha1 e87e6a4da39e6e3c5453361dd319f21483463d45 )
+)
+
+game (
+	name "Games\Stellar 7 - Draxon no Gyakushuu"
+	description "Games\Stellar 7 - Draxon no Gyakushuu"
+	rom ( name "Stellar 7 - Draxon no Gyakushuu.cue" size 950 crc 9c103031 md5 859f3d1863f8420c3757ecf74c13f7ba sha1 d8a367e2204fe32dcc64137c6b352c407377fd01 )
+)
+
+game (
+	name "Games\Stellar 7 - Draxon's Revenge"
+	description "Games\Stellar 7 - Draxon's Revenge"
+	rom ( name "Stellar 7 - Draxon's Revenge.cue" size 947 crc e2836736 md5 86e790b55a94acbbb47bfcec42fa105c sha1 e4dea615797502b7a63d57cab1db0556133cbf0a )
+)
+
+game (
+	name "Games\Strahl"
+	description "Games\Strahl"
+	rom ( name "Strahl.cue" size 947 crc 08efd1dc md5 646daf713234cf9f17f34f7c646a9a48 sha1 2422b7d2aeedd62363acdf9048daadb2b86784ec )
+)
+
+game (
+	name "Games\Strahl"
+	description "Games\Strahl"
+	rom ( name "Strahl.cue" size 925 crc 88846411 md5 87fec17b10730640cf091d60b2bcfadf sha1 89d08d7f29a8944ba05f256794643baefd49e000 )
+)
+
+game (
+	name "Games\Striker - World Cup Special"
+	description "Games\Striker - World Cup Special"
+	rom ( name "Striker - World Cup Special.cue" size 116 crc 06A7FFFF md5 206701BC73E21052A2236A6E7712543F sha1 6EFB7317A67B176089E21EA7975C62C486A36F21 )
+)
+
+game (
+	name "Games\Super Real Mahjong P.V"
+	description "Games\Super Real Mahjong P.V"
+	rom ( name "Super Real Mahjong P.V.cue" size 941 crc 6b5734df md5 3cd6d8268400a6ad935c3f9a6cb99735 sha1 f7daaec5f4956bde73633bb746810fb424d971e8 )
+)
+
+game (
+	name "Games\Super Real Mahjong PIV + Aishou Shindan"
+	description "Games\Super Real Mahjong PIV + Aishou Shindan"
+	rom ( name "Super Real Mahjong PIV + Aishou Shindan.cue" size 980 crc f10f0f71 md5 3e1d9c72e56356a170ee048063ee2c56 sha1 df4b7942690e837be6e66f752005cdb2643ec867 )
+)
+
+game (
+	name "Games\Super Street Fighter II Turbo"
+	description "Games\Super Street Fighter II Turbo"
+	rom ( name "Super Street Fighter II Turbo.cue" size 118 crc BACAE7D9 md5 480D95DBAE363502361FD8FC1F1C233C sha1 180CD022B330AAA1FC4A762AB4DBA4971F3DEAE5 )
+)
+
+game (
+	name "Games\Super Street Fighter II Turbo (Canada)"
+	description "Games\Super Street Fighter II Turbo (Canada)"
+	rom ( name "Super Street Fighter II Turbo (Canada).cue" size 957 crc 538f7a88 md5 34ee589727ef79163034629dbf78fde8 sha1 ba1e05998794768c5ef5ab337ec7172644768472 )
+)
+
+game (
+	name "Games\Super Street Fighter II Turbo (R2H)"
+	description "Games\Super Street Fighter II Turbo (R2H)"
+	rom ( name "Super Street Fighter II Turbo (R2H).cue" size 954 crc 2283e00b md5 214c0057b136aef054479a2962a0b413 sha1 b5c5d5ca1f87bb0bd01b0e1a9dc36fd568487448 )
+)
+
+game (
+	name "Games\Super Street Fighter II Turbo (RE1)"
+	description "Games\Super Street Fighter II Turbo (RE1)"
+	rom ( name "Super Street Fighter II Turbo (RE1).cue" size 954 crc f0f9dbac md5 ac1c821920bd298fdb223848a6005959 sha1 175243fd441df2ac3494cd64ae1f4a131a343d2a )
+)
+
+game (
+	name "Games\Super Street Fighter II X - Grand Master Challenge"
+	description "Games\Super Street Fighter II X - Grand Master Challenge"
+	rom ( name "Super Street Fighter II X - Grand Master Challenge.cue" size 969 crc 338db605 md5 9014f9f3d06a91313b4691d148be5cef sha1 969ff00b73222c88abd522fdd7ac49796c8fcc8c )
+)
+
+game (
+	name "Games\Super Wing Commander"
+	description "Games\Super Wing Commander"
+	rom ( name "Super Wing Commander.cue" size 961 crc 2cbcf423 md5 d1ee3bff4dee01887bca2786efe1415c sha1 4cee09b7bb074f4abd528365e049640801db0360 )
+)
+
+game (
+	name "Games\Super Wing Commander"
+	description "Games\Super Wing Commander"
+	rom ( name "Super Wing Commander.cue" size 939 crc c618d4d7 md5 5ee9ba0226ecac1f0bac6e630df058f1 sha1 3c0e756cec5caaa8b8e1756d92a359f8b0b25694 )
+)
+
+game (
+	name "Games\Super Wing Commander"
+	description "Games\Super Wing Commander"
+	rom ( name "Super Wing Commander.img" size 650986560 crc CF5FC3E2 md5 7118CEB5A1C82721775C2D14AC418588 sha1 678AB452BA9B676E3D6B7EFFBBD57B96F18F4561 )
+)
+
+game (
+	name "Games\Super Wing Commander (South Korea)"
+	description "Games\Super Wing Commander (South Korea)"
+	rom ( name "Super Wing Commander (South Korea).cue" size 985 crc 7ede2bc5 md5 d86f5fef2e1ee4135ffa1bbfcfd3db1b sha1 60bf4a399cef45f5f54913452130f76e4bc2ffdd )
+)
+
+game (
+	name "Games\Supreme Warrior (Disc 1)"
+	description "Games\Supreme Warrior (Disc 1)"
+	rom ( name "Supreme Warrior (Disc 1).cue" size 943 crc 8db4d387 md5 11d482ecbf9e1dc53e2cd38ee43d21de sha1 c4324b9128f61ff974b90ecfda00c90b1bbfd1fd )
+)
+
+game (
+	name "Games\Supreme Warrior (Disc 2)"
+	description "Games\Supreme Warrior (Disc 2)"
+	rom ( name "Supreme Warrior (Disc 2).cue" size 943 crc a71791cc md5 a70a5f44b8cacc4c0490c1f2ad51d2f0 sha1 388c6cde17af2c334a600dbcd79e749b75c47746 )
+)
+
+game (
+	name "Games\Supreme Warrior (Fire & Earth) (Disc 1)"
+	description "Games\Supreme Warrior (Fire & Earth) (Disc 1)"
+	rom ( name "Supreme Warrior (Fire & Earth) (Disc 1).cue" size 958 crc c5ac8564 md5 45b1ed41b7cdb57fa234ef2617ab9c7f sha1 e9428212745176c3eb2c0a409eeb96fb786c8862 )
+)
+
+game (
+	name "Games\Supreme Warrior (Wind & Fang Tu) (Disc 2)"
+	description "Games\Supreme Warrior (Wind & Fang Tu) (Disc 2)"
+	rom ( name "Supreme Warrior (Wind & Fang Tu) (Disc 2).cue" size 960 crc 3a1d1e96 md5 1ecd3ad8189e5f3d8e39e262c445eddb sha1 8ae32c45ae2f0fa834ee420d1b4d1ffa5e696934 )
+)
+
+game (
+	name "Games\Sword & Sorcery"
+	description "Games\Sword & Sorcery"
+	rom ( name "Sword & Sorcery.cue" size 956 crc 4f67741d md5 33bd73282af9e868e8f5262a461fa571 sha1 455f739c4c75e9b945d6a3c3cc5b570eabbb63af )
+)
+
+game (
+	name "Games\Syndicate"
+	description "Games\Syndicate"
+	rom ( name "Syndicate.cue" size 928 crc a66b1ec5 md5 0e56dc50aa1ef716c0808cb898654c93 sha1 20baf454fa8b3b63cd8d5f01a9daa790f99c6b56 )
+)
+
+game (
+	name "Games\Syndicate"
+	description "Games\Syndicate"
+	rom ( name "Syndicate.cue" size 928 crc dd8a82ba md5 e66aebafa16970d59a5a07d1b438a44e sha1 e60651d24eab553909fbea8e8d6bfee73c75a085 )
+)
+
+game (
+	name "Games\Syndicate"
+	description "Games\Syndicate"
+	rom ( name "Syndicate.cue" size 928 crc 65c9959d md5 58f92820b0dc2b3b5a06dc343c2b8a96 sha1 13b7a68a2f9bffc2ea2deb1231dde9a7040d8952 )
+)
+
+game (
+	name "Games\T&E VR Golf - Devil's Course"
+	description "Games\T&E VR Golf - Devil's Course"
+	rom ( name "T&E VR Golf - Devil's Course.cue" size 969 crc f524dedb md5 af7a77b74ce88498df9f1e57b424524c sha1 a4a80a462cc73708dae68d783ad7a85e08afd1a3 )
+)
+
+game (
+	name "Games\T&E VR Golf - Masters - Harukanaru Augusta 3"
+	description "Games\T&E VR Golf - Masters - Harukanaru Augusta 3"
+	rom ( name "T&E VR Golf - Masters - Harukanaru Augusta 3.cue" size 963 crc 9753a1bd md5 ec9a7ece09c752732b4ebdf5f005f461 sha1 c09ae27531beaa3025e0250eef8655bced4d2465 )
+)
+
+game (
+	name "Games\T&E VR Golf - Pebble Beach no Hatou"
+	description "Games\T&E VR Golf - Pebble Beach no Hatou"
+	rom ( name "T&E VR Golf - Pebble Beach no Hatou.cue" size 954 crc 49ea953a md5 49a0ceb03190a5bea1577e5fa98e7ff3 sha1 6eb2226ea41faed1d06711c2d66d8b143ba2506a )
+)
+
+game (
+	name "Games\T&E VR Golf - Waialae no Kiseki"
+	description "Games\T&E VR Golf - Waialae no Kiseki"
+	rom ( name "T&E VR Golf - Waialae no Kiseki.cue" size 972 crc eaca3dc9 md5 fe351ade42ad6237fa3480144e9e7b8c sha1 64b82dd4d62fea22de3b2ebf418b72a590962eb2 )
+)
+
+game (
+	name "Games\Taiketsu Rumiizu!"
+	description "Games\Taiketsu Rumiizu!"
+	rom ( name "Taiketsu Rumiizu!.cue" size 936 crc b9c42f89 md5 d04416304fafa570fcd5302949278865 sha1 517981e642b2e4326194866828241a4ef49826fd )
+)
+
+game (
+	name "Games\Tanjou Debut - Pure"
+	description "Games\Tanjou Debut - Pure"
+	rom ( name "Tanjou Debut - Pure.cue" size 960 crc dee2213b md5 4ee1e649f2b4180c6633727ad3e906fb sha1 6224fb09be41dd81f97501c86e7dbd3108247032 )
+)
+
+game (
+	name "Games\Tarot Uranai"
+	description "Games\Tarot Uranai"
+	rom ( name "Tarot Uranai.cue" size 953 crc 4a599376 md5 93669d6ec7b3b3849b75436addc58afb sha1 b7ff58d94bdef4f79543f2660dbb3bcf01b7fa48 )
+)
+
+game (
+	name "Games\Terasawa Takeichi no Takeru"
+	description "Games\Terasawa Takeichi no Takeru"
+	rom ( name "Terasawa Takeichi no Takeru.cue" size 946 crc 2bbb3cfc md5 aefcb32a7be5a9226596c57921af5d0d sha1 df643684fea5862f8c44836c8be29fa7ac6e5656 )
+)
+
+game (
+	name "Games\Tetsujin"
+	description "Games\Tetsujin"
+	rom ( name "Tetsujin.cue" size 927 crc 2e2e7417 md5 4ea07e12236b9515b81802d3f1f0ca66 sha1 efc2b9186c886754e47487b406ea6de537e72fa2 )
+)
+
+game (
+	name "Games\Tetsujin Returns"
+	description "Games\Tetsujin Returns"
+	rom ( name "Tetsujin Returns.cue" size 935 crc 310e102d md5 46bc51f95319f8bba0116ccf9fdf8c79 sha1 a240f0f518dc0b315cca11c0b88a49493aaad3b2 )
+)
+
+game (
+	name "Games\Theatre Wars - Goraku no Dendou"
+	description "Games\Theatre Wars - Goraku no Dendou"
+	rom ( name "Theatre Wars - Goraku no Dendou.cue" size 950 crc aae5047c md5 13940dabc363f8baf5e7a30c4f654fcf sha1 b2ad707a266fe178b0609f10b78736be5d812ce3 )
+)
+
+game (
+	name "Games\Theme Park"
+	description "Games\Theme Park"
+	rom ( name "Theme Park.cue" size 929 crc 7aa82845 md5 1337daf6c6405a27112c53e4548bb66d sha1 89f0b51c3582f50dc39a407821eafbcc039022d9 )
+)
+
+game (
+	name "Games\Theme Park"
+	description "Games\Theme Park"
+	rom ( name "Theme Park.cue" size 929 crc 47cd3c78 md5 2ad54bf5a5a10aa726a01bd2b975531e sha1 952387104ca62e9fd156edb06bc8bab8c01c8c0a )
+)
+
+game (
+	name "Games\Theme Park"
+	description "Games\Theme Park"
+	rom ( name "Theme Park.cue" size 929 crc b5937ad2 md5 822725886aecf9a0f14facb6c44030cd sha1 829a59f7ced0a9f2d472b539be7d88c608e6b8d9 )
+)
+
+game (
+	name "Games\Toki wo Koeta Tegami"
+	description "Games\Toki wo Koeta Tegami"
+	rom ( name "Toki wo Koeta Tegami.cue" size 939 crc f666b6a9 md5 59d401d92a3d53df14902b7b4d8e5000 sha1 afd876625e4f1a46d93bfd36336f45a4fc825a63 )
+)
+
+game (
+	name "Games\Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat"
+	description "Games\Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat"
+	rom ( name "Tokimeki Mahjong Paradise Special - Koi no Tenpai Beat.cue" size 973 crc 85368ad2 md5 ce79a5e229622efac63a2146dcb65495 sha1 347b13ab0df785aa5a5e361e4db4463b148b7eb0 )
+)
+
+game (
+	name "Games\Tom Kite no Kore ga Golf Da! (Disc 1)"
+	description "Games\Tom Kite no Kore ga Golf Da! (Disc 1)"
+	rom ( name "Tom Kite no Kore ga Golf Da! (Disc 1).cue" size 978 crc 7738914a md5 bb02fa55c0ab944ac27bd54fa2f209a9 sha1 4f2af3aeb1299e4fa1a8f45e297cd558fa541968 )
+)
+
+game (
+	name "Games\Tom Kite no Kore ga Golf Da! (Disc 2)"
+	description "Games\Tom Kite no Kore ga Golf Da! (Disc 2)"
+	rom ( name "Tom Kite no Kore ga Golf Da! (Disc 2).cue" size 978 crc 639d6bcf md5 987256339dae99d5e1e383805f181454 sha1 6cf687a033e7ce638a2f0702e9ce523e5e6e07c3 )
+)
+
+game (
+	name "Games\Tom Kite no Kore ga Golf Da! (Disc 3)"
+	description "Games\Tom Kite no Kore ga Golf Da! (Disc 3)"
+	rom ( name "Tom Kite no Kore ga Golf Da! (Disc 3).cue" size 978 crc 9ea8db9f md5 deb8a4f7f0aeabb8199e31fe1eee524f sha1 876d5f20fe8ae250ce4b8d5ff84ca7611d79e781 )
+)
+
+game (
+	name "Games\Total Eclipse"
+	description "Games\Total Eclipse"
+	rom ( name "Total Eclipse.cue" size 932 crc b69900eb md5 f993fbc12cf4f4b25e885ef92f72e4d3 sha1 7ffc14eef0d1401f8872fd7d9248c21a9a087dda )
+)
+
+game (
+	name "Games\Total Eclipse"
+	description "Games\Total Eclipse"
+	rom ( name "Total Eclipse.cue" size 932 crc 3bff5dd4 md5 e542e34fa03ad7f4a039c3df85d3041a sha1 244f3d627ed1d52bf8f227f9888ffc5a282a4e01 )
+)
+
+game (
+	name "Games\Total Eclipse"
+	description "Games\Total Eclipse"
+	rom ( name "Total Eclipse.cue" size 932 crc 3bff5dd4 md5 e542e34fa03ad7f4a039c3df85d3041a sha1 244f3d627ed1d52bf8f227f9888ffc5a282a4e01 )
+)
+
+game (
+	name "Games\Total Eclipse (Bundled with Panasonic FZ-1)"
+	description "Games\Total Eclipse (Bundled with Panasonic FZ-1)"
+	rom ( name "Total Eclipse (Bundled with Panasonic FZ-1).cue" size 109 crc 0C408C3B md5 ED83CE2721FE692D5A8034741458F130 sha1 2CA9298129AB077F4B2D306BC74D38467E719AD4 )
+)
+
+game (
+	name "Games\Total Eclipse (Bundled with Panasonic FZ-1) (3DRM)"
+	description "Games\Total Eclipse (Bundled with Panasonic FZ-1) (3DRM)"
+	rom ( name "Total Eclipse (Bundled with Panasonic FZ-1) (3DRM).cue" size 969 crc ae643e8a md5 4bfbf5bba4104e95ef5b369b781f140c sha1 73f7afb35ca92ca105cb8bec4e458ff13702f867 )
+)
+
+game (
+	name "Games\Total Eclipse (Bundled with Panasonic FZ-1) (ZAZ)"
+	description "Games\Total Eclipse (Bundled with Panasonic FZ-1) (ZAZ)"
+	rom ( name "Total Eclipse (Bundled with Panasonic FZ-1) (ZAZ).cue" size 968 crc fdaec718 md5 4c7ed9a56721b8398b16e5a2f62c0aac sha1 eab7cc4c573ff68de699d6a582762a4db22546e9 )
+)
+
+game (
+	name "Games\Total Eclipse (Not For Resale)"
+	description "Games\Total Eclipse (Not For Resale)"
+	rom ( name "Total Eclipse (Not For Resale).cue" size 949 crc 864775cf md5 e79edc7f46051a31f8cc4b22babe7a27 sha1 42eae7ccad7db7cc24c74b22fbe789794319e5e2 )
+)
+
+game (
+	name "Games\Total Eclipse (South Korea)"
+	description "Games\Total Eclipse (South Korea)"
+	rom ( name "Total Eclipse (South Korea).cue" size 79 crc E321226E md5 1A44DADA36BF444C7A878334088C5051 sha1 148802DFE6798E98C3EDD45A681CFCC203D4B027 )
+)
+
+game (
+	name "Games\Totsugeki Kikan! Megadasu!!"
+	description "Games\Totsugeki Kikan! Megadasu!!"
+	rom ( name "Totsugeki Kikan! Megadasu!!.cue" size 946 crc 28625233 md5 fd085aaabcfa1fff4bfae62b176cd652 sha1 f66ba81458477c981408e806017bfb5ab877546a )
+)
+
+game (
+	name "Games\Tower, The"
+	description "Games\Tower, The"
+	rom ( name "Tower, The.cue" size 929 crc 0ee2486f md5 6766021615d282567a8ba7419a384cb0 sha1 699b44661e4ccc0ccf1be7a526635e45df923f94 )
+)
+
+game (
+	name "Games\Tozasareta Yakata"
+	description "Games\Tozasareta Yakata"
+	rom ( name "Tozasareta Yakata.cue" size 936 crc 47c8a405 md5 ec1d670c7a92dfdff64f5fb46e12354c sha1 ea3bc4de5d2922e0cbc5652106288ae164d07222 )
+)
+
+game (
+	name "Games\Trip'd"
+	description "Games\Trip'd"
+	rom ( name "Trip'd.cue" size 947 crc 5d015912 md5 dd66e0f648ccb530791f2a7624871ac7 sha1 b009b6019984fda27e18a44fb92d03336c548321 )
+)
+
+game (
+	name "Games\True Golf Classics - Pebble Beach Golf Links"
+	description "Games\True Golf Classics - Pebble Beach Golf Links"
+	rom ( name "True Golf Classics - Pebble Beach Golf Links.cue" size 985 crc 6845a061 md5 1b1d81654d2efaa8a5acb1a029a5d3bb sha1 41617ae94a09e612cb2d9fc909b8015416ab0c4a )
+)
+
+game (
+	name "Games\True Golf Classics - Pebble Beach Golf Links"
+	description "Games\True Golf Classics - Pebble Beach Golf Links"
+	rom ( name "True Golf Classics - Pebble Beach Golf Links.cue" size 963 crc 51bb409c md5 9409e8886901b3a17b18b697ccc63e30 sha1 14d66ae8daee1947dcc1c94ea8a5a69716393ccb )
+)
+
+game (
+	name "Games\Tsuukai Gameshow - Twisted"
+	description "Games\Tsuukai Gameshow - Twisted"
+	rom ( name "Tsuukai Gameshow - Twisted.cue" size 967 crc 46c8bc10 md5 a3b14e9d76a8b8bff4237aa3db901408 sha1 9b44c50d8399d9de2fa232ba8865de678385cf1d )
+)
+
+game (
+	name "Games\Twisted - The Game Show"
+	description "Games\Twisted - The Game Show"
+	rom ( name "Twisted - The Game Show.cue" size 89 crc 02A1FCC6 md5 4AE4FC84F1DD6EF43BB3CAEC3DB371C6 sha1 9CCA6E84E240A9AFDF73C08DC0B6350A47D67645 )
+)
+
+game (
+	name "Games\Twisted - The Game Show (70)"
+	description "Games\Twisted - The Game Show (70)"
+	rom ( name "Twisted - The Game Show (70).cue" size 117 crc 9EA54547 md5 3FAA62C44613290C08056A2F6854A7F9 sha1 49176B8D0A6538EE0CCCEC9D218EB76E8F8C984B )
+)
+
+game (
+	name "Games\Twisted - The Game Show (R73)"
+	description "Games\Twisted - The Game Show (R73)"
+	rom ( name "Twisted - The Game Show (R73).cue" size 948 crc 1565d112 md5 6773309ac6107cea1d7f5ffda6121389 sha1 5c4f287e358c87a011e35662aebf7b9b21bdfd47 )
+)
+
+game (
+	name "Games\Uchuu Seifutsu Furopon-kun"
+	description "Games\Uchuu Seifutsu Furopon-kun"
+	rom ( name "Uchuu Seifutsu Furopon-kun.cue" size 945 crc 436840f3 md5 c0698ef27bcea43dfd8d4d963ca76074 sha1 4a62c323764ac9d8564da1710ae82017eefb39fa )
+)
+
+game (
+	name "Games\Ultraman Powered"
+	description "Games\Ultraman Powered"
+	rom ( name "Ultraman Powered.cue" size 935 crc a6ca5fd0 md5 68dcb27581fe64cc70defbef177b3728 sha1 3c0b68ef9be88e21bd60b4b7a6ee5c1dcf5655a7 )
+)
+
+game (
+	name "Games\V Goal Soccer '96"
+	description "Games\V Goal Soccer '96"
+	rom ( name "V Goal Soccer '96.cue" size 958 crc df20227f md5 65cc12f16b590f72167546e252c5df64 sha1 38b123b712de4ec07897d472681956f1e4d43901 )
+)
+
+game (
+	name "Games\Virtual Horror - Norowareta Yakata"
+	description "Games\Virtual Horror - Norowareta Yakata"
+	rom ( name "Virtual Horror - Norowareta Yakata.cue" size 953 crc 1c0aadda md5 e47771ff51ac334c89bb5f26401768cb sha1 663f140b6bd6f7aae2197a4c48eb99a4d446116a )
+)
+
+game (
+	name "Games\Virtual Quest - Pharaoh no Fuuin"
+	description "Games\Virtual Quest - Pharaoh no Fuuin"
+	rom ( name "Virtual Quest - Pharaoh no Fuuin.cue" size 973 crc 79e9d5d6 md5 01e732b4da666a6c778527ed502ef420 sha1 28434c304b533595346d574310aaa8db8c080d9b )
+)
+
+game (
+	name "Games\Virtuoso"
+	description "Games\Virtuoso"
+	rom ( name "Virtuoso.cue" size 927 crc 29fef871 md5 de3dae11d516e0c556229745601e4e23 sha1 7553fea8714838f6cbd5943103b95a175020908a )
+)
+
+game (
+	name "Games\Virtuoso"
+	description "Games\Virtuoso"
+	rom ( name "Virtuoso.cue" size 927 crc 09f44932 md5 e94a9005271a6308cf2f0bb593ced0e1 sha1 b1e3ac9bc1c9d6e8718b7b82f533bade9346f966 )
+)
+
+game (
+	name "Games\Virtuoso"
+	description "Games\Virtuoso"
+	rom ( name "Virtuoso.cue" size 927 crc d9ff5199 md5 764a14c8974c878ed1bf2c07f3ac7889 sha1 cd2ca583f5c5647b7d956636fd1a864f366f7a2b )
+)
+
+game (
+	name "Games\VR Stalker"
+	description "Games\VR Stalker"
+	rom ( name "VR Stalker.cue" size 76 crc 0BCBEDDB md5 F13DDBA787BF9A98F097708A3419B8F2 sha1 1489987F76E086CFC0BADA51ECC4CBC001B08D57 )
+)
+
+game (
+	name "Games\VR Stalker"
+	description "Games\VR Stalker"
+	rom ( name "VR Stalker.cue" size 929 crc 8f052b69 md5 637c155c7dea5e712851382138465672 sha1 5d15e22c07daa1d209aeefb29aa92bf26eb2c4e2 )
+)
+
+game (
+	name "Games\Waialae Country Club"
+	description "Games\Waialae Country Club"
+	rom ( name "Waialae Country Club.cue" size 109 crc AE6054E5 md5 D0AC64B1DA9651A59E1AD9ED7F17ABEE sha1 5559C38EF306501BD82F84A659ED8FFD03EB37C8 )
+)
+
+game (
+	name "Games\Waialae Country Club"
+	description "Games\Waialae Country Club"
+	rom ( name "Waialae Country Club.cue" size 939 crc 02f8b3dc md5 5303d50cf47ea48b640f79a275d1ce60 sha1 3ccea5b799d3dd94fb169f09a5e626e20112f489 )
+)
+
+game (
+	name "Games\Waialae Country Club (Canada)"
+	description "Games\Waialae Country Club (Canada)"
+	rom ( name "Waialae Country Club (Canada).cue" size 948 crc ed710c3b md5 46986962f0cad94358ac42bf4110db66 sha1 47bbb12e1253ba610a9c4f2c3a50546d4dfdc43b )
+)
+
+game (
+	name "Games\Waialae Country Club (Germany)"
+	description "Games\Waialae Country Club (Germany)"
+	rom ( name "Waialae Country Club (Germany).cue" size 949 crc 07301936 md5 8aab2416693ef602a38f535a547d1865 sha1 9c3cfe110d56cb1390a51b9d2327a28eb9b23307 )
+)
+
+game (
+	name "Games\Way of the Warrior"
+	description "Games\Way of the Warrior"
+	rom ( name "Way of the Warrior.cue" size 937 crc 4bb8f4e5 md5 2ed6d2e202a9256a02569ec7018f138a sha1 0e1fefcaf9ac7b2077be8f31f7d62404b117f2cc )
+)
+
+game (
+	name "Games\Way of the Warrior"
+	description "Games\Way of the Warrior"
+	rom ( name "Way of the Warrior.cue" size 937 crc a7b8ca7a md5 2796a18c3632eba5125d93bac5c3504c sha1 7222b5fb4d825c0c083b7abe974a1f631d49dc62 )
+)
+
+game (
+	name "Games\Way of the Warrior"
+	description "Games\Way of the Warrior"
+	rom ( name "Way of the Warrior.cue" size 937 crc e35f9139 md5 13f6cbb6c032f3826c4d26a5a148651c sha1 51c1834bae59c76275597caf20cfe3d1e1323307 )
+)
+
+game (
+	name "Games\Who Shot Johnny Rock"
+	description "Games\Who Shot Johnny Rock"
+	rom ( name "Who Shot Johnny Rock.cue" size 939 crc cb58a970 md5 93b07be91bc5488eac0e2cf263bd5161 sha1 c76ab36b9be1fbeb0585df6feb79b7c25ba47f4e )
+)
+
+game (
+	name "Games\Wicked 18"
+	description "Games\Wicked 18"
+	rom ( name "Wicked 18.cue" size 928 crc b5368188 md5 ea08955d531f5fb2a363559c3f5adbf5 sha1 ad74cc61f57d69afbc5983c2112601dd1e48e3a4 )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (Disc 1)"
+	description "Games\Wing Commander III - Heart of the Tiger (Disc 1)"
+	rom ( name "Wing Commander III - Heart of the Tiger (Disc 1).cue" size 967 crc 54590a6f md5 23be7dd75fac79eda8ec0933968f301a sha1 3b5afc8e344701a69b8ab0c34479c0b0e6fc1e20 )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (Disc 2)"
+	description "Games\Wing Commander III - Heart of the Tiger (Disc 2)"
+	rom ( name "Wing Commander III - Heart of the Tiger (Disc 2).cue" size 967 crc 21db8602 md5 00b457af70900dc5b381b6d27e0412ad sha1 9d2421a89ff27a761e3ce69f63da148ac124ff4f )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (Disc 3)"
+	description "Games\Wing Commander III - Heart of the Tiger (Disc 3)"
+	rom ( name "Wing Commander III - Heart of the Tiger (Disc 3).cue" size 967 crc 92f04525 md5 1eef5c259447238cd443c97bf8803ff0 sha1 c01669f17da064bf86e9ae3b211292e7a22f880c )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (Disc 4)"
+	description "Games\Wing Commander III - Heart of the Tiger (Disc 4)"
+	rom ( name "Wing Commander III - Heart of the Tiger (Disc 4).cue" size 967 crc 6d9b94ff md5 696c917725684fa9ec5c49d42e3d7211 sha1 589507d48d3d7b6134dd911ddf020abdf759af78 )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (Germany) (Disc 1)"
+	description "Games\Wing Commander III - Heart of the Tiger (Germany) (Disc 1)"
+	rom ( name "Wing Commander III - Heart of the Tiger (Germany) (Disc 1).cue" size 124 crc 2233F256 md5 724B52F703A73B51B794D635EA9E4151 sha1 B9625252BB8B61C8E2A298A3F5A112CC55F3D096 )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (Germany) (Disc 2)"
+	description "Games\Wing Commander III - Heart of the Tiger (Germany) (Disc 2)"
+	rom ( name "Wing Commander III - Heart of the Tiger (Germany) (Disc 2).cue" size 124 crc 236ED487 md5 390289B370EC41E74C9ED81C49B309AB sha1 887FC6C3643765004E79E39ECAB7BD6454B8A03E )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (Germany) (Disc 3)"
+	description "Games\Wing Commander III - Heart of the Tiger (Germany) (Disc 3)"
+	rom ( name "Wing Commander III - Heart of the Tiger (Germany) (Disc 3).cue" size 124 crc 957534F7 md5 010F631A07FD40DA0C57677AF1C94583 sha1 D4252025B85E98AD4EB59BAF99A8C9DEBEF7330E )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (Germany) (Disc 4)"
+	description "Games\Wing Commander III - Heart of the Tiger (Germany) (Disc 4)"
+	rom ( name "Wing Commander III - Heart of the Tiger (Germany) (Disc 4).cue" size 124 crc 21D49925 md5 0EEA5616D8F5D2D736AD50CB3E57BA51 sha1 94428721359CE40FF4D02E3CF674EC5494B5E488 )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (R70) (Disc 3)"
+	description "Games\Wing Commander III - Heart of the Tiger (R70) (Disc 3)"
+	rom ( name "Wing Commander III - Heart of the Tiger (R70) (Disc 3).cue" size 973 crc 99aad8ef md5 e46c55de3dab34c2b4660e29b5653ac0 sha1 d0f1b3aba8da105aa737c7dcc963479d04438108 )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (R70) (Disc 4)"
+	description "Games\Wing Commander III - Heart of the Tiger (R70) (Disc 4)"
+	rom ( name "Wing Commander III - Heart of the Tiger (R70) (Disc 4).cue" size 973 crc 66c10935 md5 24c0e5d428bfdfe4c7bd05efb1bde519 sha1 ea8bec3a3088827ed3c731a913a50f9e21fa5c6d )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (R71,72) (Disc 1)"
+	description "Games\Wing Commander III - Heart of the Tiger (R71,72) (Disc 1)"
+	rom ( name "Wing Commander III - Heart of the Tiger (R71,72) (Disc 1).cue" size 976 crc 671f973a md5 29cf16bffd046810266d68f35e2552cc sha1 a21af47bb6a75d5a1f702cfb77fbf7946d377601 )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (R71) (Disc 2)"
+	description "Games\Wing Commander III - Heart of the Tiger (R71) (Disc 2)"
+	rom ( name "Wing Commander III - Heart of the Tiger (R71) (Disc 2).cue" size 973 crc 605f2c21 md5 7e98ab5d6a404aaaf7abbddbd0607d00 sha1 347e8d4fe56ebc08d7c6f677ae77c9a92e5b3f78 )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (R72) (Disc 2)"
+	description "Games\Wing Commander III - Heart of the Tiger (R72) (Disc 2)"
+	rom ( name "Wing Commander III - Heart of the Tiger (R72) (Disc 2).cue" size 973 crc accf29bf md5 e7dfdad8f9da78246accad56c02d5a1b sha1 2b383a6220de6ed78829c8493bd0c3fc6aa94a1a )
+)
+
+game (
+	name "Games\Wing Commander III - Heart of the Tiger (R74) (Disc 1)"
+	description "Games\Wing Commander III - Heart of the Tiger (R74) (Disc 1)"
+	rom ( name "Wing Commander III - Heart of the Tiger (R74) (Disc 1).cue" size 973 crc 5d6c29e2 md5 7bb9cbaf0a5c96acfc24a99dc3105f81 sha1 6a7b94e14b88ff2d63f2317989b209cf98799eeb )
+)
+
+game (
+	name "Games\Winning Post"
+	description "Games\Winning Post"
+	rom ( name "Winning Post.cue" size 931 crc d77f22ea md5 64b58f16dc4b5c70605521e38f7a1769 sha1 b243357018d36d522cdb9dac3fecd74e92de9205 )
+)
+
+game (
+	name "Games\Wolfenstein 3D"
+	description "Games\Wolfenstein 3D"
+	rom ( name "Wolfenstein 3D.cue" size 933 crc b4fb5843 md5 b0787adbe66fc8147812cf3e24e76911 sha1 a5161e588ce7576adb41ce18434ea14653469545 )
+)
+
+game (
+	name "Games\Wolfenstein 3D"
+	description "Games\Wolfenstein 3D"
+	rom ( name "Wolfenstein 3D.cue" size 933 crc 5483ea77 md5 b4c2c3d971d1597c1af1fd3bde7d71de sha1 7d3321036534a1115a2fe4dcb9075a43cd9b2296 )
+)
+
+game (
+	name "Games\World Cup Golf - Hyatt Dorado Beach"
+	description "Games\World Cup Golf - Hyatt Dorado Beach"
+	rom ( name "World Cup Golf - Hyatt Dorado Beach.cue" size 954 crc 4693d93a md5 264b26b05050e8956ba3211c4dcc0c14 sha1 099da53fe00fbb943c946aebe41ad04b9650fe6f )
+)
+
+game (
+	name "Games\World Cup Golf - Hyatt Dorado Beach"
+	description "Games\World Cup Golf - Hyatt Dorado Beach"
+	rom ( name "World Cup Golf - Hyatt Dorado Beach.cue" size 954 crc 299f17b9 md5 dc90d1144291c2c7c39d1bc36da7ba47 sha1 74baa7ddeb867e68146075ee59df2f88e346bf46 )
+)
+
+game (
+	name "Games\World Cup Special"
+	description "Games\World Cup Special"
+	rom ( name "World Cup Special.cue" size 106 crc C850B438 md5 25FD8C2E777D7E086EC043082607CD71 sha1 3CCD442A31046539481E2C99F003712D5B226D8E )
+)
+
+game (
+	name "Games\Yakyuuken Special, The"
+	description "Games\Yakyuuken Special, The"
+	rom ( name "Yakyuuken Special, The.cue" size 941 crc c148d9cf md5 5f9730300470abe51bb0c8817c5aeffb sha1 0c7b0ed475759bb3a9a36b8ff0a55abd7068d7fe )
+)
+
+game (
+	name "Games\Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Disc 1)"
+	description "Games\Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Disc 1)"
+	rom ( name "Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Disc 1).cue" size 987 crc 64c0be07 md5 0e103266f3b3097a561c58d745f2c36d sha1 09a57a399a5b8398fbe6e8eeb15cae4aeb6d0957 )
+)
+
+game (
+	name "Games\Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Disc 2)"
+	description "Games\Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Disc 2)"
+	rom ( name "Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Disc 2).cue" size 987 crc b4735bcd md5 72412fff545d848cd752936809581ba6 sha1 b2e1b877b4ab62d03a0f058e1225a532f5a38a61 )
+)
+
+game (
+	name "Games\Yuu Yuu Hakusho"
+	description "Games\Yuu Yuu Hakusho"
+	rom ( name "Yuu Yuu Hakusho.cue" size 956 crc df0a38ac md5 201b90cd3abf450a1136b9fa6238d435 sha1 67be801b1f9d037d69ca0da1dcde95638dd7b3b1 )
+)
+
+game (
+	name "Games\Zhadnost - The People's Party"
+	description "Games\Zhadnost - The People's Party"
+	rom ( name "Zhadnost - The People's Party.cue" size 948 crc 44cb821a md5 9fa777c562400f2dee998c3834d2d6a0 sha1 c357fee0b38307fc6d2f69b7397f30198ba0bd80 )
+)
+
+game (
+	name "Games\Zhadnost - The People's Party"
+	description "Games\Zhadnost - The People's Party"
+	rom ( name "Zhadnost - The People's Party.cue" size 948 crc 44cb821a md5 9fa777c562400f2dee998c3834d2d6a0 sha1 c357fee0b38307fc6d2f69b7397f30198ba0bd80 )
 )
 
 game (
@@ -1692,6 +5124,24 @@ game (
 )
 
 game (
+	name "MISSING\3DO Magazine 03 (United Kingdom)"
+	description "MISSING\3DO Magazine 03 (United Kingdom)"
+	rom ( name "3DO Magazine 03 (United Kingdom).cue" size 98 crc AA374BE2 md5 DD525821D3636C10AAA33264087620BA sha1 5025AAB611EF3C460396394E833D03E41722F8F0 )
+)
+
+game (
+	name "MISSING\3DO Magazine 04 (United Kingdom)"
+	description "MISSING\3DO Magazine 04 (United Kingdom)"
+	rom ( name "3DO Magazine 04 (United Kingdom).cue" size 98 crc 37CD23DA md5 652FADA3BDA3D916DC22F7E1363B03F2 sha1 E38A0DEB3DAE59CA242F332278343085664D9A34 )
+)
+
+game (
+	name "MISSING\3DO Magazine 05 (United Kingdom)"
+	description "MISSING\3DO Magazine 05 (United Kingdom)"
+	rom ( name "3DO Magazine 05 (United Kingdom).cue" size 98 crc C3912C3B md5 7AFA1ECF077257971BE66CDBB62647A5 sha1 0DE23030336AE2A25F58D04B044A7CA93A9649AC )
+)
+
+game (
 	name "Montana Jones (1995)(Future Pirates Junior)(JP)[!]"
 	description "Montana Jones (1995)(Future Pirates Junior)(JP)[!]"
 	rom ( name "Montana Jones (1995)(Future Pirates Junior)(JP)[!].cue" size 139 crc 40b50755 md5 ac62e63ca424aa7d7a88b4c9651c1ab4 sha1 c16ef967376ba1ce58795dfa953eaa6c69991d91 )
@@ -1707,6 +5157,390 @@ game (
 	name "Multimedia Shinsho - Driving School (Futsuu Menkyo Gakka-hen) (1995)(JISC Life Support)(JP)"
 	description "Multimedia Shinsho - Driving School (Futsuu Menkyo Gakka-hen) (1995)(JISC Life Support)(JP)"
 	rom ( name "Multimedia Shinsho - Driving School (Futsuu Menkyo Gakka-hen) (1995)(JISC Life Support)(JP).cue" size 181 crc 6521baa8 md5 5877d5731b27c8f185ecbf5f86426c79 sha1 743960cd8c123bf7085ffe223c638ca5ce30754b )
+)
+
+game (
+	name "Multimedia\20th Century Video Almanac, The"
+	description "Multimedia\20th Century Video Almanac, The"
+	rom ( name "20th Century Video Almanac, The.cue" size 950 crc 27a57895 md5 0d84f81a27dab7743a8d556419a8eecb sha1 64ea79c7cb6ea0624463db2e46232d695f892113 )
+)
+
+game (
+	name "Multimedia\3D Atlas"
+	description "Multimedia\3D Atlas"
+	rom ( name "3D Atlas.cue" size 927 crc ebd4a830 md5 bec7e30c97acc79b8f2f5962675f0f51 sha1 4e9510ee5e277f6ee8c8021c1949689221c5f724 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 1)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 1)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 1).cue" size 1008 crc 0e89c3ea md5 7a737c79c7e5324777bd378d5bca2369 sha1 8eb5b78486e12d615e289e4e512be633af8a2246 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 10)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 10)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 10).cue" size 1009 crc 1402e60a md5 012c9cae399b6c610f2547eb0eaddf78 sha1 d529c4635ea9207d486470a364e25a6f59d49e3e )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 11)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 11)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 11).cue" size 1009 crc 5986554f md5 71d3e619ad5b3d1afbdae1b05d24b6ec sha1 271c585e1ac737befff9145439aa9acb7abde5c3 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 12)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 12)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 12).cue" size 1009 crc bb040bcd md5 cf9ffe8b4f8af819b31e25b3c20f1c0e sha1 0a9704d7cac3d3c96123da215d9c3d3a9ed913eb )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 13)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 13)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 13).cue" size 1009 crc cea8ac33 md5 2f162247d0fec00984ffacf9ff62b738 sha1 f4a5eadb58fd5c4923ee403959142b0144c817c4 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 14)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 14)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 14).cue" size 1009 crc 070997f4 md5 7203c24c0122ea5ddba4a6ce0345c89e sha1 301af3ad316826d300a76a0b0e5ad8709fb94203 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 15)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 15)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 15).cue" size 1009 crc 54265887 md5 72fb7b107b0b0c25ee30cf8d663002f5 sha1 79c6417f156fccfd954824521badc8de4e3c64f7 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 16)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 16)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 16).cue" size 1009 crc 20a168a6 md5 cc1710fce872afd54861bcc508b6ff88 sha1 ae114f5ee0ace5ab5f315982df13eed02496bd4e )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 17)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 17)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 17).cue" size 1009 crc 9dbab99e md5 0c302de87495e6e28e38c70445f5ba67 sha1 dbb6023cd103a141271c1cafb628f4c56bbaaefb )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 18)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 18)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 18).cue" size 1009 crc 16f7f3d1 md5 f22d17df585a2554e7066bff6c2fcbcc sha1 5a932084ad1fc654acde097c8f7806d9cbb1b98b )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 19)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 19)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 19).cue" size 1009 crc 69eeeb85 md5 bf53da34b9f12e66807a12d17202c45d sha1 4eacc9514359c6ebe47b4141dc73b9624270f9f8 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 2)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 2)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 2).cue" size 1008 crc b04cd340 md5 1b034712717293a4eb9e02ad0a4da1c1 sha1 f56d641a8c3babf23d9440046aa1d982ebbb406c )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 20)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 20)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 20).cue" size 1009 crc 8c133c61 md5 a24e09bdf22155e260365049db57aef0 sha1 157a0a17629c9f77dceb76bf24711074428d4ce4 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 21)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 21)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 21).cue" size 1009 crc d33fe111 md5 39b9c990a2d9320aede87e0f04d61763 sha1 925cddf6d6ba290d2d6d6fee7efc0bfba00e0514 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 22)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 22)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 22).cue" size 1009 crc ccb7ccfe md5 62e2d125ca73e537d18b4b67f853f808 sha1 4a1e16f660c639c7ba68e10fb4f845499114cba0 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 23)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 23)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 23).cue" size 1009 crc 477ff879 md5 6c6c33bace69d6a5b3d5132f3e62eae7 sha1 fbe16b383b6d82b53d98038207469dd0d9ffbf2d )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 24)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 24)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 24).cue" size 1009 crc 3ce425f6 md5 67f7f3a53bbb91e07e6a0cdd1e8cd298 sha1 3e3becd1e0285871216669d310e8ca54f6cb752e )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 25)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 25)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 25).cue" size 1009 crc 5737aef9 md5 6f04703f7eea6b1f64e5669e61d8da72 sha1 332716322401658265ba1c5e6fb22bce412ae8aa )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 3)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 3)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 3).cue" size 1008 crc 7982d694 md5 2f5ee54b5f5fc2d2cfcb79d3b7c3ca87 sha1 53fb6db1757c1b9cacf798bf7a6aa51e885d4a98 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 4)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 4)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 4).cue" size 1008 crc d3782715 md5 f4eefb35cd95ee656558b1fee9386961 sha1 2a8273d3674f8e09b6307eb043db4a36e1e52e16 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 5)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 5)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 5).cue" size 1008 crc 9aa47c1b md5 d9aae69d3eabbcddd3fec8cf0138e387 sha1 8c8466fac21f77399edc87fcb63644fbc507ab62 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 6)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 6)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 6).cue" size 1008 crc 8ff2696b md5 e2634eef122322249052b21b915c8120 sha1 00dfc940014673acfed317fb47f12964468a94ad )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 7)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 7)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 7).cue" size 1008 crc 2be54841 md5 d9271c4851d400ed287f6b70786343df sha1 afacac85f7d15e2221b51d31f083885fd0199c15 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 8)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 8)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 8).cue" size 1008 crc 90babf54 md5 986cb041b22765b94d9dd7a539e10ce1 sha1 b44f49561c6d892e42540b7b886ea08bc4413132 )
+)
+
+game (
+	name "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 9)"
+	description "Multimedia\3DO Content Library, The - Music & Sound Effects (Disc 9)"
+	rom ( name "3DO Content Library, The - Music & Sound Effects (Disc 9).cue" size 1008 crc 33de927c md5 ed8ec800e66fe8280407630f314b60b4 sha1 0222c5b656ffdef077c452b512db7a501799c0fb )
+)
+
+game (
+	name "Multimedia\Aqua World - Umibi Monogatari"
+	description "Multimedia\Aqua World - Umibi Monogatari"
+	rom ( name "Aqua World - Umibi Monogatari.cue" size 948 crc 9c398746 md5 1f2cd0216869566ff37071e62b0c2966 sha1 6eecadd8994afa389a156f12cb9cc2f18af29673 )
+)
+
+game (
+	name "Multimedia\Carrier - Fortress at Sea"
+	description "Multimedia\Carrier - Fortress at Sea"
+	rom ( name "Carrier - Fortress at Sea.cue" size 114 crc F362DBDD md5 F800D6DBFEA5ECCA9166CDC51B99C90A sha1 191DAE3E9FCC01A43835C49B4B037186DDE2DA0F )
+)
+
+game (
+	name "Multimedia\Dennis Miller - That's News to Me"
+	description "Multimedia\Dennis Miller - That's News to Me"
+	rom ( name "Dennis Miller - That's News to Me.cue" size 952 crc 9ff05017 md5 b3eef494861df7997bf045b20802a55e sha1 fdf97a0d8b5a5df5892476487d02b8fec65160a3 )
+)
+
+game (
+	name "Multimedia\Digital Dreamware"
+	description "Multimedia\Digital Dreamware"
+	rom ( name "Digital Dreamware.cue" size 936 crc 3b9887bf md5 3b4db5064d412dad07b422c5e9d5c778 sha1 803b3e233f77abe9e4b89515d951791794ac311e )
+)
+
+game (
+	name "Multimedia\Diving Spot Guide - Marine Tour"
+	description "Multimedia\Diving Spot Guide - Marine Tour"
+	rom ( name "Diving Spot Guide - Marine Tour.cue" size 950 crc 92980ff7 md5 b5f2c731a2c7481b3764457265c132e7 sha1 9efe6f75e4f0d550c8cc5e9d6ba87e61c4f2ef0e )
+)
+
+game (
+	name "Multimedia\ESPN Baseball - Interactive Hitting"
+	description "Multimedia\ESPN Baseball - Interactive Hitting"
+	rom ( name "ESPN Baseball - Interactive Hitting.cue" size 954 crc 7d79ae24 md5 89742fb150581c495fde567e5ec19a70 sha1 9865d2a781e1d39ec96d3117727de9a6dc8f7933 )
+)
+
+game (
+	name "Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 1)"
+	description "Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 1)"
+	rom ( name "ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 1).cue" size 984 crc 0d03f5a2 md5 91478e0444072a38e320c9696efe9245 sha1 b08268595e669a68cc53db92a458009d2434c045 )
+)
+
+game (
+	name "Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 2)"
+	description "Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 2)"
+	rom ( name "ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 2).cue" size 984 crc 859f8378 md5 55676eb760cf63b793a53b6e91a3db6b sha1 3389f2112990fb2e8b7123aa345ada42a3d568f9 )
+)
+
+game (
+	name "Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 3)"
+	description "Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 3)"
+	rom ( name "ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 3).cue" size 984 crc a5da74e8 md5 33ea67cf61c8e123e3e13b1fc91c3b84 sha1 a07ec67e3bfd9f761ddd3a6f4467a9c2f96857c6 )
+)
+
+game (
+	name "Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 4)"
+	description "Multimedia\ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 4)"
+	rom ( name "ESPN Golf - Lower Your Score With Tom Kite - Shot Making (Disc 4).cue" size 984 crc 69f4d665 md5 774ed9f879edbe717c760be11a7a692b sha1 72a381fb4a797cdc4e77e3d7f0ca4a288ec6c0d3 )
+)
+
+game (
+	name "Multimedia\ESPN Golf - Tom Kite no Kore ga Golf Da! (Disc 1)"
+	description "Multimedia\ESPN Golf - Tom Kite no Kore ga Golf Da! (Disc 1)"
+	rom ( name "ESPN Golf - Tom Kite no Kore ga Golf Da! (Disc 1).img" size 754549824 crc f0b5545b md5 71b9c5787ee48cb0bdb146b6ce07bbd6 sha1 57c19d46a61c93ec4542b2be20b4405458ce8ff5 )
+)
+
+game (
+	name "Multimedia\ESPN Golf - Tom Kite no Kore ga Golf Da! (Disc 2)"
+	description "Multimedia\ESPN Golf - Tom Kite no Kore ga Golf Da! (Disc 2)"
+	rom ( name "ESPN Golf - Tom Kite no Kore ga Golf Da! (Disc 2).img" size 738894912 crc d995a485 md5 7fea9ff8bd83ef235dcbd27ab29eac63 sha1 a3586752b37a59a15533a4bece7b0797794ed404 )
+)
+
+game (
+	name "Multimedia\ESPN Golf - Tom Kite no Kore ga Golf Da! (Disc 3)"
+	description "Multimedia\ESPN Golf - Tom Kite no Kore ga Golf Da! (Disc 3)"
+	rom ( name "ESPN Golf - Tom Kite no Kore ga Golf Da! (Disc 3).img" size 328254528 crc 7410f0b1 md5 d5bb0445eaf871cf16f5ac76d1628690 sha1 535ee8e0c52081351ee591cb0781346a86ac9036 )
+)
+
+game (
+	name "Multimedia\ESPN Let's Go Skiing with Picabo Street, A. J. Kitt & Holly Flanders"
+	description "Multimedia\ESPN Let's Go Skiing with Picabo Street, A. J. Kitt & Holly Flanders"
+	rom ( name "ESPN Let's Go Skiing with Picabo Street, A. J. Kitt & Holly Flanders.cue" size 987 crc 1e3c0c3e md5 46328281c1781f0d381aeb67c5d5c677 sha1 bc7207121088222882b614654f8c4f32c6605593 )
+)
+
+game (
+	name "Multimedia\ESPN Let's Play Beach Volleyball with Karch Kiraly & Karolyn Kirby"
+	description "Multimedia\ESPN Let's Play Beach Volleyball with Karch Kiraly & Karolyn Kirby"
+	rom ( name "ESPN Let's Play Beach Volleyball with Karch Kiraly & Karolyn Kirby.cue" size 985 crc 6074ae69 md5 d349f1134943d211c91dfaaa11ad1277 sha1 20dab9131f4777262d4294228559aed25bdcd30c )
+)
+
+game (
+	name "Multimedia\ESPN Let's Play Soccer with John Harkes and Mia Hamm"
+	description "Multimedia\ESPN Let's Play Soccer with John Harkes and Mia Hamm"
+	rom ( name "ESPN Let's Play Soccer with John Harkes and Mia Hamm.cue" size 141 crc 79E62AEB md5 4EB08938C051332DF4D8CE842F204A64 sha1 297441D7E1CB2C0BE4676340C7FBB125E4F71B58 )
+)
+
+game (
+	name "Multimedia\ESPN Let's Play Tennis with Tracy Austin"
+	description "Multimedia\ESPN Let's Play Tennis with Tracy Austin"
+	rom ( name "ESPN Let's Play Tennis with Tracy Austin.cue" size 959 crc 5e2d0311 md5 1b83a78fae9353c52055dff24187c562 sha1 5a99061056284b6de43cd017dcbd4cd435a78d10 )
+)
+
+game (
+	name "Multimedia\ESPN Step Aerobics"
+	description "Multimedia\ESPN Step Aerobics"
+	rom ( name "ESPN Step Aerobics.cue" size 937 crc 4f4594de md5 a3e72c8457818f53ac328e92b8fa5f9a sha1 8f6f7c980ba8971c69fd1e682b066ccb9ff9b844 )
+)
+
+game (
+	name "Multimedia\Futsuu Menkyo Gakka-hen"
+	description "Multimedia\Futsuu Menkyo Gakka-hen"
+	rom ( name "Futsuu Menkyo Gakka-hen.cue" size 942 crc bd67d884 md5 fd32cf6f8ac8416d78b4537951c0a073 sha1 e35b6fa12c5d176ddedda384b2c6ecb68ee7c109 )
+)
+
+game (
+	name "Multimedia\Life Stage, The - Virtual House"
+	description "Multimedia\Life Stage, The - Virtual House"
+	rom ( name "Life Stage, The - Virtual House.cue" size 950 crc 1d0cf390 md5 4b81f4cb66b60c552ecd375847230a7d sha1 408c58995c2436194eaf73f97f5dbf607069d2d8 )
+)
+
+game (
+	name "Multimedia\Life Stage, The - Virtual House"
+	description "Multimedia\Life Stage, The - Virtual House"
+	rom ( name "Life Stage, The - Virtual House.img" size 470352960 crc ed4c1363 md5 5001a77df8b4f30ef4641c26883c4f23 sha1 136e8027c1f7aeb53497489dda54fcff4dfb4185 )
+)
+
+game (
+	name "Multimedia\Life Stage, The - Virtual House (South Korea)"
+	description "Multimedia\Life Stage, The - Virtual House (South Korea)"
+	rom ( name "Life Stage, The - Virtual House (South Korea).cue" size 964 crc 682e199f md5 382b705705d48e13b694a1d7fc0e3afa sha1 5751a23e46c230df5340e0236019976c9a301bfb )
+)
+
+game (
+	name "Multimedia\Little House, The"
+	description "Multimedia\Little House, The"
+	rom ( name "Little House, The.cue" size 958 crc 343512ea md5 ade83ff1011b6a6d5df95ad932747061 sha1 6e831d3e80c903b76a571f595c11723bb22b7f48 )
+)
+
+game (
+	name "Multimedia\Mirai Shounen Conan Digital Library"
+	description "Multimedia\Mirai Shounen Conan Digital Library"
+	rom ( name "Mirai Shounen Conan Digital Library.img" size 771060864 crc 96a26e97 md5 f26c64eff023305e1461a9ccaf6afbcd sha1 6b12546b158fe591777078cc946a7580b1eff6c0 )
+)
+
+game (
+	name "Multimedia\Nice Body - Oar Star Suieitaikai Official CD-ROM"
+	description "Multimedia\Nice Body - Oar Star Suieitaikai Official CD-ROM"
+	rom ( name "Nice Body - Oar Star Suieitaikai Official CD-ROM.cue" size 989 crc 3d103c52 md5 55e3087e23f5d1c6313ea02dacdc8031 sha1 a90d8fd9b01bdb48a4b2dc260a7f9e5cfc2b25e6 )
+)
+
+game (
+	name "Multimedia\Oceans Below"
+	description "Multimedia\Oceans Below"
+	rom ( name "Oceans Below.cue" size 931 crc fa2ed461 md5 7fe4801894f1609836a495378731b281 sha1 f371bb2ea42a4189c5d0be170c74fc34458523b6 )
+)
+
+game (
+	name "Multimedia\Oceans Below"
+	description "Multimedia\Oceans Below"
+	rom ( name "Oceans Below.cue" size 101 crc ACF5F537 md5 5F4934C8A6AC5E4AC7B3478194342452 sha1 B08C95D0A3FE52EB358E51648745640E80AC79D9 )
+)
+
+game (
+	name "Multimedia\Reika - Virtual Puppet"
+	description "Multimedia\Reika - Virtual Puppet"
+	rom ( name "Reika - Virtual Puppet.cue" size 941 crc 61fee72a md5 a53a163f12720155ba0ae2e6281bc1b0 sha1 2318b35e7e746086b00536a126fb0a0041bd60a9 )
+)
+
+game (
+	name "Multimedia\San Diego Zoo Presents...The Animals!, The"
+	description "Multimedia\San Diego Zoo Presents...The Animals!, The"
+	rom ( name "San Diego Zoo Presents...The Animals!, The.cue" size 961 crc 3e289738 md5 2601581b237a48b125dd827ab03aede7 sha1 ea4662e57bec4575aa006d1dbd6f686d6590d38f )
+)
+
+game (
+	name "Multimedia\Sid Meier's C.P.U. Bach"
+	description "Multimedia\Sid Meier's C.P.U. Bach"
+	rom ( name "Sid Meier's C.P.U. Bach.cue" size 942 crc e5474156 md5 b403e8807f03ee67d910e63d8b25cd35 sha1 99b54e114da2fe90c914264458478f223d95312b )
+)
+
+game (
+	name "Multimedia\Space Shuttle"
+	description "Multimedia\Space Shuttle"
+	rom ( name "Space Shuttle.img" size 589571136 crc EDE3A3E4 md5 2272D5D69B91B29BA84112A2A0BA46DC sha1 E30E8223FBAD33D249C818D0995A266D936ECC47 )
+)
+
+game (
+	name "Multimedia\ToonTime ...in the classroom"
+	description "Multimedia\ToonTime ...in the classroom"
+	rom ( name "ToonTime ...in the classroom.cue" size 947 crc fe292f1f md5 a2942a571851f2a890b1eb5de257f162 sha1 91efc5abfe760504cd2f0af9b7514ea0c3982058 )
+)
+
+game (
+	name "Multimedia\Woody Woodpecker and Friends - Volume One"
+	description "Multimedia\Woody Woodpecker and Friends - Volume One"
+	rom ( name "Woody Woodpecker and Friends - Volume One.cue" size 960 crc 14907ad8 md5 4009b8356c2e0a5f6a5cc97e99e5bdb7 sha1 d75d2cab0dca910003fe5bf51f1b3acde9185c96 )
+)
+
+game (
+	name "Multimedia\Woody Woodpecker and Friends - Volume Three"
+	description "Multimedia\Woody Woodpecker and Friends - Volume Three"
+	rom ( name "Woody Woodpecker and Friends - Volume Three.cue" size 962 crc 76160364 md5 16cddc7da4e311d717595c13d0134794 sha1 e418768ddd37b2d9e0297ab80333213966ae60e2 )
+)
+
+game (
+	name "Multimedia\Woody Woodpecker and Friends - Volume Two"
+	description "Multimedia\Woody Woodpecker and Friends - Volume Two"
+	rom ( name "Woody Woodpecker and Friends - Volume Two.cue" size 960 crc 0127acc1 md5 5da75b7c3bee128e4eed4bace5c3eacd sha1 d4fffe4a62bb56f9e7f20951d50b0964dfda2689 )
+)
+
+game (
+	name "Multimedia\Worldcup Super Stadium"
+	description "Multimedia\Worldcup Super Stadium"
+	rom ( name "Worldcup Super Stadium.cue" size 111 crc 8AB38ADE md5 348000A3F2040AD7EC01520D0C17E121 sha1 C0EE3093854C78C8B1821D2B73CE61045C877A2D )
+)
+
+game (
+	name "Multimedia\Yamada Kamachi Bijutsukan"
+	description "Multimedia\Yamada Kamachi Bijutsukan"
+	rom ( name "Yamada Kamachi Bijutsukan.cue" size 944 crc d9d33e75 md5 fe69d476342708f84d9d9f5d2021572e sha1 662c53cc6ea3a5078c6049207a0ac5928bc664cc )
 )
 
 game (
@@ -2445,6 +6279,288 @@ game (
 	name "Sampler III and 3DO Storage Manager (1994)(Panasonic)(US)"
 	description "Sampler III and 3DO Storage Manager (1994)(Panasonic)(US)"
 	rom ( name "Sampler III and 3DO Storage Manager (1994)(Panasonic)(US).cue" size 146 crc b5c50cf1 md5 1a3a40230263acd8daef5ea7312e3442 sha1 815fc188a8d1d532b667316b5519f4ec780c3f4f )
+)
+
+game (
+	name "Samplers\3DO Interactive Sampler CD #2, The"
+	description "Samplers\3DO Interactive Sampler CD #2, The"
+	rom ( name "3DO Interactive Sampler CD #2, The.cue" size 953 crc b4a1a34d md5 40de08e253cf285fed2e337f1293978a sha1 08792ebc721c64ace05db2812ddadc7107f24ece )
+)
+
+game (
+	name "Samplers\3DO Interactive Sampler CD #3, The"
+	description "Samplers\3DO Interactive Sampler CD #3, The"
+	rom ( name "3DO Interactive Sampler CD #3, The.cue" size 953 crc c4537768 md5 9dc076155a247a1aa03ee939b552889d sha1 2f308745a96ef070051d0a7cb41ba8b0dd417e5c )
+)
+
+game (
+	name "Samplers\3DO Interactive Sampler CD 4, The"
+	description "Samplers\3DO Interactive Sampler CD 4, The"
+	rom ( name "3DO Interactive Sampler CD 4, The.cue" size 952 crc 72429bd2 md5 f9294e588534b07d90f0574eca9002de sha1 9dad598504f5da4603c37ab238907bf5705d29a6 )
+)
+
+game (
+	name "Samplers\3DO Interactive Sampler CD, The"
+	description "Samplers\3DO Interactive Sampler CD, The"
+	rom ( name "3DO Interactive Sampler CD, The.cue" size 950 crc d3585e7b md5 7d29b3c8fd27e12962dd91a3f6252eac sha1 aab1b8af5139854b89c7f2ccd382059f58c06775 )
+)
+
+game (
+	name "Samplers\3DO Multi Game Sampler Number 3, The"
+	description "Samplers\3DO Multi Game Sampler Number 3, The"
+	rom ( name "3DO Multi Game Sampler Number 3, The.cue" size 125 crc 7A370BF0 md5 60CB1E96C4E35D2B93FD5584E51D1484 sha1 CFEF7ECC1D712A7BCEEE3B79E293D490D9547F27 )
+)
+
+game (
+	name "Samplers\3DO REAL - Tokubetsu Puremiamu CD - Hatsubai 1 Shuuren"
+	description "Samplers\3DO REAL - Tokubetsu Puremiamu CD - Hatsubai 1 Shuuren"
+	rom ( name "3DO REAL - Tokubetsu Puremiamu CD - Hatsubai 1 Shuuren.cue" size 973 crc c3040f81 md5 87d40061eb3d2e77a67acf7947800777 sha1 e6dc4d58fceb9de6c218200a2f28314be20f0cad )
+)
+
+game (
+	name "Samplers\Alone in the Dark (Demo)"
+	description "Samplers\Alone in the Dark (Demo)"
+	rom ( name "Alone in the Dark (Demo).cue" size 943 crc c764981c md5 88519fe1a599d5194d49dae42b5699dc sha1 b0794dd0b2700daedda6bd4e02e9b0b89ef8b5e0 )
+)
+
+game (
+	name "Samplers\Alone in the Dark (Sample)"
+	description "Samplers\Alone in the Dark (Sample)"
+	rom ( name "Alone in the Dark (Sample).cue" size 967 crc 2d70e1b9 md5 a83b9c9b477c29b787e3e354eeb15333 sha1 dde661923023e82c5e55e87048d39b6426eb07e9 )
+)
+
+game (
+	name "Samplers\Bishoujo Senshi Sailor Moon S (Demo)"
+	description "Samplers\Bishoujo Senshi Sailor Moon S (Demo)"
+	rom ( name "Bishoujo Senshi Sailor Moon S (Demo).cue" size 977 crc 8bd5f4ab md5 b3f0d74e2b79ff42616f949d265054eb sha1 afa62398276b38078a6e9458b17a89a80c336df0 )
+)
+
+game (
+	name "Samplers\Daedalus - Episode 1 - Nanpasen no Alien (Demo)"
+	description "Samplers\Daedalus - Episode 1 - Nanpasen no Alien (Demo)"
+	rom ( name "Daedalus - Episode 1 - Nanpasen no Alien (Demo).cue" size 988 crc 65868a05 md5 8648159361d2dae683542ebb7aa74cc4 sha1 9dede49e7b8bba4903ecb0a22220ce350b884d63 )
+)
+
+game (
+	name "Samplers\Doraemons, The - Yuujou Densetsu (Demo)"
+	description "Samplers\Doraemons, The - Yuujou Densetsu (Demo)"
+	rom ( name "Doraemons, The - Yuujou Densetsu (Demo).cue" size 980 crc 8ac10db5 md5 2f93d24ed0038fc592cc235dd991b4f2 sha1 a411ba8ea1d13a6289dfd7482fa2a8864a83b00c )
+)
+
+game (
+	name "Samplers\Hyper REAL Club Demo CD (AutoBahn Tokio) (Disc 1)"
+	description "Samplers\Hyper REAL Club Demo CD (AutoBahn Tokio) (Disc 1)"
+	rom ( name "Hyper REAL Club Demo CD (AutoBahn Tokio) (Disc 1).cue" size 990 crc c115d72b md5 5d8d25a6fda575c1d8ff39cb02acb179 sha1 cb4147fb9be273d37c6a8e11d1fc6d006197cddf )
+)
+
+game (
+	name "Samplers\Hyper REAL Club Demo CD (Pro Yakyuu Virtual Stadium) (Disc 2)"
+	description "Samplers\Hyper REAL Club Demo CD (Pro Yakyuu Virtual Stadium) (Disc 2)"
+	rom ( name "Hyper REAL Club Demo CD (Pro Yakyuu Virtual Stadium) (Disc 2).cue" size 1002 crc 9674bd83 md5 3a8d430bd1bbe8a86fc51a05848c6318 sha1 bf0d7bba2792a4295ef251bea0cf70e839768987 )
+)
+
+game (
+	name "Samplers\Interplay 3DO Buffet, The"
+	description "Samplers\Interplay 3DO Buffet, The"
+	rom ( name "Interplay 3DO Buffet, The.cue" size 114 crc C0352CC8 md5 C6ECBBF24112D0F24444989CAF8971F3 sha1 7A516C1928F33BCB2A1757D7E4D21B57F8F655EA )
+)
+
+game (
+	name "Samplers\J.League Virtual Stadium (Sample)"
+	description "Samplers\J.League Virtual Stadium (Sample)"
+	rom ( name "J.League Virtual Stadium (Sample).cue" size 952 crc 69a7d1fe md5 383fc7d7ab494c3ed8a04606162433a4 sha1 f4de32a995688f17ec41d91560685db7579e0175 )
+)
+
+game (
+	name "Samplers\Montana Jones (Demo)"
+	description "Samplers\Montana Jones (Demo)"
+	rom ( name "Montana Jones (Demo).cue" size 961 crc 8c0c0886 md5 9c582e471edcfe05effb77f7bdc58a08 sha1 066b6bb0be3e541425da812cbe110d48fed6294d )
+)
+
+game (
+	name "Samplers\Oyaji Hunter Mahjong (Sample)"
+	description "Samplers\Oyaji Hunter Mahjong (Sample)"
+	rom ( name "Oyaji Hunter Mahjong (Sample).cue" size 948 crc 697a6133 md5 e32d8b87ff0d016a90861aa1692f79fb sha1 11827adb49507f3214c5279469af45cc0e664bf1 )
+)
+
+game (
+	name "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Demonstration CD"
+	description "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Demonstration CD"
+	rom ( name "Panasonic REAL 3DO Interactive Multiplayer - Demonstration CD.cue" size 980 crc a815f5fc md5 1d096d6e9b939232a86b4a9243661d43 sha1 6fc4b35a88967d00880049c78c27011cccf1db9d )
+)
+
+game (
+	name "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (1)"
+	description "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (1)"
+	rom ( name "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (1).cue" size 978 crc fab2426b md5 46a9f469e1ba579d07e69ddc08a64ec3 sha1 83b011c72ca0110fdbdf3bf498ca2402b556c146 )
+)
+
+game (
+	name "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (2,6,8)"
+	description "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (2,6,8)"
+	rom ( name "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (2,6,8).cue" size 982 crc fdaab0c5 md5 d7c26ccc5582307b282d9549eeb3d39d sha1 fb1284dc81d191306e86d973b20da04aee57b5be )
+)
+
+game (
+	name "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (A)"
+	description "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (A)"
+	rom ( name "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (A).cue" size 978 crc 5b2b4fc4 md5 050be3391deb89cde3b6c82f74aedb1e sha1 18c06f2a91a675a90e04579c7f9ed57357d3cc40 )
+)
+
+game (
+	name "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (B)"
+	description "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (B)"
+	rom ( name "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD (B).cue" size 978 crc 0041464f md5 2b8c1f4425fde6f67f7a15d38d3ba61c sha1 8ca2d4eebc7ae576e6e52ced9d92f1945f2f4f71 )
+)
+
+game (
+	name "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD For PAL system"
+	description "Samplers\Panasonic REAL 3DO Interactive Multiplayer - Sampler CD For PAL system"
+	rom ( name "Panasonic REAL 3DO Interactive Multiplayer - Sampler CD For PAL system.cue" size 989 crc 4c4cc4be md5 3f44e3a131ef3a26d2c343fcf4a920f1 sha1 8458f936ceab07291d57178d190a7a9ce20e98fe )
+)
+
+game (
+	name "Samplers\Panasonic Special CD-ROM"
+	description "Samplers\Panasonic Special CD-ROM"
+	rom ( name "Panasonic Special CD-ROM.cue" size 113 crc A43C30B0 md5 8C229AF67B4EB99BBAB01574A85E5C48 sha1 BB3814B508CB5AD102EAF6D88E20E41A147421E7 )
+)
+
+game (
+	name "Samplers\Perfect World - Combat in a Digital World"
+	description "Samplers\Perfect World - Combat in a Digital World"
+	rom ( name "Perfect World - Combat in a Digital World.cue" size 960 crc 32567547 md5 390fa445d0f1595b301354a1f15bc0d8 sha1 566bb3ad686a59f10c45d29c46450642654bfc76 )
+)
+
+game (
+	name "Samplers\Perfect World - Combat in a Digital World (Demo)"
+	description "Samplers\Perfect World - Combat in a Digital World (Demo)"
+	rom ( name "Perfect World - Combat in a Digital World (Demo).cue" size 967 crc f0681535 md5 813c9d8731c5cf12e6a4995a06c634dc sha1 582ec0f5a5ae5f680561611c1b585ce24a75d226 )
+)
+
+game (
+	name "Samplers\Puzzle Bobble (Demo)"
+	description "Samplers\Puzzle Bobble (Demo)"
+	rom ( name "Puzzle Bobble (Demo).cue" size 961 crc dea8a43e md5 dd6199fcd6e24389a390491113fb287d sha1 68bcaa110da81a63af1d3b293ff11cd373c4b15a )
+)
+
+game (
+	name "Samplers\Road & Track Presents - OverDrivin' Sampler CD (Demo)"
+	description "Samplers\Road & Track Presents - OverDrivin' Sampler CD (Demo)"
+	rom ( name "Road & Track Presents - OverDrivin' Sampler CD (Demo).cue" size 972 crc ffb7eb69 md5 bb8777d956382fdcfdf0c1df21ead20b sha1 e5123555fd6606864e516c9b1409b729bac783f8 )
+)
+
+game (
+	name "Samplers\Road Rash (Demo)"
+	description "Samplers\Road Rash (Demo)"
+	rom ( name "Road Rash (Demo).cue" size 935 crc b221bd97 md5 32a7141da1d6a33681d6f5b2dfe1e934 sha1 05749c7c9699f905dbe639bc17560762e6cb1347 )
+)
+
+game (
+	name "Samplers\Sample This!"
+	description "Samplers\Sample This!"
+	rom ( name "Sample This!.cue" size 931 crc 394990d0 md5 d4c053ca562f8a1b304f7ef403964f63 sha1 8c3c0d8d961db58a875a1d8a8d3be00933271c20 )
+)
+
+game (
+	name "Samplers\Sampler III and 3DO Storage Manager (Not For Resale)"
+	description "Samplers\Sampler III and 3DO Storage Manager (Not For Resale)"
+	rom ( name "Sampler III and 3DO Storage Manager (Not For Resale).img" size 765387840 crc 4B021F24 md5 AA0307660096729840B5628DC3B35242 sha1 4BCFDECE2C73B496377564A649B06265F216B03C )
+)
+
+game (
+	name "Samplers\Scramble Cobra (Demo)"
+	description "Samplers\Scramble Cobra (Demo)"
+	rom ( name "Scramble Cobra (Demo).cue" size 962 crc cdaf47d2 md5 622d011b305ffef6b824911e4e6623cd sha1 95b2546860f11cb1b455e7f8a44f495c3d7e5008 )
+)
+
+game (
+	name "Samplers\Shock Wave - Operation JumpGate (Addon disc) (Demo)"
+	description "Samplers\Shock Wave - Operation JumpGate (Addon disc) (Demo)"
+	rom ( name "Shock Wave - Operation JumpGate (Addon disc) (Demo).cue" size 992 crc 66123230 md5 ab99464969ca64d45dc8d7e4dad636fd sha1 dae415ade48570bd3a8e999b6885f4f217e5057f )
+)
+
+game (
+	name "Samplers\Shock Wave (Demo)"
+	description "Samplers\Shock Wave (Demo)"
+	rom ( name "Shock Wave (Demo).cue" size 958 crc c1c543fd md5 86c5a41e9562b7c5e47beb14a1280f51 sha1 4c0d5984bf9c2e40850f6c01ee0c84609e877127 )
+)
+
+game (
+	name "Samplers\Shock Wave (Sample)"
+	description "Samplers\Shock Wave (Sample)"
+	rom ( name "Shock Wave (Sample).img" size 723592800 crc dd376dde md5 b946bd69657ae12c787ab597cab98181 sha1 530f7448ce98079ec59a6a61d34a63ac51e94e06 )
+)
+
+game (
+	name "Samplers\Sotsugyou Graduation Final (Demo)"
+	description "Samplers\Sotsugyou Graduation Final (Demo)"
+	rom ( name "Sotsugyou Graduation Final (Demo).cue" size 952 crc e4ae2b93 md5 acaa3a21fdeecda2c78dd3ebe2846f49 sha1 2b528f490cbbdee1f76428f5633e8f4bb50d5d9f )
+)
+
+game (
+	name "Samplers\Starblade (Demo)"
+	description "Samplers\Starblade (Demo)"
+	rom ( name "Starblade (Demo).cue" size 957 crc 09ca172a md5 884c67598f1b5e9b224bc6c388accf94 sha1 3878c8b7539cb227ce2a1c4dc98e3db0a0f38b15 )
+)
+
+game (
+	name "Samplers\Super Street Fighter II X - Grand Master Challenge (Demo)"
+	description "Samplers\Super Street Fighter II X - Grand Master Challenge (Demo)"
+	rom ( name "Super Street Fighter II X - Grand Master Challenge (Demo).cue" size 998 crc 7cd7ac59 md5 c97914e05a3e79f8f6103f9d27c489f2 sha1 8865757625cf591491346f86b3df8bf949e31c2d )
+)
+
+game (
+	name "Samplers\Sword & Sorcery (Demo)"
+	description "Samplers\Sword & Sorcery (Demo)"
+	rom ( name "Sword & Sorcery (Demo).cue" size 963 crc b1a9dfc5 md5 f7040a8399ebc73e411d95269bb846fa sha1 3774be92ee79991b882f82744649f066ec4ffa56 )
+)
+
+game (
+	name "Samplers\T&E VR Golf - Masters - Harukanaru Augusta 3 (Demo)"
+	description "Samplers\T&E VR Golf - Masters - Harukanaru Augusta 3 (Demo)"
+	rom ( name "T&E VR Golf - Masters - Harukanaru Augusta 3 (Demo).cue" size 970 crc 8a9086ea md5 6d7d65a3beb8ba53321f3367057b2b07 sha1 4b1a06e745671ffffbc1554ab02d9ddcc608e9cb )
+)
+
+game (
+	name "Samplers\Theme Park (Demo)"
+	description "Samplers\Theme Park (Demo)"
+	rom ( name "Theme Park (Demo).cue" size 936 crc c4aa2e3d md5 bfb9e69f862612023b6aab1d2bb6d18d sha1 7a8fa6eee63d83d2ca82b150bcf08a97c65b8d4f )
+)
+
+game (
+	name "Samplers\Total Eclipse (Sample)"
+	description "Samplers\Total Eclipse (Sample)"
+	rom ( name "Total Eclipse (Sample).cue" size 941 crc 5aeda90f md5 0505e4627e031d21441346fa4f440c64 sha1 2afbda3792d6e6806dab97d6518cc003db310eea )
+)
+
+game (
+	name "Samplers\Totsugeki Karakuri! Megadasu!! (Not For Resale)"
+	description "Samplers\Totsugeki Karakuri! Megadasu!! (Not For Resale)"
+	rom ( name "Totsugeki Karakuri! Megadasu!! (Not For Resale).cue" size 966 crc 14951113 md5 5001d8e18afc8d3422fee48ac6532929 sha1 4c98e923755d332e1621cf244c392c8de55db2f1 )
+)
+
+game (
+	name "Samplers\Totsugeki Kikan! Megadasu!! (Demo)"
+	description "Samplers\Totsugeki Kikan! Megadasu!! (Demo)"
+	rom ( name "Totsugeki Kikan! Megadasu!! (Demo).cue" size 123 crc C5FAF230 md5 8C4486625B0E4678FA0EF80563B79DB6 sha1 202FF710F581940AC52BE76A5F17CA3B30B674BA )
+)
+
+game (
+	name "Samplers\Uchuu Seifutsu Furopon-kun 2 (Demo)"
+	description "Samplers\Uchuu Seifutsu Furopon-kun 2 (Demo)"
+	rom ( name "Uchuu Seifutsu Furopon-kun 2 (Demo).cue" size 976 crc 25e1f506 md5 ad135e0d0081d2c3f56d680e9fc73aab sha1 47ab82778dbe6ed3654bb733a4567dd88a754c21 )
+)
+
+game (
+	name "Samplers\V Goal Soccer '96 (Demo)"
+	description "Samplers\V Goal Soccer '96 (Demo)"
+	rom ( name "V Goal Soccer '96 (Demo).cue" size 965 crc 4ace5c44 md5 f47c30683a4dee53abb95a70a715a61c sha1 b03d643c0c4ee3449f1ec45dd23c7012b635ebe1 )
+)
+
+game (
+	name "Samplers\Yuu Yuu Hakusho (Demo)"
+	description "Samplers\Yuu Yuu Hakusho (Demo)"
+	rom ( name "Yuu Yuu Hakusho (Demo).cue" size 963 crc 6c3fd220 md5 651e1d9f5e90cd486910e0405c4d59b8 sha1 2a62f0cc26b69df430095739fb9764324866f448 )
 )
 
 game (
